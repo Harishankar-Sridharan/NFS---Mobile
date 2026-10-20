@@ -1,5 +1,5 @@
-﻿# Table of contents
+# Table of contents
 
 * [App Launch](README.md)
   * [Login](app-launch/app-launch.md)
-* [Main Actions](main-actions.md)
+* [Dashboard](main-actions.md)
