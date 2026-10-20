@@ -2,7 +2,7 @@
 
 The dashboard is the home page of the NFS Mobile app. It opens after you log in and shows your day at a glance: your planned interventions, the progress of the day and shortcuts to find or resume an intervention.
 
-<figure><img src=".gitbook/assets/nfs-mobile-dashboard-home.png" alt="NFS Mobile dashboard" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-dashboard-home.png" alt="NFS Mobile dashboard" width="300"><figcaption></figcaption></figure>
 
 The dashboard contains the following areas, from top to bottom:
 
@@ -19,7 +19,7 @@ The header at the top of the screen shows:
 * Your photo and name.
 * A synchronization icon with a time next to it, shown in green.
 
-<figure><img src=".gitbook/assets/nfs-mobile-dashboard-header.png" alt="Dashboard header and shortcuts" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-dashboard-header.png" alt="Dashboard header and shortcuts" width="300"><figcaption></figcaption></figure>
 
 ### Shortcuts
 
@@ -46,7 +46,7 @@ To search by date, tap the calendar icon at the right of the search field.
 
 To go back to your schedule, tap **Going to my calendar** at the bottom of the screen. To return to the dashboard, tap the back arrow at the top left.
 
-<figure><img src=".gitbook/assets/nfs-mobile-dashboard-search.png" alt="Intervention search page" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-dashboard-search.png" alt="Intervention search page" width="300"><figcaption></figcaption></figure>
 
 #### In progress
 
@@ -65,7 +65,7 @@ Each intervention is displayed in a card that shows:
 
 To return to the dashboard, tap the back arrow at the top left.
 
-<figure><img src=".gitbook/assets/nfs-mobile-dashboard-in-progress.png" alt="My ongoing interventions page" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-dashboard-in-progress.png" alt="My ongoing interventions page" width="300"><figcaption></figcaption></figure>
 
 ### Day summary
 
@@ -91,4 +91,4 @@ The navigation bar at the bottom of the screen lets you move between the main pa
 * **Contacts** (two people)
 * **Settings** (gear)
 
-<figure><img src=".gitbook/assets/nfs-mobile-navigation-bar.png" alt="Navigation bar" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-navigation-bar.png" alt="Navigation bar" width="300"><figcaption></figcaption></figure>

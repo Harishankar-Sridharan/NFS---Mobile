@@ -2,4 +2,5 @@
 
 * [App Launch](README.md)
   * [Login](app-launch/app-launch.md)
-* [Dashboard](main-actions.md)
+* [Main Actions](main-actions/README.md)
+  * [Dashboard](main-actions/main-actions.md)
