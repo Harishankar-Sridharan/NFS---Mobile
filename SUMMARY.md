@@ -1,3 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
-* [App Launch](app-launch.md)
+* [App Launch](README.md)
+  * [Login](app-launch/app-launch.md)

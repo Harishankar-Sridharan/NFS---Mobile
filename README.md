@@ -1,4 +1,4 @@
-﻿# App Launch
+# App Launch
 
 ## Login
 
@@ -34,16 +34,6 @@ The app loads your data, then the dashboard opens.
 Tap the eye icon in the **Password** field to show or hide the characters you typed.
 {% endhint %}
 
-### The dashboard
-
-After a successful login, the dashboard shows your day at a glance:
-
-* **Today** and the date.
-* **Interventions of the day** – a progress bar and the number of interventions completed out of those planned.
-* **Route**, **Travel** and **Intervention** – the planned route time, travel distance and intervention time.
-* **Interventions** – the number of interventions planned.
-* The navigation bar at the bottom of the screen, to move between the app's pages.
-
 <figure><img src=".gitbook/assets/nfs-mobile-dashboard.png" alt="NFS Mobile dashboard" width="300"><figcaption></figcaption></figure>
 
 ### Log in with your company account
@@ -52,8 +42,6 @@ If your company uses single sign-on:
 
 1. On the login page, tap **Company login**.
 2. Follow the instructions on the screen.
-
-<!-- REVIEW: the video does not show the Company login flow. Confirm the steps. -->
 
 ### Troubleshooting
 
