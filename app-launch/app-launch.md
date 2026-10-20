@@ -1,54 +1,62 @@
-# Login
+﻿# Login
 
-Open the NFS Mobile app (**Nomadia Field Service**) on your device and sign in to access your daily dashboard.
+Sign in to NFS Mobile to open your dashboard.
 
-### Before you begin
+## Overview
 
-* A device on which the NFS Mobile app is installed.
-* Your **User Id** and **Password**.
-* The **URL server** of your NFS instance, provided by your site administrator.
+After you launch the app, the login page asks for your credentials and the address of your NFS server. Once you are signed in, the app loads your data and opens the [dashboard](../main-actions/dashboard.md).
 
-### Launch the app
+## Before you begin
+
+* NFS Mobile is installed on your device.
+* You have your **User Id** and **Password**.
+* You know the **URL server** of your NFS instance. Your site administrator provides it.
+
+## Launch the app
 
 1. On your device, find the **Nomadia Field Service** icon.
 2. Tap the icon.
 
-<figure><img src="../.gitbook/assets/nfs-mobile-app-icon.png" alt="Nomadia Field Service app icon" width="120"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-app-icon.png" alt="Nomadia Field Service app icon" width="120"><figcaption><p>Nomadia Field Service app icon</p></figcaption></figure>
 
-The login page opens. The app version is displayed at the bottom of the screen.
+The login page opens. The version of the app is displayed at the bottom of the screen.
 
-### Log in
+## Log in
 
 1. In **User Id**, enter your user ID.
 2. In **Password**, enter your password.
-3. Check the address in **URL server**. For example: `https://dev-mobile.nomadia-app.com/ot`
+3. In **URL server**, check the address of your NFS server. For example: `https://dev-mobile.nomadia-app.com/ot`
 4. Tap **Log in**.
 
-<figure><img src="../.gitbook/assets/nfs-mobile-login.png" alt="NFS Mobile login page" width="300"><figcaption></figcaption></figure>
-
-The app loads your data, then the dashboard opens.
+<figure><img src="../.gitbook/assets/nfs-mobile-login.png" alt="NFS Mobile login page" width="300"><figcaption><p>Login page</p></figcaption></figure>
 
 {% hint style="info" %}
 Tap the eye icon in the **Password** field to show or hide the characters you typed.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/nfs-mobile-dashboard.png" alt="NFS Mobile dashboard" width="300"><figcaption></figcaption></figure>
+The app loads your data, then opens the dashboard.
 
-### Log in with your company account
+<figure><img src="../.gitbook/assets/nfs-mobile-dashboard.png" alt="NFS Mobile dashboard" width="300"><figcaption><p>Dashboard displayed after a successful login</p></figcaption></figure>
+
+## Log in with your company account
 
 If your company uses single sign-on:
 
 1. On the login page, tap **Company login**.
 2. Follow the instructions on the screen.
 
-### Troubleshooting
+<!-- REVIEW: the video does not show the Company login flow. Confirm the steps. -->
 
-If the user ID or password is wrong, the message **Incorrect username or password** is displayed above the **Log in** button.
+## Troubleshooting
 
-<figure><img src="../.gitbook/assets/nfs-mobile-login-error.png" alt="Incorrect username or password message" width="300"><figcaption></figcaption></figure>
+| Message | Cause | Action |
+| ------- | ----- | ------ |
+| **Incorrect username or password** | The user ID or the password is wrong. | Check your credentials, then tap **Log in** again. |
 
-1. Tap the eye icon to display your password and check it.
-2. Correct the password.
-3. Tap **Log in** again.
+<figure><img src="../.gitbook/assets/nfs-mobile-login-error.png" alt="Incorrect username or password message" width="300"><figcaption><p>Message displayed when the login fails</p></figcaption></figure>
 
 If the problem continues, contact your site administrator.
+
+## Related topics
+
+* [Dashboard](../main-actions/dashboard.md)
