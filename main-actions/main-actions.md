@@ -14,11 +14,11 @@ The dashboard contains the following areas, from top to bottom:
 
 | Area | Description |
 | ---- | ----------- |
-| [Header](dashboard.md#header) | Your photo and name, and the synchronization indicator. |
-| [Shortcuts](dashboard.md#shortcuts) | **Search** and **In progress**. |
-| [Day summary](dashboard.md#day-summary) | The date, the progress of the day and the route, travel and intervention figures. |
-| [Interventions](dashboard.md#interventions) | The number of interventions in your list. |
-| [Navigation bar](dashboard.md#navigation-bar) | The icons to move between the main pages. |
+| [Header](main-actions.md#header) | Your photo and name, and the synchronization indicator. |
+| [Shortcuts](main-actions.md#shortcuts) | **Search** and **In progress**. |
+| [Day summary](main-actions.md#day-summary) | The date, the progress of the day and the route, travel and intervention figures. |
+| [Interventions](main-actions.md#interventions) | The number of interventions in your list. |
+| [Navigation bar](main-actions.md#navigation-bar) | The icons to move between the main pages. |
 
 ## Header
 

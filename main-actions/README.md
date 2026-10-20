@@ -10,7 +10,7 @@ This section covers:
 
 | Topic | Description |
 | ----- | ----------- |
-| [Dashboard](dashboard.md) | See your day at a glance, search for an intervention and list the interventions in progress. |
+| [Dashboard](main-actions.md) | See your day at a glance, search for an intervention and list the interventions in progress. |
 
 ## Related topics
 
