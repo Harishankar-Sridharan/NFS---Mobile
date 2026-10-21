@@ -4,3 +4,4 @@
   * [Login](app-launch/app-launch.md)
 * [Main Actions](main-actions/README.md)
   * [Dashboard](main-actions/main-actions.md)
+  * [Settings](main-actions/settings.md)
