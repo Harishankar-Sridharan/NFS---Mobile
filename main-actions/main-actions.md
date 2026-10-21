@@ -107,13 +107,13 @@ The navigation bar at the bottom of the screen lets you move between the main pa
 | ---- | ---- | ----------- |
 | Three horizontal lines | Menu | - |
 | Gauge | Dashboard | The current page, highlighted in blue. |
-| Calendar | Calendar | - |
+| Calendar | [Calendar](calendar.md) | See your interventions by day, open an intervention and view your visits on a map. |
 | Two people | Contacts | - |
 | Gear | [Settings](settings.md) | Clear the cache, read the conditions of use, send your logs and set your display preferences. |
 
 <figure><img src="../.gitbook/assets/nfs-mobile-navigation-bar.png" alt="Navigation bar" width="300"><figcaption><p>Navigation bar</p></figcaption></figure>
 
-<!-- REVIEW: the video does not open the Menu, Calendar or Contacts pages. Confirm the names and purpose of each icon. -->
+<!-- REVIEW: the video does not open the Menu or Contacts pages. Confirm the names and purpose of each icon. -->
 
 ## Related topics
 
