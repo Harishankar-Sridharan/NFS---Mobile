@@ -68,11 +68,21 @@ The **Intervention** page shows:
 * The type of intervention, for example **Controle 3h**, and the delay, for example **Late by 01h 02min**.
 * The **Task type**, for example **CONTROLE_3H - Controle 3h**.
 * The **Intervention status**, for example **Waiting**.
-* The **Accept** button.
+* The **Accept** button at the bottom of the screen. See [Accept an intervention](#accept-an-intervention).
 
-To accept the intervention, tap **Accept**. To return to the **Calendar** page, tap the back arrow at the top left.
+To return to the **Calendar** page, tap the back arrow at the top left.
 
-<!-- REVIEW: the video does not show what happens after Accept, nor the Docs, Photos and Reports pages or the three-dot menu at the top right. Confirm their behavior. -->
+<!-- REVIEW: the video does not show the Docs, Photos and Reports pages or the three-dot menu at the top right. Confirm their behavior. -->
+
+## Accept an intervention
+
+Accept an intervention to confirm that you will carry it out. A new intervention has the status **Waiting**.
+
+1. On the **Calendar** page, tap the intervention card.
+2. On the **Intervention** page, check the details of the intervention.
+3. Tap **Accept**.
+
+<!-- REVIEW: the video shows the Accept button but does not tap it. Confirm what happens after Accept: the new status (for example Accepted), any confirmation message, and which options appear next (for example starting the journey). -->
 
 ## View your interventions on the map
 
