@@ -34,7 +34,7 @@ At the bottom of the screen, the app shows what follows in your agenda, for exam
 Do not close the app while the data is being sent.
 {% endhint %}
 
-<!-- REVIEW: confirm what Cancel does on the Intervention page, what happens when there is no network while sending, and where Close leads. -->
+<!-- REVIEW: confirm what happens when there is no network while sending, and where Close leads. -->
 
 ## Related topics
 

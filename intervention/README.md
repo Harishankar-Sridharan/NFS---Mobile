@@ -14,6 +14,7 @@ This section covers:
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |
 | [Finish an Intervention](finish-an-intervention.md) | Finish the intervention and send your data. |
+| [Cancel an Intervention](cancel-an-intervention.md) | Cancel an intervention in progress and return it to the accepted state. |
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |
 
 ## Intervention statuses

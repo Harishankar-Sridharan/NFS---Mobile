@@ -11,4 +11,5 @@
   * [Fill in the Report](intervention/report.md)
   * [Add Photos and Remarks](intervention/photos-and-remarks.md)
   * [Finish an Intervention](intervention/finish-an-intervention.md)
+  * [Cancel an Intervention](intervention/cancel-an-intervention.md)
   * [Abandon an Intervention](intervention/abandon-an-intervention.md)
