@@ -11,7 +11,11 @@ If you cannot carry out an intervention, you can abandon it. When you abandon an
 * The intervention is accepted. Its status is **Accepted**. See [Accept an intervention](../main-actions/calendar.md#accept-an-intervention).
 * The intervention has not been started.
 
-{% hint style="warning" %}\r\nWhen you abandon an intervention, you decline all responsibility for its completion. Abandon an intervention only when you cannot carry it out.\r\n{% endhint %}\r\n\r\n<!-- REVIEW: confirm whether an abandoned intervention can be reopened or started again, and whether an intervention already started can still be abandoned. The video only abandons an accepted intervention. -->
+{% hint style="warning" %}
+When you abandon an intervention, you decline all responsibility for its completion. Abandon an intervention only when you cannot carry it out.
+{% endhint %}
+
+<!-- REVIEW: confirm whether an abandoned intervention can be reopened or started again, and whether an intervention already started can still be abandoned. The video only abandons an accepted intervention. -->
 
 ## Abandon the intervention
 
