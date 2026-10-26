@@ -14,6 +14,7 @@ This section covers:
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |
 | [Finish an Intervention](finish-an-intervention.md) | Finish the intervention and send your data. |
+| [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |
 
 ## Intervention statuses
 
@@ -25,6 +26,7 @@ The status of the intervention is displayed on the **Intervention** page.
 | **Accepted** | You have accepted the intervention. It is ready to start. |
 | **In progress** | You have started the intervention. A timer shows its elapsed time. |
 | **Completed** | You have finished the intervention. |
+| **Abandoned** | You have abandoned the intervention. See [Abandon an Intervention](abandon-an-intervention.md). |
 
 ## Before you begin
 

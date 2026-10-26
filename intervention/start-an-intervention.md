@@ -41,7 +41,7 @@ The message **Intervention started successfully** is displayed. The status chang
 
 The **Remarks** shortcut now appears next to **Docs**, **Photos** and **Reports**. The **Finish** and **Cancel** buttons replace **Begin** and **Abandon**.
 
-<!-- REVIEW: confirm what Abandon does, and the difference between Abandon and Cancel. The video does not tap them. -->
+To give up an accepted intervention instead of starting it, see [Abandon an Intervention](abandon-an-intervention.md).
 
 ## Check the details of the intervention
 
