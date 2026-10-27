@@ -35,7 +35,7 @@ Scroll down to see all the days.
 1. Turn the switch of a day on or off.
 2. To change a period, tap the clock icon next to a time, then select the time. See [Select a time](add-a-working-day.md#select-a-time).
 
-<!-- REVIEW: the video only scrolls through the Typical week page. Confirm how the changes are saved (save button or automatically), whether the typical week updates the next 15 days automatically, and what the small square icon next to each end time does. -->
+<!-- REVIEW: the videos only scroll through the Typical week page. Confirm how the changes are saved (save button or automatically), whether the typical week updates the next 15 days automatically, and what the small square icon next to each end time does. Also confirm why Saturday and Sunday are displayed in red in the list of working days although their switch is on here. -->
 
 ## Related topics
 
