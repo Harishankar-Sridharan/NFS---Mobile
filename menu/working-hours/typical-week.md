@@ -28,7 +28,11 @@ For each day of the week, the page shows:
 * The **Morning** period, with a start time and an end time, for example **07:30 → 10:00**.
 * The **Evening** period, with a start time and an end time, for example **15:00 → 18:00**.
 
-Scroll down to see all the days.
+Scroll down to see all the days. The page lists the seven days of the week, from **Monday** to **Sunday**.
+
+<figure><img src="../../.gitbook/assets/nfs-mobile-working-hours-typical-week-end.png" alt="End of the Typical week page" width="300"><figcaption><p>End of the Typical week page: Saturday and Sunday</p></figcaption></figure>
+
+In the example, the switch is turned on for all seven days, with the same morning and evening periods: **07:30 → 10:00** and **15:00 → 18:00**.
 
 ## Change the typical week
 
