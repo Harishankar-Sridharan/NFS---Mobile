@@ -12,6 +12,7 @@ This section covers:
 | ----- | ----------- |
 | [Choose the Site](choose-the-site.md) | Change the site of the new intervention. |
 | [Intervene Now](intervene-now.md) | Fill in the intervention and start it immediately. |
+| [Request a Slot](request-a-slot.md) | Ask the system to find the best slot for a new intervention. |
 
 ## Open the Create an intervention page
 
@@ -40,11 +41,9 @@ The page shows:
 | Action | Description |
 | ------ | ----------- |
 | **Intervene now** | Start immediately. An express slot is reserved for your pickup. See [Intervene Now](intervene-now.md). |
-| **Request a slot** | The system automatically finds the best slot based on your route. |
+| **Request a slot** | The system automatically finds the best slot based on your route. See [Request a Slot](request-a-slot.md). |
 
 To leave the page without creating an intervention, tap the cross at the top right. To go back, tap the back arrow at the top left.
-
-<!-- REVIEW: the video does not use Request a slot. Confirm how it works and what happens after it. -->
 
 ## Related topics
 

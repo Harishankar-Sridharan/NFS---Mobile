@@ -22,4 +22,5 @@
   * [Create an Intervention](intervention/create-an-intervention/README.md)
     * [Choose the Site](intervention/create-an-intervention/choose-the-site.md)
     * [Intervene Now](intervention/create-an-intervention/intervene-now.md)
+    * [Request a Slot](intervention/create-an-intervention/request-a-slot.md)
   * [Reschedule an Intervention](intervention/reschedule-an-intervention.md)
