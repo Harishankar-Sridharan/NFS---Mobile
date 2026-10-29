@@ -19,3 +19,7 @@
   * [Finish an Intervention](intervention/finish-an-intervention.md)
   * [Cancel an Intervention](intervention/cancel-an-intervention.md)
   * [Abandon an Intervention](intervention/abandon-an-intervention.md)
+  * [Create an Intervention](intervention/create-an-intervention/README.md)
+    * [Choose the Site](intervention/create-an-intervention/choose-the-site.md)
+    * [Intervene Now](intervention/create-an-intervention/intervene-now.md)
+  * [Reschedule an Intervention](intervention/reschedule-an-intervention.md)
