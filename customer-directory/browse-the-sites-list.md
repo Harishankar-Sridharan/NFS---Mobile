@@ -15,7 +15,7 @@ The **Sites** tab lists the sites around you. Each site shows how far it is from
 1. In the **Customer Directory**, make sure that the **Sites** tab is selected. It is highlighted in blue.
 2. Scroll down to see all the sites.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-sites.png" alt="List of sites" width="300"><figcaption><p>List of sites</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-sites.png" alt="List of sites" width="300"><figcaption><p>List of sites</p></figcaption></figure>
 
 For each site, the list shows:
 

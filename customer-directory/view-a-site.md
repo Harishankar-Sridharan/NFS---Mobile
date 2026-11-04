@@ -12,7 +12,7 @@ The page of a site gathers its address, its location on a map, its information, 
 
 ## Read the site page
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-site-detail.png" alt="Page of a site" width="300"><figcaption><p>Page of a site</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-site-detail.png" alt="Page of a site" width="300"><figcaption><p>Page of a site</p></figcaption></figure>
 
 The top of the page shows:
 
@@ -25,7 +25,7 @@ The top of the page shows:
 
 Scroll down to read the rest of the page.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-site-information.png" alt="Information of a site" width="300"><figcaption><p>Information of a site</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-site-information.png" alt="Information of a site" width="300"><figcaption><p>Information of a site</p></figcaption></figure>
 
 | Area | Description |
 | ---- | ----------- |
@@ -40,7 +40,7 @@ Scroll down to read the rest of the page.
 1. At the right of the address, tap the copy icon.
 2. The message **Text copied** is displayed at the bottom of the screen.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-site-map.png" alt="Text copied message" width="300"><figcaption><p>Text copied message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-site-map.png" alt="Text copied message" width="300"><figcaption><p>Text copied message</p></figcaption></figure>
 
 You can then paste the address in another app.
 

@@ -16,7 +16,7 @@ You can attach photos to a site, for example a photo of its entrance. The photos
 1. On the site page, tap the photo button at the right of the photo of the site, above the **Customer** label.
 2. The **List of photos** page opens. If the site has no photo yet, the message **No photos for the moment** is displayed.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-site-photos.png" alt="List of photos" width="300"><figcaption><p>List of photos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-site-photos.png" alt="List of photos" width="300"><figcaption><p>List of photos</p></figcaption></figure>
 
 3. At the bottom of the screen, tap the camera button to take a photo, or the gallery button to select an existing image.
 4. Take the photo.
@@ -25,7 +25,7 @@ You can attach photos to a site, for example a photo of its entrance. The photos
 
 If the file is too large, the message **File exceeds maximum size of 5242880 MB** is displayed at the bottom of the screen. Choose a smaller file.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-site-photo-size.png" alt="File size message" width="300"><figcaption><p>File size message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-site-photo-size.png" alt="File size message" width="300"><figcaption><p>File size message</p></figcaption></figure>
 
 To return to the site page, tap the back arrow at the top left.
 

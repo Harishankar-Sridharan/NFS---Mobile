@@ -8,7 +8,7 @@ The **Customer Directory** lists the sites that you work with. From the director
 
 The directory is organized in three tabs at the top of the screen: **Sites**, **Contacts** and **Leads**.
 
-<figure><img src="../../.gitbook/assets/nfs-mobile-contacts-sites.png" alt="Customer Directory, Sites tab" width="300"><figcaption><p>Customer Directory, Sites tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nfs-mobile-contacts-sites.png" alt="Customer Directory, Sites tab" width="300"><figcaption><p>Customer Directory, Sites tab</p></figcaption></figure>
 
 This section covers:
 
@@ -32,5 +32,5 @@ To use another tab, tap **Contacts** or **Leads** at the top of the screen.
 
 ## Related topics
 
-* [Dashboard](../main-actions.md)
-* [Create an Intervention](../../intervention/create-an-intervention/README.md)
+* [Dashboard](../main-actions/main-actions.md)
+* [Create an Intervention](../intervention/create-an-intervention/README.md)
