@@ -108,12 +108,12 @@ The navigation bar at the bottom of the screen lets you move between the main pa
 | Three horizontal lines | [Menu](../menu/README.md) | Open the menu: working hours, version note and log out. |
 | Gauge | Dashboard | The current page, highlighted in blue. |
 | Calendar | [Calendar](calendar.md) | See your interventions by day, open an intervention and view your visits on a map. |
-| Two people | Contacts | - |
+| Two people | [Contacts](customer-directory/README.md) | Find customer sites, read their details and act on them from the field. |
 | Gear | [Settings](settings.md) | Clear the cache, read the conditions of use, send your logs and set your display preferences. |
 
 <figure><img src="../.gitbook/assets/nfs-mobile-navigation-bar.png" alt="Navigation bar" width="300"><figcaption><p>Navigation bar</p></figcaption></figure>
 
-<!-- REVIEW: the video does not open the Contacts page. Confirm the names and purpose of each icon. -->
+<!-- REVIEW: the icons are not labeled in the app. Confirm the names of the icons. -->
 
 ## Related topics
 
