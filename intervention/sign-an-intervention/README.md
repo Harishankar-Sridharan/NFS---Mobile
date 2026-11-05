@@ -10,13 +10,14 @@ When an intervention requires a signature, the **Sign intervention** page opens 
 
 | Way to sign | Description |
 | ----------- | ----------- |
-| **By hand** | The signatory signs by hand on the screen. |
+| **By hand** | The customer and the technician sign by hand on the screen. See [Sign by Hand](sign-by-hand.md). |
 | **Securely** | The signatory signs the document electronically after a check of identity by SMS. See [Sign Securely](sign-securely.md). |
 
 This section covers:
 
 | Topic | Description |
 | ----- | ----------- |
+| [Sign by Hand](sign-by-hand.md) | Select the report and sign on the screen. |
 | [Sign Securely](sign-securely.md) | Sign the document electronically, with a code received by SMS. |
 | [Decline to Sign](decline-to-sign.md) | Refuse to sign and explain why. |
 
@@ -29,7 +30,7 @@ This section covers:
 2. Tap **Finish**. See [Finish an Intervention](../finish-an-intervention.md).
 3. On the **Sign intervention** page, tap **By hand** or **Securely**.
 
-<!-- REVIEW: the video shows the Securely way only. Confirm how the By hand signature works. The configuration decides whether the electronic signature is offered and whether it is mandatory. -->
+<!-- REVIEW: confirm which way is offered to your users. The configuration decides whether the electronic signature is available and whether it is mandatory. -->
 
 ## Related topics
 

@@ -13,6 +13,7 @@ This section covers:
 | [Dashboard](main-actions.md) | See your day at a glance, search for an intervention and list the interventions in progress. |
 | [Calendar](calendar.md) | See your interventions by day, open an intervention and view your visits on a map. |
 | [Settings](settings.md) | Clear the cache, read the conditions of use, send your logs and set your display preferences. |
+| [Refresh Your Data](refresh-your-data.md) | Reload your interventions and documents. |
 
 ## Related topics
 

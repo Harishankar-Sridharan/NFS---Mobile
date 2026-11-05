@@ -29,6 +29,8 @@ The header at the top of the screen shows:
 
 <figure><img src="../.gitbook/assets/nfs-mobile-dashboard-header.png" alt="Dashboard header and shortcuts" width="300"><figcaption><p>Header and shortcuts</p></figcaption></figure>
 
+To reload your data, see [Refresh Your Data](refresh-your-data.md).
+
 <!-- REVIEW: confirm what the green synchronization icon and the time (11h52 in the video) mean, and whether tapping the icon starts a synchronization. -->
 
 ## Shortcuts
