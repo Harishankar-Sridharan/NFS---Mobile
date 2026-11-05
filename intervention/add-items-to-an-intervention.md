@@ -65,5 +65,6 @@ At the bottom of the page, check:
 
 ## Related topics
 
+* [Price Calculation Setup](../configuration/price-calculation-setup.md)
 * [Fill in the Report](report.md)
 * [Finish an Intervention](finish-an-intervention.md)

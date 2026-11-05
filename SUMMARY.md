@@ -40,3 +40,8 @@
     * [Decline to Sign](intervention/sign-an-intervention/decline-to-sign.md)
   * [Add Items to an Intervention](intervention/add-items-to-an-intervention.md)
   * [View the Documents of an Intervention](intervention/documents.md)
+* [Mobile Configuration](configuration/README.md)
+  * [Application Settings for NFS Mobile](configuration/application-settings.md)
+  * [Signature Settings](configuration/signature-settings.md)
+  * [Search Around Settings](configuration/search-around-settings.md)
+  * [Price Calculation Setup](configuration/price-calculation-setup.md)
