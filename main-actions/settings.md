@@ -78,6 +78,12 @@ The **My Settings** section lets you choose how the app displays distances and d
 
 <!-- REVIEW: confirm that the Measurement unit and Date format apply to all pages of the app. -->
 
+## Privacy mode
+
+In **Personal data**, the **Privacy mode** switch stops the sharing of your position and hides the positions of your coworkers. See [Privacy Mode](../menu/coworkers/privacy-mode.md).
+
+<!-- REVIEW: the Personal data and Configuration sections (Privacy mode, Privacy policy, Maximum distance for research, Maximum travel time for research, Maximum number of results) appear in version 1.6.0 of the app. Confirm whether they exist in the current version and add their steps. -->
+
 ## About Application
 
 The **About Application** section shows information about the app. This information is read-only.

@@ -18,6 +18,9 @@ This section covers:
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |
 | [Create an Intervention](create-an-intervention/README.md) | Create a new intervention and start it immediately. |
 | [Reschedule an Intervention](reschedule-an-intervention.md) | Search for another slot and move the intervention. |
+| [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |
+| [Add Items to an Intervention](add-items-to-an-intervention.md) | Record items and check the price. |
+| [View the Documents of an Intervention](documents.md) | Open the files linked to the intervention. |
 
 ## Intervention statuses
 

@@ -10,6 +10,7 @@ The menu groups the options that are not part of your daily work screens. It sho
 
 | Option | Description |
 | ------ | ----------- |
+| **Coworker** | See the positions of your coworkers on a map. See [Coworkers](coworkers/README.md). |
 | **Working Hours** | Define the days and hours when you are available. See [Working Hours](working-hours/README.md). |
 | **Version note** | Read the notes of the version of the app. |
 | **Log out** | Log out of the app. |
