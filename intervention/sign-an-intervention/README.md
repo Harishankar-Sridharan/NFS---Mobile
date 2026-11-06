@@ -19,6 +19,7 @@ This section covers:
 | ----- | ----------- |
 | [Sign by Hand](sign-by-hand.md) | Select the report and sign on the screen. |
 | [Sign Securely](sign-securely.md) | Sign the document electronically, with a code received by SMS. |
+| [Fill In the Required Fields for Electronic Signature](required-fields-for-electronic-signature.md) | Complete the contact and technician details that the secure signature needs. |
 | [Decline to Sign](decline-to-sign.md) | Refuse to sign and explain why. |
 
 ## Start the signature

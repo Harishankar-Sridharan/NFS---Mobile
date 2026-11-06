@@ -34,6 +34,17 @@ Each parameter is a switch, set to **true** or **false**. **signatureFormat** is
 
 When **canUseElectronicSignature** is on, the **Sign intervention** page of the app offers **Securely**. See [Sign an Intervention](../intervention/sign-an-intervention/README.md).
 
+## Required fields for the electronic signature
+
+To create the electronic signature, the back office needs some fields to be filled in. The app checks them before it requests the signature, and it displays **Mandatory information required** when one is missing.
+
+| Person | Required fields |
+| ------ | --------------- |
+| **Contact** (main contact of the customer) | First name, Name, Professional email, Cell phone |
+| **Technician** (the logged-in user) | First name, Last name, Professional email, Cell phone |
+
+Users can update the contact in the app. They cannot update their own technician details in the app, so fill them in the resource of the user in the back office. The **Last name** is always filled, because it is mandatory when you create a resource. Ask the user to refresh their data afterwards. See [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md).
+
 ## Check the signatures
 
 The signatures drawn in the app are stored with the intervention. In the back office, open the linked images of the appointment. Each signature is an image file, for example **WorkerSignature.png** and **_ClientSignature.png**, listed under the document kind **Report**.
@@ -44,3 +55,4 @@ The signatures drawn in the app are stored with the intervention. In the back of
 
 * [Application Settings for NFS Mobile](application-settings.md)
 * [Sign Securely](../intervention/sign-an-intervention/sign-securely.md)
+* [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md)

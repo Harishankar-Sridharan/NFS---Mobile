@@ -19,6 +19,7 @@ This section covers:
 | [Remarks Tab Setup](remarks-tab-setup.md) | Show or hide the Remarks shortcut. |
 | [Abandoned Missions Setup](abandoned-missions-setup.md) | Choose how abandoned interventions are handled and restarted. |
 | [Location Logs Setup](location-logs-setup.md) | Find the location logs and set the tracking. |
+| [Measurement Unit Setup](measurement-unit-setup.md) | Choose kilometers or miles in the back office. |
 
 ## Before you begin
 

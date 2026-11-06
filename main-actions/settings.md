@@ -81,7 +81,9 @@ The **My Settings** section lets you choose how the app displays distances and d
 | **Measurement unit** | **Km**, **Miles** | The unit used to display distances, for example the **Travel** distance on the [dashboard](main-actions.md). |
 | **Date format** | **yyyy-MM-dd**, **yyyy-dd-MM** | The order in which year, month and day are displayed. |
 
-<!-- REVIEW: confirm that the Measurement unit and Date format apply to all pages of the app. -->
+The **Measurement unit** applies to all the distances of the app: the dashboard, the list of sites, the details of an intervention, and the coworkers. See [Change the Measurement Unit](change-the-measurement-unit.md).
+
+<!-- REVIEW: confirm that the Date format applies to all pages of the app. -->
 
 ## Privacy mode
 

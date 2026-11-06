@@ -9,6 +9,7 @@ The secure signature produces a signed report of the intervention. The signatory
 ## Before you begin
 
 * You have tapped **Securely** on the **Sign intervention** page. See [Sign an Intervention](README.md).
+* The contact and the technician details that the signature needs are filled in. If the app displays **Mandatory information required**, see [Fill In the Required Fields for Electronic Signature](required-fields-for-electronic-signature.md).
 
 ## Sign the document
 
@@ -57,5 +58,6 @@ The **Intervention** page shows the status **Completed**. The buttons **Calendar
 ## Related topics
 
 * [Sign an Intervention](README.md)
+* [Fill In the Required Fields for Electronic Signature](required-fields-for-electronic-signature.md)
 * [Decline to Sign](decline-to-sign.md)
 * [View the Documents of an Intervention](../documents.md)
