@@ -35,6 +35,12 @@ The page shows:
 
 <figure><img src="../.gitbook/assets/nfs-mobile-intervention-start.png" alt="Start the intervention message" width="300"><figcaption><p>Start the intervention message</p></figcaption></figure>
 
+If you already have two or more interventions in progress, a **Warning** message is displayed first. It lists them, with their site and their start date and time, and asks **Do you wish to continue?** Tap **Continue** to start this intervention too, or **Cancel** to leave the message without starting.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-start-multiple-warning.png" alt="Warning about interventions in progress" width="300"><figcaption><p>Warning about interventions already in progress</p></figcaption></figure>
+
+<!-- REVIEW: the sprint review shows this Warning when the intervention is started. Confirm the exact trigger (two or more interventions already in progress) and whether the message appears before or after the Start the intervention confirmation. -->
+
 The message **Intervention started successfully** is displayed. The status changes to **In progress** and a timer shows how long the intervention has lasted.
 
 <figure><img src="../.gitbook/assets/nfs-mobile-intervention-in-progress.png" alt="Intervention in progress" width="300"><figcaption><p>Intervention in progress</p></figcaption></figure>

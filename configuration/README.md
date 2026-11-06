@@ -14,6 +14,7 @@ This section covers:
 | [Signature Settings](signature-settings.md) | Set whether signatures are possible, mandatory and electronic. |
 | [Search Around Settings](search-around-settings.md) | Set the limits of the search for sites and leads around a position. |
 | [Price Calculation Setup](price-calculation-setup.md) | Set the products and prices used by the Items page of an intervention. |
+| [Serial Number Setup](serial-number-setup.md) | Choose where NFS stores the serial number scanned in the app. |
 
 ## Before you begin
 

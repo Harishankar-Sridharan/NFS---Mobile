@@ -26,13 +26,31 @@ For each item, the list shows:
 * The make and the type, for example **Boiler - UP ET : €50.00**, with the unit price.
 * The quantity, at the right of the item.
 
+Before the intervention is started, the list shows the items without the plus and minus buttons.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-items-list-before-start.png" alt="Items page before the intervention is started" width="300"><figcaption><p>Items page before the intervention is started</p></figcaption></figure>
+
+Once the intervention is started, a plus and a minus button appear at the right of each item, and a barcode icon appears under the photo of each item that has a serial number.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-items-list-quantities.png" alt="Items page with the plus and minus buttons" width="300"><figcaption><p>Items page of an intervention in progress</p></figcaption></figure>
+
 ## Change the quantities
+
+The plus and minus buttons were redesigned. Each button has its own tap zone, so a tap on the buttons no longer opens the product sheet by mistake.
 
 1. Tap the plus button at the right of an item to add one.
 2. Tap the minus button to remove one.
-3. Check the quantity displayed under the plus button, for example **6/4**, and the total price at the top of the page.
+3. Check the quantity displayed at the right of the item, for example **17 / 17**, and the total price at the top of the page.
+
+| You tap | Result |
+| ------- | ------ |
+| The plus or the minus button | The quantity increases or decreases. |
+| The quantity number | Nothing happens. |
+| The name or the photo of the item | The **Details** page opens. See [View the Details of an Item](view-item-details.md). |
 
 <figure><img src="../.gitbook/assets/nfs-mobile-items-quantities.png" alt="Items page with several items" width="300"><figcaption><p>Items page with several items</p></figcaption></figure>
+
+To remove an item completely, see [Remove an Item](remove-an-item.md). To record a barcode or QR code for an item, see [Scan or Enter a Serial Number](scan-a-serial-number.md).
 
 <!-- REVIEW: confirm the meaning of the two numbers displayed under the plus button, for example 6/4 and 2/3. They may be the quantity used and the quantity planned. -->
 
@@ -54,17 +72,34 @@ At the bottom of the page, check:
 
 4. Tap **Close** to return to the **Items** page.
 
+## Search the catalog
+
+1. At the bottom of the screen, tap the cart button to open the catalog.
+2. The search bar is displayed with the keyboard. The page shows **Search for an item in your catalog**.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-items-search-empty.png" alt="Search in the catalog" width="300"><figcaption><p>Search in the catalog</p></figcaption></figure>
+
+3. Type the name or a part of the name of the item, for example **cam**.
+4. Tap the check mark to start the search. The items found are listed under their family, for example **Cameras**, with their reference and their unit price.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-items-search-results.png" alt="Search results in the catalog" width="300"><figcaption><p>Search results</p></figcaption></figure>
+
 ## Add items from the catalog
 
-1. At the bottom of the screen, tap the cart button to open the list of items.
-2. Use the filter and the search buttons at the top of the page to find an item.
-3. Add the quantity that you need with the plus button.
-4. Tap the green arrow button to validate.
+1. In the list of results, tap the plus button of an item to add one.
+2. Add the quantity that you need. The quantity at the right of the item increases.
+3. Tap the green arrow button to validate.
+4. The **Items** page shows the item that you added, with its quantity, for example **2**, and the counter at the top shows **2 Items**.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-items-added.png" alt="Item added to the intervention" width="300"><figcaption><p>Item added to the intervention</p></figcaption></figure>
 
 <!-- REVIEW: the video shows the catalog only briefly. Confirm the function of each button at the bottom of the screen (calculator, cart and green arrow) and of the filter and search buttons, and when the price of the intervention is sent to NFS. -->
 
 ## Related topics
 
+* [View the Details of an Item](view-item-details.md)
+* [Scan or Enter a Serial Number](scan-a-serial-number.md)
+* [Remove an Item](remove-an-item.md)
 * [Price Calculation Setup](../configuration/price-calculation-setup.md)
 * [Fill in the Report](report.md)
 * [Finish an Intervention](finish-an-intervention.md)
