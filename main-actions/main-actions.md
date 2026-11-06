@@ -1,4 +1,4 @@
-﻿# Dashboard
+# Dashboard
 
 See your day at a glance and reach your interventions quickly.
 

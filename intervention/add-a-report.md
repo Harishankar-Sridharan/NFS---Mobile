@@ -93,7 +93,21 @@ You cannot delete a report that is already submitted, even if you added it from 
 
 When you finish the intervention, the app sends all the completed reports, including the copies that you added. In NFS, each copy is a new answer with the same report template, with its own values.
 
-<!-- REVIEW: the list of reports to add is not filtered yet. The app shows all the reports of the back office, not only those of the intervention group or the task type. The team asked the back office to send the report IDs of each intervention, and it is planned. Update this page when it is done. Also confirm how the PDF report in NFS shows two copies of the same report, because the team has no Word template to test it. -->
+## Which reports you can add
+
+The **Reports** page shows the reports that apply to your intervention, according to its type and its group. The **Add a report** page shows only the reports that apply to no group and no type, so that you can add them to any intervention.
+
+For example, a monthly maintenance intervention shows the **Maintenance monthly report** and the **Maintenance report**, because they are defined for its type and its group. An installation intervention shows the **Installation report**.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-addreport-filtered-list.png" alt="Reports of a maintenance intervention" width="300"><figcaption><p>Reports of the intervention</p></figcaption></figure>
+
+On **Add a report**, only the reports without a group and without a type are listed, for example **Undefined report 01** and **Undefined report 02**.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-addreport-filtered-catalog.png" alt="Reports that you can add" width="300"><figcaption><p>Reports that you can add</p></figcaption></figure>
+
+If you add a report that is already in the list, the app tells you that the report was already added.
+
+<!-- REVIEW: confirm the exact wording of the message when a report is already added, and how the PDF report in NFS shows two copies of the same report. The team has no Word template to test it. -->
 
 ## Related topics
 

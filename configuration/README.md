@@ -22,6 +22,9 @@ This section covers:
 | [Measurement Unit Setup](measurement-unit-setup.md) | Choose kilometers or miles in the back office. |
 | [Extra Item Fields Setup](extra-item-fields-setup.md) | Add extra fields to the items of an intervention. |
 | [Mandatory Reports Setup](mandatory-reports-setup.md) | Make survey reports mandatory before an intervention is finished. |
+| [Scan Task Setup](scan-task-setup.md) | Create scan tasks, including tasks whose code is recorded by the first scan. |
+| [Intervention Scan Code Setup](intervention-scan-code-setup.md) | Give an appointment a code that users can scan. |
+| [Hotel Nights Setup](hotel-nights-setup.md) | Assign a hotel to a technician and show the rests. |
 | [Unavailability Days Setup](unavailability-days-setup.md) | Allow unavailabilities and set how many past days users can declare. |
 
 ## Before you begin

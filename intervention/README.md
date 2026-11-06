@@ -11,6 +11,7 @@ This section covers:
 | Topic | Description |
 | ----- | ----------- |
 | [Start an Intervention](start-an-intervention.md) | Open an accepted intervention, check its details and start it. |
+| [Scan a Task Code](scan-a-task-code.md) | Complete a task by scanning its code. |
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |
 | [Finish an Intervention](finish-an-intervention.md) | Finish the intervention and send your data. |

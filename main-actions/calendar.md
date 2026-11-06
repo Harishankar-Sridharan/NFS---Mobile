@@ -125,7 +125,8 @@ In **Display**, choose how the agenda is shown. The selected option is highlight
 | Action | Description |
 | ------ | ----------- |
 | **Update my agenda** | Refresh your agenda. |
-| **Access an intervention** | Open an intervention directly. |
+| **Accept all** and **Refuse all** | Accept or refuse all the waiting interventions. |
+| **Access an intervention** | Open an intervention by scanning its code. See [Open an Intervention with a Scan](open-an-intervention-with-a-scan.md). |
 | **Search for an intervention** | Find an intervention. |
 | **Plan an existing intervention** | Add an existing intervention to your agenda. |
 | **Create an intervention** | Create a new intervention. |

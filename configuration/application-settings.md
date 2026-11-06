@@ -47,6 +47,7 @@ Among others, the group contains the following parameters.
 | **canAskImmediateMissionsAround** | Is it possible to ask to optimize a mission around me? |
 | **canReoptimizeDay** | Is it possible to ask to re-optimize a day? |
 | **useCombinedMissions** | Treat missions as combined for a given day. |
+| **displayRests** | Display the rests. It also controls the hotel nights. See [Hotel Nights Setup](hotel-nights-setup.md). |
 | **useSurveyReports** | Fill survey reports. |
 | **mandatoryMissionsPhotosNumber** | How many mandatory photos to take per mission. **0** means that photos are not mandatory. See [Required Photos Setup](required-photos-setup.md). |
 | **hideRemarkTab** | Hide the **Remarks** tab. See [Remarks Tab Setup](remarks-tab-setup.md). |

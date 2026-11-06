@@ -1,4 +1,4 @@
-﻿# Main Actions
+# Main Actions
 
 Use the main pages of NFS Mobile to manage your day in the field.
 
@@ -15,6 +15,10 @@ This section covers:
 | [Calendar](calendar.md) | See your interventions by day, open an intervention and view your visits on a map. |
 | [Agenda Position and Saved Day](calendar-agenda-position.md) | Center the agenda on the current time and return to the day you were viewing. |
 | [Calendar Map Marker Colors](calendar-map-marker-colors.md) | Read the status of an intervention from the color of its marker. |
+| [Grouped Interventions](grouped-interventions.md) | Recognize grouped interventions and sign once for the group. |
+| [Hotel Nights in the Calendar](calendar-hotel-nights.md) | See your hotel nights apart from the rest periods. |
+| [Open an Intervention with a Scan](open-an-intervention-with-a-scan.md) | Scan a code to open an intervention. |
+| [Quick Actions on an Intervention](long-press-an-intervention.md) | Call the contact, get directions or accept with a long press. |
 | [Settings](settings.md) | Clear the cache, read the conditions of use, send your logs and set your display preferences. |
 | [Change the Measurement Unit](change-the-measurement-unit.md) | Display distances in kilometers or in miles. |
 | [Refresh Your Data](refresh-your-data.md) | Reload your interventions and documents. |
