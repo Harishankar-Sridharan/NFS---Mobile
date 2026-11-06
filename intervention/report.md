@@ -10,6 +10,8 @@ The report collects the information that your company needs about the interventi
 
 * The intervention is in progress. See [Start an Intervention](start-an-intervention.md).
 
+To add another report, or to delete one that you added, see [Add and Delete a Report During an Intervention](add-a-report.md).
+
 Some survey reports can be mandatory. See [Complete the Mandatory Survey Reports](mandatory-survey-reports.md).
 
 If your reports are survey forms, you can fill them in before you start the intervention, and without a network. See [Fill In Survey Forms Offline](fill-in-forms-offline.md).

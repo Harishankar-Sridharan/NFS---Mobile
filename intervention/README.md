@@ -23,6 +23,7 @@ This section covers:
 | [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |
 | [Add Items to an Intervention](add-items-to-an-intervention.md) | Record items and check the price. |
 | [View the Details of an Item](view-item-details.md) | Open the product sheet of an item. |
+| [Add and Delete a Report During an Intervention](add-a-report.md) | Add another report to the intervention, or delete one that you added. |
 | [Complete the Mandatory Survey Reports](mandatory-survey-reports.md) | Complete the survey reports that your company requires before you finish. |
 | [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Fill in survey forms before the start and without a network. |
 | [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
