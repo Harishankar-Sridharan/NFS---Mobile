@@ -70,7 +70,7 @@ The **Intervention** page shows:
 * The **Intervention status**, for example **Waiting**.
 * The **Accept** button at the bottom of the screen. See [Accept an intervention](#accept-an-intervention).
 
-To return to the **Calendar** page, tap the back arrow at the top left.
+To return to the **Calendar** page, tap the back arrow at the top left. The agenda shows the same day again and centers the current time. See [Agenda Position and Saved Day](calendar-agenda-position.md).
 
 <!-- REVIEW: the video does not show the Docs, Photos and Reports pages or the three-dot menu at the top right. Confirm their behavior. -->
 
@@ -134,7 +134,11 @@ In **Display**, choose how the agenda is shown. The selected option is highlight
 
 ### Legend
 
-The **Legend** explains the colors and icons used in the agenda and on the map.
+The **Legend** explains the colors and icons used in the agenda and on the map. The color of a marker on the map shows the status of the intervention. See [Calendar Map Marker Colors](calendar-map-marker-colors.md).
+
+<!-- REVIEW: the Actions list in the 10 April version of the app also shows Accept all, Refuse all, Fill my planning and Declare unavailability. Confirm the actions of your version and update the table above. -->
+
+
 
 <figure><img src="../.gitbook/assets/nfs-mobile-calendar-legend.png" alt="Calendar legend" width="300"><figcaption><p>Legend</p></figcaption></figure>
 

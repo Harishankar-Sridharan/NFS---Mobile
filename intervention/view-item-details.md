@@ -52,7 +52,10 @@ To return to the **Items** page, tap the blue cross at the top right.
 
 <!-- REVIEW: confirm that the quantity bar can be used to change the quantity of the item and that the number shown is the quantity used. Confirm also how the stock In my stock and In agency are updated, and why an item with 16 in stock is still labelled Out of stock in the video. -->
 
+Your company can add **extra fields** below the **Unit price**. See [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md).
+
 ## Related topics
 
+* [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md)
 * [Add Items to an Intervention](add-items-to-an-intervention.md)
 * [Scan or Enter a Serial Number](scan-a-serial-number.md)

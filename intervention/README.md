@@ -23,6 +23,7 @@ This section covers:
 | [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |
 | [Add Items to an Intervention](add-items-to-an-intervention.md) | Record items and check the price. |
 | [View the Details of an Item](view-item-details.md) | Open the product sheet of an item. |
+| [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |
 | [Scan or Enter a Serial Number](scan-a-serial-number.md) | Scan a barcode or type a serial number for an item. |
 | [Remove an Item](remove-an-item.md) | Swipe an item to remove it. |
 | [View the Documents of an Intervention](documents.md) | Open the files linked to the intervention. |

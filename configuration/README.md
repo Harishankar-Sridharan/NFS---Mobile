@@ -20,6 +20,7 @@ This section covers:
 | [Abandoned Missions Setup](abandoned-missions-setup.md) | Choose how abandoned interventions are handled and restarted. |
 | [Location Logs Setup](location-logs-setup.md) | Find the location logs and set the tracking. |
 | [Measurement Unit Setup](measurement-unit-setup.md) | Choose kilometers or miles in the back office. |
+| [Extra Item Fields Setup](extra-item-fields-setup.md) | Add extra fields to the items of an intervention. |
 
 ## Before you begin
 
