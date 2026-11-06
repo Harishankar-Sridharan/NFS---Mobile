@@ -1,4 +1,4 @@
-﻿# Finish an Intervention
+# Finish an Intervention
 
 Finish the intervention and send your data to NFS.
 
@@ -9,7 +9,7 @@ When your work is done, finish the intervention. NFS Mobile sends your report, p
 ## Before you begin
 
 * The intervention is in progress.
-* You have filled in the mandatory fields of the [report](report.md).
+* You have filled in the mandatory fields of the [report](report.md), and completed the mandatory survey reports. See [Complete the Mandatory Survey Reports](mandatory-survey-reports.md).
 
 ## Finish the intervention
 

@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [App Launch](README.md)
   * [Login](app-launch/app-launch.md)
@@ -24,6 +24,9 @@
     * [View Your Coworkers](menu/coworkers/view-your-coworkers.md)
     * [Privacy Mode](menu/coworkers/privacy-mode.md)
     * [Send Your Position](menu/coworkers/send-your-position.md)
+  * [Unavailabilities](menu/unavailabilities/README.md)
+    * [Declare an Unavailability](menu/unavailabilities/declare-an-unavailability.md)
+    * [See Your Unavailabilities in the Agenda](menu/unavailabilities/see-unavailabilities-in-the-agenda.md)
   * [Working Hours](menu/working-hours/README.md)
     * [View Your Working Days](menu/working-hours/view-your-working-days.md)
     * [Add a Working Day](menu/working-hours/add-a-working-day.md)
@@ -32,6 +35,7 @@
 * [Intervention](intervention/README.md)
   * [Start an Intervention](intervention/start-an-intervention.md)
   * [Fill in the Report](intervention/report.md)
+    * [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md)
     * [Fill In Survey Forms Offline](intervention/fill-in-forms-offline.md)
   * [Add Photos and Remarks](intervention/photos-and-remarks.md)
     * [Take the Required Photos](intervention/required-photos.md)
@@ -68,3 +72,5 @@
   * [Location Logs Setup](configuration/location-logs-setup.md)
   * [Measurement Unit Setup](configuration/measurement-unit-setup.md)
   * [Extra Item Fields Setup](configuration/extra-item-fields-setup.md)
+  * [Mandatory Reports Setup](configuration/mandatory-reports-setup.md)
+  * [Unavailability Days Setup](configuration/unavailability-days-setup.md)

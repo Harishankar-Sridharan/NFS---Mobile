@@ -1,4 +1,4 @@
-﻿# Fill in the Report
+# Fill in the Report
 
 Fill in the report of an intervention in progress.
 
@@ -9,6 +9,8 @@ The report collects the information that your company needs about the interventi
 ## Before you begin
 
 * The intervention is in progress. See [Start an Intervention](start-an-intervention.md).
+
+Some survey reports can be mandatory. See [Complete the Mandatory Survey Reports](mandatory-survey-reports.md).
 
 If your reports are survey forms, you can fill them in before you start the intervention, and without a network. See [Fill In Survey Forms Offline](fill-in-forms-offline.md).
 

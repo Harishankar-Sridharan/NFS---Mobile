@@ -1,4 +1,4 @@
-﻿# Application Settings for NFS Mobile
+# Application Settings for NFS Mobile
 
 Find and read the settings of NFS Mobile in the back office.
 
@@ -41,7 +41,8 @@ Among others, the group contains the following parameters.
 | --------- | ----------- |
 | **canFillClientReport** | Is it possible to fill a client report? |
 | **canAddMissionsPhotos** | Is it possible to add photos to a mission? |
-| **canAskUnavailabilities** | Is it possible to ask for unavailabilities? |
+| **canAskUnavailabilities** | Is it possible to ask for unavailabilities? See [Unavailability Days Setup](unavailability-days-setup.md). |
+| **numberAllowedDaysAgoToCreateUnavailabilities** | For how many days ago is it possible to create unavailabilities? See [Unavailability Days Setup](unavailability-days-setup.md). |
 | **canAskOptimizedMissions** | Is it possible to ask for an optimized mission? |
 | **canAskImmediateMissionsAround** | Is it possible to ask to optimize a mission around me? |
 | **canReoptimizeDay** | Is it possible to ask to re-optimize a day? |

@@ -1,4 +1,4 @@
-﻿# Calendar
+# Calendar
 
 See your interventions by day, pick a date, open an intervention and view your visits on a map.
 
@@ -129,6 +129,7 @@ In **Display**, choose how the agenda is shown. The selected option is highlight
 | **Search for an intervention** | Find an intervention. |
 | **Plan an existing intervention** | Add an existing intervention to your agenda. |
 | **Create an intervention** | Create a new intervention. |
+| **Declare unavailability** | Ask for an unavailability. See [Declare an Unavailability](../menu/unavailabilities/declare-an-unavailability.md). |
 
 <!-- REVIEW: the video does not run these actions. Confirm what each one does and how Access an intervention works (for example by scanning a code). -->
 

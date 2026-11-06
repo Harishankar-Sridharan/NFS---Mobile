@@ -1,4 +1,4 @@
-﻿# Mobile Configuration
+# Mobile Configuration
 
 Configure NFS Mobile from the back office.
 
@@ -21,6 +21,8 @@ This section covers:
 | [Location Logs Setup](location-logs-setup.md) | Find the location logs and set the tracking. |
 | [Measurement Unit Setup](measurement-unit-setup.md) | Choose kilometers or miles in the back office. |
 | [Extra Item Fields Setup](extra-item-fields-setup.md) | Add extra fields to the items of an intervention. |
+| [Mandatory Reports Setup](mandatory-reports-setup.md) | Make survey reports mandatory before an intervention is finished. |
+| [Unavailability Days Setup](unavailability-days-setup.md) | Allow unavailabilities and set how many past days users can declare. |
 
 ## Before you begin
 
