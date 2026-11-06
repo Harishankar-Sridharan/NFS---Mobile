@@ -40,7 +40,7 @@ Two shortcuts are displayed under the header.
 | Shortcut | Description |
 | -------- | ----------- |
 | **Search** | Find an intervention. |
-| **In progress** | List the interventions that are in progress. |
+| **In progress** | List the interventions that are in progress. Displayed only when an intervention is in progress. |
 
 ### Search for an intervention
 
@@ -81,6 +81,8 @@ Each intervention is displayed in a card that shows:
 
 To return to the dashboard, tap the back arrow at the top left.
 
+The **In progress** shortcut is displayed only when at least one intervention is in progress. The cards are sorted by date and time, and you can tap one to open the intervention. See [View Your Ongoing Interventions](view-ongoing-interventions.md).
+
 ## Day summary
 
 The day summary shows the state of the selected day.
@@ -119,4 +121,5 @@ The navigation bar at the bottom of the screen lets you move between the main pa
 
 ## Related topics
 
+* [View Your Ongoing Interventions](view-ongoing-interventions.md)
 * [Login](../app-launch/app-launch.md)
