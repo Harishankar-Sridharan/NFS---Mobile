@@ -10,6 +10,8 @@ The report collects the information that your company needs about the interventi
 
 * The intervention is in progress. See [Start an Intervention](start-an-intervention.md).
 
+If your reports are survey forms, you can fill them in before you start the intervention, and without a network. See [Fill In Survey Forms Offline](fill-in-forms-offline.md).
+
 ## Open the report
 
 1. On the **Intervention** page, tap **Reports**.

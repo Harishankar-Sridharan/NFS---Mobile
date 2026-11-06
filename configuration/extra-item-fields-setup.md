@@ -45,6 +45,21 @@ The demo adds six fields:
 | quantity5 | Number | Writable | Quantity 5 |
 | date1 | Date | Writable | Date 1 |
 
+## Drop-down lists and mandatory fields
+
+You can offer a list of values for a text field, and make fields mandatory.
+
+1. In **detailSetFieldPossibleValues**, enter the values of the list for the field. Separate the values of a list with semicolons, and the fields with commas. Keep the same position as the field, and leave the other positions empty. For example, **Option 1;Option 2;Option 3** for the field **Filler 9**.
+2. In **detailSetFieldAccess**, set the access of a field to **mandatory** instead of **writable**.
+3. Click **Save**.
+
+| Setting | Result in the app |
+| ------- | ----------------- |
+| A text field with possible values | The field is a drop-down list. The user taps **Choose a value** and selects one value. |
+| Access **mandatory** | A red asterisk is displayed after the label. The user must fill in the field before finishing the intervention. |
+
+The check applies only to the items that the technician used, which means that their quantity is not zero. See [Mandatory Fields and Drop-Down Lists on Items](../intervention/mandatory-and-list-item-fields.md).
+
 ## Show the fields in NFS
 
 In NFS, the product order details of an appointment show the standard fields and your extra fields in the **Product List**. You can also add other fields that are not planned.
@@ -70,5 +85,6 @@ The extra fields use the filler, logical, quantity and date fields of the produc
 ## Related topics
 
 * [View and Edit the Extra Fields of an Item](../intervention/edit-extra-item-fields.md)
+* [Mandatory Fields and Drop-Down Lists on Items](../intervention/mandatory-and-list-item-fields.md)
 * [Application Settings for NFS Mobile](application-settings.md)
 * [Price Calculation Setup](price-calculation-setup.md)

@@ -23,6 +23,8 @@ This section covers:
 | [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |
 | [Add Items to an Intervention](add-items-to-an-intervention.md) | Record items and check the price. |
 | [View the Details of an Item](view-item-details.md) | Open the product sheet of an item. |
+| [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Fill in survey forms before the start and without a network. |
+| [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
 | [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |
 | [Scan or Enter a Serial Number](scan-a-serial-number.md) | Scan a barcode or type a serial number for an item. |
 | [Remove an Item](remove-an-item.md) | Swipe an item to remove it. |

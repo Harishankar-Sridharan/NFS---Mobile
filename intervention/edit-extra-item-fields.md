@@ -41,6 +41,7 @@ Once the intervention is started, a blue pencil icon appears at the right of eac
 | **Checkbox** (logical) | A switch that you turn on or off. |
 | **Date** | A date field. Tap the calendar icon, select a day, then tap **Ok**. |
 | **Link** (URL) | Not edited on this page. See [Open a link](#open-a-link). |
+| **Drop-down list** | A list of values. See [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md). |
 
 <figure><img src="../.gitbook/assets/nfs-mobile-extra-edit-text.png" alt="Text field entry" width="300"><figcaption><p>Text field</p></figcaption></figure>
 
@@ -96,4 +97,5 @@ The extra fields are also available for an item that you add yourself.
 * [Add Items to an Intervention](add-items-to-an-intervention.md)
 * [View the Details of an Item](view-item-details.md)
 * [Scan or Enter a Serial Number](scan-a-serial-number.md)
+* [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md)
 * [Extra Item Fields Setup](../configuration/extra-item-fields-setup.md)
