@@ -15,7 +15,9 @@ If you cannot carry out an intervention, you can abandon it. When you abandon an
 When you abandon an intervention, you decline all responsibility for its completion. Abandon an intervention only when you cannot carry it out.
 {% endhint %}
 
-<!-- REVIEW: confirm whether an abandoned intervention can be reopened or started again, and whether an intervention already started can still be abandoned. The video only abandons an accepted intervention. -->
+An abandoned intervention can be started again, when the back office sends it to the app. See [Restart an Abandoned Intervention](restart-an-abandoned-intervention.md).
+
+<!-- REVIEW: confirm whether an intervention already started can still be abandoned. The video only abandons an accepted intervention. -->
 
 ## Abandon the intervention
 
@@ -61,6 +63,7 @@ On an abandoned intervention:
 
 ## Related topics
 
+* [Restart an Abandoned Intervention](restart-an-abandoned-intervention.md)
 * [Start an Intervention](start-an-intervention.md)
 * [Finish an Intervention](finish-an-intervention.md)
 * [Calendar](../main-actions/calendar.md)

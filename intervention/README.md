@@ -16,6 +16,8 @@ This section covers:
 | [Finish an Intervention](finish-an-intervention.md) | Finish the intervention and send your data. |
 | [Cancel an Intervention](cancel-an-intervention.md) | Cancel an intervention in progress and return it to the accepted state. |
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |
+| [Restart an Abandoned Intervention](restart-an-abandoned-intervention.md) | Start again an intervention that was abandoned. |
+| [Take the Required Photos](required-photos.md) | Take the minimum number of photos required before you finish. |
 | [Create an Intervention](create-an-intervention/README.md) | Create a new intervention and start it immediately. |
 | [Reschedule an Intervention](reschedule-an-intervention.md) | Search for another slot and move the intervention. |
 | [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |

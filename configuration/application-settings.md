@@ -47,8 +47,10 @@ Among others, the group contains the following parameters.
 | **canReoptimizeDay** | Is it possible to ask to re-optimize a day? |
 | **useCombinedMissions** | Treat missions as combined for a given day. |
 | **useSurveyReports** | Fill survey reports. |
+| **mandatoryMissionsPhotosNumber** | How many mandatory photos to take per mission. **0** means that photos are not mandatory. See [Required Photos Setup](required-photos-setup.md). |
+| **hideRemarkTab** | Hide the **Remarks** tab. See [Remarks Tab Setup](remarks-tab-setup.md). |
 | **agendaViewTime** | How times are displayed in the agenda view: **SCHEDULED** (default) shows the scheduled time, **ANNOUNCED** the announced time. |
-| **cancelledStatus...** | When an intervention is cancelled with **Abandon**, its status is **SUSPENDED** instead of the usual **REMOVED** status. |
+| **cancelledStatus...** | When an intervention is cancelled with **Abandon**, its status is **SUSPENDED** instead of the usual **REMOVED** status. See [Abandoned Missions Setup](abandoned-missions-setup.md). |
 
 For the settings of signatures, see [Signature Settings](signature-settings.md). For the search around settings, see [Search Around Settings](search-around-settings.md).
 

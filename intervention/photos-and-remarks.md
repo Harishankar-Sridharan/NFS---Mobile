@@ -57,10 +57,33 @@ If the photo is too blurry, the message **Insufficient quality** is displayed at
 
 <!-- REVIEW: the video does not show text being entered in Remarks. Confirm how the correction buttons work (they are grayed out while the text area is empty). -->
 
+## Show or hide the Remarks tab
+
+Your company can hide the **Remarks** shortcut. Then you cannot write remarks, and the shortcut is not displayed once the intervention is started.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-remarks-hidden.png" alt="Intervention without the Remarks shortcut" width="300"><figcaption><p>Intervention without the Remarks shortcut</p></figcaption></figure>
+
+When the shortcut is displayed, tap **Remarks** and write your text. The remarks are sent with the intervention and appear in the visit report in NFS.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-remarks-visible.png" alt="Intervention with the Remarks shortcut" width="300"><figcaption><p>Intervention with the Remarks shortcut</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/nfs-mobile-remarks-page.png" alt="Remarks page" width="300"><figcaption><p>Remarks page</p></figcaption></figure>
+
+{% hint style="info" %}
+If your company hides the tab after you wrote remarks, the text you wrote is not sent to the back office. Log out and log in again after a change, to load it.
+{% endhint %}
+
+The administrator controls this tab. See [Remarks Tab Setup](../configuration/remarks-tab-setup.md).
+
+## Photos required by your company
+
+If your company requires a minimum number of photos, the **Photos** shortcut shows an alert and you cannot finish the intervention before you reach the minimum. See [Take the Required Photos](required-photos.md).
+
 ## Next steps
 
 * [Finish an Intervention](finish-an-intervention.md)
 
 ## Related topics
 
+* [Take the Required Photos](required-photos.md)
 * [Fill in the Report](report.md)

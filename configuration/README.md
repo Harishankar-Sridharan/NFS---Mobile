@@ -15,6 +15,10 @@ This section covers:
 | [Search Around Settings](search-around-settings.md) | Set the limits of the search for sites and leads around a position. |
 | [Price Calculation Setup](price-calculation-setup.md) | Set the products and prices used by the Items page of an intervention. |
 | [Serial Number Setup](serial-number-setup.md) | Choose where NFS stores the serial number scanned in the app. |
+| [Required Photos Setup](required-photos-setup.md) | Require a minimum number of photos before an intervention is finished. |
+| [Remarks Tab Setup](remarks-tab-setup.md) | Show or hide the Remarks shortcut. |
+| [Abandoned Missions Setup](abandoned-missions-setup.md) | Choose how abandoned interventions are handled and restarted. |
+| [Location Logs Setup](location-logs-setup.md) | Find the location logs and set the tracking. |
 
 ## Before you begin
 

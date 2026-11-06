@@ -14,6 +14,7 @@ This section covers:
 | [Calendar](calendar.md) | See your interventions by day, open an intervention and view your visits on a map. |
 | [Settings](settings.md) | Clear the cache, read the conditions of use, send your logs and set your display preferences. |
 | [Refresh Your Data](refresh-your-data.md) | Reload your interventions and documents. |
+| [Send Your Location Logs](send-location-logs.md) | Send the log file of the position tracking to the back office. |
 
 ## Related topics
 
