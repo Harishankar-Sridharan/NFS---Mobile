@@ -72,5 +72,6 @@ This feature needs a recent version of NFS in the back office and the latest ver
 ## Related topics
 
 * [Add Items to an Intervention](../intervention/add-items-to-an-intervention.md)
-* [Mobile Configuration](./)
+* [Calculate the Price of the Items](../intervention/calculate-item-prices.md)
+* [Mobile Configuration](README.md)
 
