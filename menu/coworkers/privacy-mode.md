@@ -1,4 +1,8 @@
-﻿# Privacy Mode
+---
+description: "Stop sharing your position, and hide the positions of your coworkers."
+---
+
+# Privacy Mode
 
 Stop sharing your position, and hide the positions of your coworkers.
 

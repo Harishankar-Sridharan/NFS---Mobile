@@ -1,3 +1,7 @@
+---
+description: "Add extra fields to the items of an intervention, so that technicians can see and edit more information."
+---
+
 # Extra Item Fields Setup
 
 Add extra fields to the items of an intervention, so that technicians can see and edit more information.

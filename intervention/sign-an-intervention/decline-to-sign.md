@@ -1,4 +1,8 @@
-﻿# Decline to Sign
+---
+description: "Refuse to sign and explain why."
+---
+
+# Decline to Sign
 
 Refuse to sign and explain why.
 

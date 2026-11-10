@@ -1,4 +1,8 @@
-﻿# Start an Intervention
+---
+description: "Open an accepted intervention, check its details and start it."
+---
+
+# Start an Intervention
 
 Open an accepted intervention, check its details and start it.
 

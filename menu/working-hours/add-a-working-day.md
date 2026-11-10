@@ -1,4 +1,8 @@
-﻿# Add a Working Day
+---
+description: "Define the working hours of a day."
+---
+
+# Add a Working Day
 
 Define the working hours of a day.
 

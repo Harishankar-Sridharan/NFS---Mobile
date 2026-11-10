@@ -1,4 +1,8 @@
-﻿# Intervene Now
+---
+description: "Create an intervention and start it immediately."
+---
+
+# Intervene Now
 
 Create an intervention and start it immediately.
 

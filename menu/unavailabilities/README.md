@@ -1,3 +1,7 @@
+---
+description: "Declare the days and hours when you cannot work, and follow their status."
+---
+
 # Unavailabilities
 
 Declare the days and hours when you cannot work, and follow their status.

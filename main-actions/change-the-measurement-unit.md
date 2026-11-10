@@ -1,3 +1,7 @@
+---
+description: "Display distances in kilometers or in miles across the app."
+---
+
 # Change the Measurement Unit
 
 Display distances in kilometers or in miles across the app.

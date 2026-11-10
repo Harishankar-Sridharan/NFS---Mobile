@@ -1,4 +1,8 @@
-﻿# Coworkers
+---
+description: "See where your coworkers are, and control whether your own position is shared."
+---
+
+# Coworkers
 
 See where your coworkers are, and control whether your own position is shared.
 

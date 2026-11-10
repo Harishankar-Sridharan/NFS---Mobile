@@ -1,4 +1,8 @@
-﻿# Settings
+---
+description: "Clear the app cache, read the conditions of use, send your logs and set your display preferences."
+---
+
+# Settings
 
 Clear the app cache, read the conditions of use, send your logs and set your display preferences.
 

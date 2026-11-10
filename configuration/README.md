@@ -1,3 +1,7 @@
+---
+description: "Configure NFS Mobile from the back office."
+---
+
 # Mobile Configuration
 
 Configure NFS Mobile from the back office.
@@ -5,6 +9,15 @@ Configure NFS Mobile from the back office.
 ## Overview
 
 This section is for administrators. It describes the settings of the back office that change how NFS Mobile behaves for field users: which actions they can perform, how signatures and prices work, and how the search around a position behaves.
+
+The topics are grouped in sub-sections:
+
+| Sub-section | What it covers |
+| ----------- | -------------- |
+| [Application and Display Settings](application-and-display-settings.md) | The general settings, the distances unit, the search around a position, the remarks tab and the location logs. |
+| [Intervention and Report Settings](intervention-and-report-settings.md) | The signatures, the photos, the reports, the abandoned interventions and the scan codes. |
+| [Item and Price Settings](item-and-price-settings.md) | The products, the prices, the serial numbers and the extra fields of the items. |
+| [Planning and Unavailability Settings](planning-and-unavailability-settings.md) | The hotel nights and the unavailabilities of the agenda. |
 
 This section covers:
 

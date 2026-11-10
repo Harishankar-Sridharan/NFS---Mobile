@@ -1,3 +1,7 @@
+---
+description: "Decide which survey reports a field user must complete before finishing an intervention."
+---
+
 # Mandatory Reports Setup
 
 Decide which survey reports a field user must complete before finishing an intervention.

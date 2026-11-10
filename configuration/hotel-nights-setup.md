@@ -1,3 +1,7 @@
+---
+description: "Assign a hotel to a technician for a period, and choose whether the app shows the rest periods and hotel nights."
+---
+
 # Hotel Nights Setup
 
 Assign a hotel to a technician for a period, and choose whether the app shows the rest periods and hotel nights.

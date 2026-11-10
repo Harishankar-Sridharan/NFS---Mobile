@@ -1,3 +1,7 @@
+---
+description: "Group the unavailability types, so that users pick a group before the type."
+---
+
 # Unavailability Groups Setup
 
 Group the unavailability types, so that users pick a group before the type.

@@ -1,4 +1,8 @@
-﻿# Create an Intervention for a Site
+---
+description: "Create a new intervention for the site that you are viewing."
+---
+
+# Create an Intervention for a Site
 
 Create a new intervention for the site that you are viewing.
 

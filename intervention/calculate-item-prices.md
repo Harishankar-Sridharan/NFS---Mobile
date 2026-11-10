@@ -1,3 +1,7 @@
+---
+description: "Calculate the price of each item and the total of the intervention, with the tax."
+---
+
 # Calculate the Price of the Items
 
 Calculate the price of each item and the total of the intervention, with the tax.

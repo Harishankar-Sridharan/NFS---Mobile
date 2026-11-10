@@ -1,3 +1,7 @@
+---
+description: "Use the main pages of NFS Mobile to manage your day in the field."
+---
+
 # Main Actions
 
 Use the main pages of NFS Mobile to manage your day in the field.

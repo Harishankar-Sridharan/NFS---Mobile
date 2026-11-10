@@ -1,3 +1,7 @@
+---
+description: "See your day at a glance and reach your interventions quickly."
+---
+
 # Dashboard
 
 See your day at a glance and reach your interventions quickly.

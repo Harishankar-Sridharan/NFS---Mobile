@@ -1,3 +1,7 @@
+---
+description: "Scan a barcode or a QR code to open the intervention that it identifies."
+---
+
 # Open an Intervention with a Scan
 
 Scan a barcode or a QR code to open the intervention that it identifies.

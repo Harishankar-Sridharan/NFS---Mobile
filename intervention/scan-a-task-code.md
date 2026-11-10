@@ -1,3 +1,7 @@
+---
+description: "Complete a task by scanning its code, including a task whose code is recorded when you scan it."
+---
+
 # Scan a Task Code
 
 Complete a task by scanning its code, including a task whose code is recorded when you scan it.

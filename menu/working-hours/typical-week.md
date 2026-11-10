@@ -1,4 +1,8 @@
-﻿# Set Your Typical Week
+---
+description: "Define the hours you usually work on each day of the week."
+---
+
+# Set Your Typical Week
 
 Define the hours you usually work on each day of the week.
 

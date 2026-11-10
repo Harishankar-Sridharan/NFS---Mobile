@@ -1,4 +1,8 @@
-﻿# Add Photos to a Site
+---
+description: "Take a photo or select an image to illustrate a site."
+---
+
+# Add Photos to a Site
 
 Take a photo or select an image to illustrate a site.
 

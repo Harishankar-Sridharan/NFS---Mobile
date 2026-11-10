@@ -1,3 +1,7 @@
+---
+description: "Find the right type of unavailability faster, by picking its group first."
+---
+
 # Choose the Unavailability Type by Group
 
 Find the right type of unavailability faster, by picking its group first.

@@ -1,3 +1,7 @@
+---
+description: "Find your unavailabilities, and your interventions, for the past days that you can display."
+---
+
 # See Your Unavailabilities in the Agenda
 
 Find your unavailabilities, and your interventions, for the past days that you can display.

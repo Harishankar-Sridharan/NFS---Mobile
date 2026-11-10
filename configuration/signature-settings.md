@@ -1,4 +1,8 @@
-﻿# Signature Settings
+---
+description: "Set whether signatures are possible, mandatory and electronic."
+---
+
+# Signature Settings
 
 Set whether signatures are possible, mandatory and electronic.
 

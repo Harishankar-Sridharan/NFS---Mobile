@@ -1,3 +1,7 @@
+---
+description: "See and update the additional information that your company adds to an item, such as a link, a checkbox, a number or a date."
+---
+
 # View and Edit the Extra Fields of an Item
 
 See and update the additional information that your company adds to an item, such as a link, a checkbox, a number or a date.

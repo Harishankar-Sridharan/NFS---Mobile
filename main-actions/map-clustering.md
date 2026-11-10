@@ -1,3 +1,7 @@
+---
+description: "Read a crowded map: nearby markers are grouped into one numbered circle that opens as you zoom in."
+---
+
 # Clustered Markers on the Maps
 
 Read a crowded map: nearby markers are grouped into one numbered circle that opens as you zoom in.

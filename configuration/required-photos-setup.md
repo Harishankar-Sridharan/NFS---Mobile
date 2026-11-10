@@ -1,3 +1,7 @@
+---
+description: "Require a minimum number of photos before a field user can finish an intervention."
+---
+
 # Required Photos Setup
 
 Require a minimum number of photos before a field user can finish an intervention.

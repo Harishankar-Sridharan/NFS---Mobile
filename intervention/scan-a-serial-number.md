@@ -1,3 +1,7 @@
+---
+description: "Link a barcode or QR code, or a number you type, to an item of the intervention."
+---
+
 # Scan or Enter a Serial Number
 
 Link a barcode or QR code, or a number you type, to an item of the intervention.

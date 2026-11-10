@@ -1,3 +1,7 @@
+---
+description: "Send the file that records how your position was tracked, so that your support team can diagnose a problem."
+---
+
 # Send Your Location Logs
 
 Send the file that records how your position was tracked, so that your support team can diagnose a problem.

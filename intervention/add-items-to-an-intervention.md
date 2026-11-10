@@ -1,3 +1,7 @@
+---
+description: "Record the items that you use or sell during an intervention, and check their price."
+---
+
 # Add Items to an Intervention
 
 Record the items that you use or sell during an intervention, and check their price.

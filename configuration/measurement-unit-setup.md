@@ -1,3 +1,7 @@
+---
+description: "Choose whether NFS displays distances and speeds in kilometers or in miles."
+---
+
 # Measurement Unit Setup
 
 Choose whether NFS displays distances and speeds in kilometers or in miles.

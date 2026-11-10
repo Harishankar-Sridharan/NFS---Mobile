@@ -1,4 +1,8 @@
-﻿# Refresh Your Data
+---
+description: "Reload your interventions and documents so that you work with the latest information."
+---
+
+# Refresh Your Data
 
 Reload your interventions and documents so that you work with the latest information.
 

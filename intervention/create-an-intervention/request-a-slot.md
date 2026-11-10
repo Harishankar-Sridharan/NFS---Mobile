@@ -1,4 +1,8 @@
-﻿# Request a Slot
+---
+description: "Ask the system to find the best slot for a new intervention."
+---
+
+# Request a Slot
 
 Ask the system to find the best slot for a new intervention.
 

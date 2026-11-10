@@ -1,3 +1,7 @@
+---
+description: "Find the location logs sent by NFS Mobile and the settings that control the tracking."
+---
+
 # Location Logs Setup
 
 Find the location logs sent by NFS Mobile and the settings that control the tracking.

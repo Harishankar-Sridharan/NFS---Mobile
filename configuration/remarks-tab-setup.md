@@ -1,3 +1,7 @@
+---
+description: "Show or hide the Remarks shortcut on the intervention page of the app."
+---
+
 # Remarks Tab Setup
 
 Show or hide the Remarks shortcut on the intervention page of the app.

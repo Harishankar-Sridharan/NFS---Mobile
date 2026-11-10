@@ -1,3 +1,7 @@
+---
+description: "Carry out an intervention from start to finish with NFS Mobile."
+---
+
 # Intervention
 
 Carry out an intervention from start to finish with NFS Mobile.
@@ -5,6 +9,17 @@ Carry out an intervention from start to finish with NFS Mobile.
 ## Overview
 
 An intervention is a visit planned for you at a customer site. In NFS Mobile, you start the intervention, fill in the report, add photos and remarks, then finish the intervention. Each step updates the intervention status, so your planner can follow your work.
+
+The topics are grouped in sub-sections:
+
+| Sub-section | What it covers |
+| ----------- | -------------- |
+| [Run an Intervention](run-an-intervention.md) | Start, finish, cancel, abandon and restart an intervention. |
+| [Create an Intervention](create-an-intervention/README.md) | Create a new intervention and start it immediately. |
+| [Reschedule an Intervention](reschedule-an-intervention.md) | Search for another slot and move the intervention. |
+| [Reports, Photos and Documents](reports-photos-and-documents.md) | Fill in the reports, take the photos and read the documents. |
+| [Sign an Intervention](sign-an-intervention/README.md) | Have the intervention signed by hand or securely, or decline to sign. |
+| [Items and Prices](items-and-prices.md) | Record the items and calculate their price. |
 
 This section covers:
 

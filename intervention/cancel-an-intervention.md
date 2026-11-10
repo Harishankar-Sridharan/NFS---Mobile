@@ -1,4 +1,8 @@
-﻿# Cancel an Intervention
+---
+description: "Cancel an intervention that you have started and return it to the accepted state."
+---
+
+# Cancel an Intervention
 
 Cancel an intervention that you have started and return it to the accepted state.
 

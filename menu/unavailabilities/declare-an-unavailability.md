@@ -1,3 +1,7 @@
+---
+description: "Ask for an unavailability, for a day to come or for a day in the past."
+---
+
 # Declare an Unavailability
 
 Ask for an unavailability, for a day to come or for a day in the past.

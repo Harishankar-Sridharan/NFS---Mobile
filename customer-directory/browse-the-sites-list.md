@@ -1,3 +1,7 @@
+---
+description: "Read the list of sites and open the site you need."
+---
+
 # Browse the Sites List
 
 Read the list of sites and open the site you need.

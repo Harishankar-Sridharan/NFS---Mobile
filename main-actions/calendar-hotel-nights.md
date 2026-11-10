@@ -1,3 +1,7 @@
+---
+description: "See the nights that you spend away from home, separately from your rest periods."
+---
+
 # Hotel Nights in the Calendar
 
 See the nights that you spend away from home, separately from your rest periods.

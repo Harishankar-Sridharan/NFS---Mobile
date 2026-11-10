@@ -1,4 +1,8 @@
-﻿# View the Documents of an Intervention
+---
+description: "Open the files and the reports linked to an intervention, and refresh the list."
+---
+
+# View the Documents of an Intervention
 
 Open the files and the reports linked to an intervention, and refresh the list.
 

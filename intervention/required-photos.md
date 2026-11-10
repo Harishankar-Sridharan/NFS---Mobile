@@ -1,3 +1,7 @@
+---
+description: "Take the minimum number of photos that your company requires before you finish an intervention."
+---
+
 # Take the Required Photos
 
 Take the minimum number of photos that your company requires before you finish an intervention.

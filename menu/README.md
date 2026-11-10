@@ -1,3 +1,7 @@
+---
+description: "Open the menu of NFS Mobile to manage your working hours, read the version note and log out."
+---
+
 # Menu
 
 Open the menu of NFS Mobile to manage your working hours, read the version note and log out.

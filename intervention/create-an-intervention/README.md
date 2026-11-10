@@ -1,4 +1,8 @@
-﻿# Create an Intervention
+---
+description: "Create a new intervention on the spot, from the Intervention page."
+---
+
+# Create an Intervention
 
 Create a new intervention on the spot, from the Intervention page.
 

@@ -1,4 +1,8 @@
-﻿# Reschedule an Intervention
+---
+description: "Move an intervention to another date and time."
+---
+
+# Reschedule an Intervention
 
 Move an intervention to another date and time.
 

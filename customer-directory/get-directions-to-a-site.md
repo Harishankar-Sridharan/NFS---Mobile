@@ -1,4 +1,8 @@
-﻿# Get Directions to a Site
+---
+description: "Open the route to a site in your navigation app."
+---
+
+# Get Directions to a Site
 
 Open the route to a site in your navigation app.
 

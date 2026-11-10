@@ -1,4 +1,8 @@
-﻿# View Your Coworkers
+---
+description: "Open the map of your coworkers and read their cards."
+---
+
+# View Your Coworkers
 
 Open the map of your coworkers and read their cards.
 

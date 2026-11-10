@@ -1,4 +1,8 @@
-﻿# Login
+---
+description: "Sign in to NFS Mobile to open your dashboard."
+---
+
+# Login
 
 Sign in to NFS Mobile to open your dashboard.
 

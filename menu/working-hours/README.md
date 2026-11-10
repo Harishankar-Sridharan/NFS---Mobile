@@ -1,4 +1,8 @@
-﻿# Working Hours
+---
+description: "Define the days and hours when you are available for interventions."
+---
+
+# Working Hours
 
 Define the days and hours when you are available for interventions.
 

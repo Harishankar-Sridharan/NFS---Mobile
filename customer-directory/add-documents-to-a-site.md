@@ -1,4 +1,8 @@
-﻿# Add Documents to a Site
+---
+description: "Link documents, images and other files to a site."
+---
+
+# Add Documents to a Site
 
 Link documents, images and other files to a site.
 

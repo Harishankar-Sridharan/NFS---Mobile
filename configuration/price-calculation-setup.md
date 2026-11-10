@@ -1,3 +1,7 @@
+---
+description: "Set the products and prices used by the Items page of an intervention."
+---
+
 # Price Calculation Setup
 
 Set the products and prices used by the Items page of an intervention.

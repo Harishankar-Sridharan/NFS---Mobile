@@ -1,3 +1,7 @@
+---
+description: "Swipe an item to remove it from the intervention."
+---
+
 # Remove an Item
 
 Swipe an item to remove it from the intervention.

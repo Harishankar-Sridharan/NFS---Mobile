@@ -1,3 +1,7 @@
+---
+description: "Create tasks that are completed by scanning a code, and tasks whose code is recorded by the first scan."
+---
+
 # Scan Task Setup
 
 Create tasks that are completed by scanning a code, and tasks whose code is recorded by the first scan.

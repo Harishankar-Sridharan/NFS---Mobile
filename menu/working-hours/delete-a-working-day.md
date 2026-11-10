@@ -1,4 +1,8 @@
-﻿# Delete a Working Day
+---
+description: "Remove the working hours of a day."
+---
+
+# Delete a Working Day
 
 Remove the working hours of a day.
 

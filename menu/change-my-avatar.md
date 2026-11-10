@@ -1,3 +1,7 @@
+---
+description: "Take a photo or choose an image to use as your picture in the app."
+---
+
 # Change My Avatar
 
 Take a photo or choose an image to use as your picture in the app.

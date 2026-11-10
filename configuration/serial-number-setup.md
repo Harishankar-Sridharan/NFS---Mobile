@@ -1,3 +1,7 @@
+---
+description: "Choose where NFS stores the serial number scanned in NFS Mobile."
+---
+
 # Serial Number Setup
 
 Choose where NFS stores the serial number scanned in NFS Mobile.

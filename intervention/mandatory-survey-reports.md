@@ -1,3 +1,7 @@
+---
+description: "Fill in the survey reports that your company requires before you can finish an intervention."
+---
+
 # Complete the Mandatory Survey Reports
 
 Fill in the survey reports that your company requires before you can finish an intervention.

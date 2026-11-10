@@ -1,4 +1,8 @@
-﻿# Customer Directory
+---
+description: "Find your customers' sites, check their details and act on them from the field."
+---
+
+# Customer Directory
 
 Find your customers' sites, check their details and act on them from the field.
 

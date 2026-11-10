@@ -1,3 +1,7 @@
+---
+description: "Start again an intervention that was abandoned."
+---
+
 # Restart an Abandoned Intervention
 
 Start again an intervention that was abandoned.

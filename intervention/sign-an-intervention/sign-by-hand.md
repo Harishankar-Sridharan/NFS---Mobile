@@ -1,4 +1,8 @@
-﻿# Sign by Hand
+---
+description: "Select the report and have it signed by hand on the screen."
+---
+
+# Sign by Hand
 
 Select the report and have it signed by hand on the screen.
 

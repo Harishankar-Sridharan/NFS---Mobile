@@ -1,4 +1,8 @@
-﻿# Send Your Position
+---
+description: "Send your current position to your team."
+---
+
+# Send Your Position
 
 Send your current position to your team.
 

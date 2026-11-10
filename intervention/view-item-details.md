@@ -1,3 +1,7 @@
+---
+description: "Open the product sheet of an item to check its stock, its references and its price."
+---
+
 # View the Details of an Item
 
 Open the product sheet of an item to check its stock, its references and its price.

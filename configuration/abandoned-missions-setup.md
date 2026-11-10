@@ -1,3 +1,7 @@
+---
+description: "Choose how an abandoned intervention is handled in NFS, and whether the app can restart it."
+---
+
 # Abandoned Missions Setup
 
 Choose how an abandoned intervention is handled in NFS, and whether the app can restart it.

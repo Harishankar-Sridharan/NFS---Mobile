@@ -1,3 +1,7 @@
+---
+description: "Find and read the settings of NFS Mobile in the back office."
+---
+
 # Application Settings for NFS Mobile
 
 Find and read the settings of NFS Mobile in the back office.

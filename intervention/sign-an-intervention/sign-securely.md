@@ -1,4 +1,8 @@
-﻿# Sign Securely
+---
+description: "Sign the document of the intervention electronically."
+---
+
+# Sign Securely
 
 Sign the document of the intervention electronically.
 

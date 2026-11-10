@@ -1,4 +1,8 @@
-﻿# Search Around Settings
+---
+description: "Set the limits of the search around a position."
+---
+
+# Search Around Settings
 
 Set the limits of the search around a position.
 

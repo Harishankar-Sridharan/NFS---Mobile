@@ -1,4 +1,8 @@
-﻿# View a Site
+---
+description: "Read the details of a customer site."
+---
+
+# View a Site
 
 Read the details of a customer site.
 

@@ -1,3 +1,7 @@
+---
+description: "Read the status of each intervention from the color of its marker on the map."
+---
+
 # Calendar Map Marker Colors
 
 Read the status of each intervention from the color of its marker on the map.

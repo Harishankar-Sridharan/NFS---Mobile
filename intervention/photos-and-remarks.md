@@ -1,4 +1,8 @@
-﻿# Add Photos and Remarks
+---
+description: "Add photos and remarks to an intervention in progress."
+---
+
+# Add Photos and Remarks
 
 Add photos and remarks to an intervention in progress.
 

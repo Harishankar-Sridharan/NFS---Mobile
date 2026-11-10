@@ -1,4 +1,8 @@
-﻿# Abandon an Intervention
+---
+description: "Abandon an intervention that you cannot carry out."
+---
+
+# Abandon an Intervention
 
 Abandon an intervention that you cannot carry out.
 

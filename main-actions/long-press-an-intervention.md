@@ -1,3 +1,7 @@
+---
+description: "Press an intervention for a long time to call the contact, get directions or open the site."
+---
+
 # Quick Actions on an Intervention
 
 Press an intervention for a long time to call the contact, get directions or open the site.

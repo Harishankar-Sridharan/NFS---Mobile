@@ -1,3 +1,7 @@
+---
+description: "Give an appointment a code that users can scan to open it in NFS Mobile."
+---
+
 # Intervention Scan Code Setup
 
 Give an appointment a code that users can scan to open it in NFS Mobile.

@@ -1,3 +1,7 @@
+---
+description: "Recognize the interventions that belong to the same group, and sign once for the whole group."
+---
+
 # Grouped Interventions
 
 Recognize the interventions that belong to the same group, and sign once for the whole group.

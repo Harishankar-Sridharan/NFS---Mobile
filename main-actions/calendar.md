@@ -1,3 +1,7 @@
+---
+description: "See your interventions by day, pick a date, open an intervention and view your visits on a map."
+---
+
 # Calendar
 
 See your interventions by day, pick a date, open an intervention and view your visits on a map.

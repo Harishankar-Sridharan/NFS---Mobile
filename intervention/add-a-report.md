@@ -1,3 +1,7 @@
+---
+description: "Add another report to an intervention, fill it in, and delete it if you added it by mistake."
+---
+
 # Add and Delete a Report During an Intervention
 
 Add another report to an intervention, fill it in, and delete it if you added it by mistake.

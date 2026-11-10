@@ -1,3 +1,7 @@
+---
+description: "Complete the contact and technician details that the electronic signature needs, before you sign securely."
+---
+
 # Fill In the Required Fields for Electronic Signature
 
 Complete the contact and technician details that the electronic signature needs, before you sign securely.

@@ -1,4 +1,8 @@
-﻿# App Launch
+---
+description: "Start the NFS Mobile app and sign in to your account."
+---
+
+# App Launch
 
 Start the NFS Mobile app and sign in to your account.
 
