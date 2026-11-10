@@ -30,6 +30,7 @@ This section covers:
 | [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
 | [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |
 | [Scan or Enter a Serial Number](scan-a-serial-number.md) | Scan a barcode or type a serial number for an item. |
+| [Calculate the Price of the Items](calculate-item-prices.md) | Calculate the price of each item and the total, with the tax. |
 | [Remove an Item](remove-an-item.md) | Swipe an item to remove it. |
 | [View the Documents of an Intervention](documents.md) | Open the files linked to the intervention. |
 

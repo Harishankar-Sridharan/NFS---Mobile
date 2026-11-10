@@ -1,4 +1,4 @@
-﻿# Add Items to an Intervention
+# Add Items to an Intervention
 
 Record the items that you use or sell during an intervention, and check their price.
 
@@ -55,6 +55,8 @@ To remove an item completely, see [Remove an Item](remove-an-item.md). To record
 <!-- REVIEW: confirm the meaning of the two numbers displayed under the plus button, for example 6/4 and 2/3. They may be the quantity used and the quantity planned. -->
 
 ## Calculate the price
+
+The price is calculated only when you tap the calculator button, once the intervention is started. For the detail of each item, the tax, and the custom price service, see [Calculate the Price of the Items](calculate-item-prices.md).
 
 1. At the bottom of the screen, tap the calculator button.
 2. Wait while the message **Calculating current price** is displayed.
