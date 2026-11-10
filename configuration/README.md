@@ -25,6 +25,7 @@ This section covers:
 | [Scan Task Setup](scan-task-setup.md) | Create scan tasks, including tasks whose code is recorded by the first scan. |
 | [Intervention Scan Code Setup](intervention-scan-code-setup.md) | Give an appointment a code that users can scan. |
 | [Hotel Nights Setup](hotel-nights-setup.md) | Assign a hotel to a technician and show the rests. |
+| [Unavailability Groups Setup](unavailability-groups-setup.md) | Group the unavailability types so that users pick a group first. |
 | [Unavailability Days Setup](unavailability-days-setup.md) | Allow unavailabilities and set how many past days users can declare. |
 
 ## Before you begin

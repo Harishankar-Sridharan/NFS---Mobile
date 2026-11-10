@@ -19,7 +19,7 @@ You can declare an unavailability for today and for the days to come. You can no
 
 <figure><img src="../../.gitbook/assets/nfs-mobile-unav-new-request.png" alt="New request page" width="300"><figcaption><p>New request page</p></figcaption></figure>
 
-4. In **Type of unavailability**, select the type, for example the type for a meeting.
+4. If your company uses groups, select the **Group concerned** first. See [Choose the Unavailability Type by Group](choose-the-unavailability-type-by-group.md). Then in **Type of unavailability**, select the type, for example the type for a meeting.
 5. In **Date period**, tap the calendar icon. The days that you cannot select are grayed out. In the example, the days before 15 January are grayed out.
 
 <figure><img src="../../.gitbook/assets/nfs-mobile-unav-date-picker.png" alt="Date picker" width="300"><figcaption><p>Date picker: past days that you can select</p></figcaption></figure>

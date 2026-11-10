@@ -1,4 +1,4 @@
-﻿# Browse the Sites List
+# Browse the Sites List
 
 Read the list of sites and open the site you need.
 
@@ -40,6 +40,8 @@ Three buttons are displayed at the right of the screen:
 2. The page of the site opens. See [View a Site](view-a-site.md).
 
 To return to the list, tap the back arrow at the top left of the site page.
+
+On the map, nearby sites are grouped in numbered circles. See [Clustered Markers on the Maps](../main-actions/map-clustering.md).
 
 ## Related topics
 

@@ -86,6 +86,8 @@ Accept an intervention to confirm that you will carry it out. A new intervention
 
 ## View your interventions on the map
 
+When several interventions are close together, the map groups them in a numbered circle. See [Clustered Markers on the Maps](map-clustering.md).
+
 1. On the **Calendar** page, tap **Map** in the top bar.
 2. The map displays the location of your interventions and your position.
 3. At the bottom of the screen, swipe the intervention cards left or right to display each intervention. A card shows the task type, the customer name and address, and the date and time of the intervention.

@@ -11,6 +11,7 @@ This section covers:
 | Topic | Description |
 | ----- | ----------- |
 | [Declare an Unavailability](declare-an-unavailability.md) | Ask for an unavailability, including for a day in the past. |
+| [Choose the Unavailability Type by Group](choose-the-unavailability-type-by-group.md) | Pick a group first, then the type. |
 | [See Your Unavailabilities in the Agenda](see-unavailabilities-in-the-agenda.md) | Find your unavailabilities in the calendar. |
 
 ## Before you begin
