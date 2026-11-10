@@ -1,12 +1,13 @@
 # Table of contents
 
 * [Introduction](introduction.md)
-* [What's New](whats-new.md)
 
 ## Getting started
 
 * [App Launch](README.md)
   * [Login](app-launch/app-launch.md)
+* [Quick Start](quick-start.md)
+* [App at a Glance](app-at-a-glance.md)
 
 ## Field user guide
 
@@ -109,5 +110,6 @@
 
 ## Reference
 
+* [Messages and Troubleshooting](reference/messages-and-troubleshooting.md)
 * [Find a Topic (A–Z)](reference/find-a-topic.md)
 * [Glossary](reference/glossary.md)

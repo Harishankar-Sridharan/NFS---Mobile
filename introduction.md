@@ -24,6 +24,8 @@ NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It sho
 | Section | What you will find |
 | ------- | ------------------ |
 | [App Launch](README.md) | Start the app and sign in. See [Login](app-launch/app-launch.md). |
+| [Quick Start](quick-start.md) | Follow your first intervention from login to the last tap. |
+| [App at a Glance](app-at-a-glance.md) | Find your way around: the navigation bar, the shortcuts, the statuses and the settings. |
 
 ### Field user guide
 
@@ -44,7 +46,7 @@ NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It sho
 
 | Page | What you will find |
 | ---- | ------------------ |
-| [What's New](whats-new.md) | The features added in each sprint review, with a link to each topic. |
+| [Messages and Troubleshooting](reference/messages-and-troubleshooting.md) | What each message of the app means, and what to do about it. |
 | [Find a Topic (A–Z)](reference/find-a-topic.md) | Every topic of the guide in alphabetical order. |
 | [Glossary](reference/glossary.md) | The meaning of the words used in the app and in this guide. |
 
@@ -52,6 +54,8 @@ NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It sho
 
 | I want to... | Go to |
 | ------------ | ----- |
+| Follow my first intervention step by step | [Quick Start](quick-start.md) |
+| Find my way around the app | [App at a Glance](app-at-a-glance.md) |
 | Sign in to the app | [Login](app-launch/app-launch.md) |
 | See my day at a glance | [Dashboard](main-actions/main-actions.md) |
 | See the interventions that I have started | [View Your Ongoing Interventions](main-actions/view-ongoing-interventions.md) |
@@ -72,6 +76,7 @@ NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It sho
 | Switch between kilometers and miles | [Change the Measurement Unit](main-actions/change-the-measurement-unit.md) |
 | Reload my data | [Refresh Your Data](main-actions/refresh-your-data.md) |
 | Send my logs to the support team | [Settings](main-actions/settings.md) and [Send Your Location Logs](main-actions/send-location-logs.md) |
+| Understand a message of the app | [Messages and Troubleshooting](reference/messages-and-troubleshooting.md) |
 | Set up the app for my company | [Mobile Configuration](configuration/README.md) |
 
 ## Tips
@@ -86,6 +91,6 @@ NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It sho
 
 ## Related topics
 
-* [What's New](whats-new.md)
+* [Quick Start](quick-start.md)
 * [Glossary](reference/glossary.md)
 * [Login](app-launch/app-launch.md)

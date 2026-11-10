@@ -25,6 +25,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Add Photos and Remarks](../intervention/photos-and-remarks.md) | Intervention | Add photos and remarks to an intervention in progress. |
 | [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md) | Customer Directory | Take a photo or select an image to illustrate a site. |
 | [Agenda Position and Saved Day](../main-actions/calendar-agenda-position.md) | Main Actions | See the current time at once in your agenda, and return to the day that you were viewing. |
+| [App at a Glance](../app-at-a-glance.md) | Getting started | Find your way around NFS Mobile: the navigation bar, the menu, the shortcuts and the statuses. |
 | [App Launch](../README.md) | Getting started | Start the NFS Mobile app and sign in to your account. |
 | [Application and Display Settings](../configuration/application-and-display-settings.md) | Mobile Configuration | Find the settings of the app and choose what it displays. |
 | [Application Settings for NFS Mobile](../configuration/application-settings.md) | Mobile Configuration | Find and read the settings of NFS Mobile in the back office. |
@@ -121,6 +122,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Mandatory Reports Setup](../configuration/mandatory-reports-setup.md) | Mobile Configuration | Decide which survey reports a field user must complete before finishing an intervention. |
 | [Measurement Unit Setup](../configuration/measurement-unit-setup.md) | Mobile Configuration | Choose whether NFS displays distances and speeds in kilometers or in miles. |
 | [Menu](../menu/README.md) | Field user guide | Open the menu of NFS Mobile to manage your working hours, read the version note and log out. |
+| [Messages and Troubleshooting](../reference/messages-and-troubleshooting.md) | Reference | Find what a message of the app means and what to do about it. |
 | [Mobile Configuration](../configuration/README.md) | Administrator guide | Configure NFS Mobile from the back office. |
 
 ## O
@@ -142,6 +144,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
 | [Quick Actions on an Intervention](../main-actions/long-press-an-intervention.md) | Main Actions | Press an intervention for a long time to call the contact, get directions or open the site. |
+| [Quick Start](../quick-start.md) | Getting started | Follow your first intervention from login to the last tap, with a link to the full topic for each step. |
 
 ## R
 
@@ -207,11 +210,10 @@ This page lists all the topics of the guide, with the section where each one is 
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
-| [What's New](../whats-new.md) | Start | See the features that were added to NFS Mobile, from the newest to the oldest, with a link to each topic. |
 | [Working Hours](../menu/working-hours/README.md) | Menu | Define the days and hours when you are available for interventions. |
 
 ## Related topics
 
 * [Introduction](../introduction.md)
 * [Glossary](glossary.md)
-* [What's New](../whats-new.md)
+* [Quick Start](../quick-start.md)
