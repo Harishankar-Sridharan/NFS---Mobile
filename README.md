@@ -1,7 +1,3 @@
----
-description: "Start the NFS Mobile app and sign in to your account."
----
-
 # App Launch
 
 Start the NFS Mobile app and sign in to your account.
@@ -12,10 +8,10 @@ NFS Mobile (**Nomadia Field Service**) is the app that field operators use to se
 
 This section covers:
 
-| Topic | Description |
-| ----- | ----------- |
+| Topic                             | Description                                     |
+| --------------------------------- | ----------------------------------------------- |
 | [Login](app-launch/app-launch.md) | Launch the app, sign in and open the dashboard. |
 
 ## Related topics
 
-* [Main Actions](main-actions/README.md)
+* [Main Actions](main-actions/)
