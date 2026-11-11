@@ -52,6 +52,7 @@ Among others, the group contains the following parameters.
 | **canReoptimizeDay** | Is it possible to ask to re-optimize a day? |
 | **useCombinedMissions** | Treat missions as combined for a given day. |
 | **displayRests** | Display the rests. It also controls the hotel nights. See [Hotel Nights Setup](hotel-nights-setup.md). |
+| **scanControlRegex** | The pattern that a scanned serial number must match. See [Scan Code Rules Setup](scan-code-rules-setup.md). |
 | **useSurveyReports** | Fill survey reports. |
 | **mandatoryMissionsPhotosNumber** | How many mandatory photos to take per mission. **0** means that photos are not mandatory. See [Required Photos Setup](required-photos-setup.md). |
 | **hideRemarkTab** | Hide the **Remarks** tab. See [Remarks Tab Setup](remarks-tab-setup.md). |

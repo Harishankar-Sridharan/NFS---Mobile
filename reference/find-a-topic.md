@@ -18,6 +18,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | ----- | ------- | -------------- |
 | [Abandon an Intervention](../intervention/abandon-an-intervention.md) | Intervention | Abandon an intervention that you cannot carry out. |
 | [Abandoned Missions Setup](../configuration/abandoned-missions-setup.md) | Mobile Configuration | Choose how an abandoned intervention is handled in NFS, and whether the app can restart it. |
+| [Accept Only Valid Scan Codes](../intervention/valid-scan-codes.md) | Intervention | Know which scanned codes the app accepts for an item, and what happens when a code is rejected. |
 | [Add a Working Day](../menu/working-hours/add-a-working-day.md) | Menu | Define the working hours of a day. |
 | [Add and Delete a Report During an Intervention](../intervention/add-a-report.md) | Intervention | Add another report to an intervention, fill it in, and delete it if you added it by mistake. |
 | [Add Documents to a Site](../customer-directory/add-documents-to-a-site.md) | Customer Directory | Link documents, images and other files to a site. |
@@ -120,6 +121,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Main Actions](../main-actions/README.md) | Field user guide | Use the main pages of NFS Mobile to manage your day in the field. |
 | [Mandatory Fields and Drop-Down Lists on Items](../intervention/mandatory-and-list-item-fields.md) | Intervention | Choose a value in a drop-down list, and fill in the mandatory fields of the items that you used. |
 | [Mandatory Reports Setup](../configuration/mandatory-reports-setup.md) | Mobile Configuration | Decide which survey reports a field user must complete before finishing an intervention. |
+| [Mandatory Serial Number Setup](../configuration/mandatory-serial-number-setup.md) | Mobile Configuration | Make the serial number of selected items mandatory, with a logical field on the product or with the access type of the filler. |
 | [Measurement Unit Setup](../configuration/measurement-unit-setup.md) | Mobile Configuration | Choose whether NFS displays distances and speeds in kilometers or in miles. |
 | [Menu](../menu/README.md) | Field user guide | Open the menu of NFS Mobile to manage your working hours, read the version note and log out. |
 | [Messages and Troubleshooting](../reference/messages-and-troubleshooting.md) | Reference | Find what a message of the app means and what to do about it. |
@@ -165,8 +167,10 @@ This page lists all the topics of the guide, with the section where each one is 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
 | [Scan a Task Code](../intervention/scan-a-task-code.md) | Intervention | Complete a task by scanning its code, including a task whose code is recorded when you scan it. |
+| [Scan Code Rules Setup](../configuration/scan-code-rules-setup.md) | Mobile Configuration | Limit the codes that the app accepts for the serial number of an item, with a regular expression. |
 | [Scan or Enter a Serial Number](../intervention/scan-a-serial-number.md) | Intervention | Link a barcode or QR code, or a number you type, to an item of the intervention. |
 | [Scan Task Setup](../configuration/scan-task-setup.md) | Mobile Configuration | Create tasks that are completed by scanning a code, and tasks whose code is recorded by the first scan. |
+| [Scan the Mandatory Serial Numbers](../intervention/mandatory-serial-number.md) | Intervention | Scan the serial number of each item that your company marks as mandatory, before you finish the intervention. |
 | [Search Around Settings](../configuration/search-around-settings.md) | Mobile Configuration | Set the limits of the search around a position. |
 | [See Your Unavailabilities in the Agenda](../menu/unavailabilities/see-unavailabilities-in-the-agenda.md) | Menu | Find your unavailabilities, and your interventions, for the past days that you can display. |
 | [Send Your Location Logs](../main-actions/send-location-logs.md) | Main Actions | Send the file that records how your position was tracked, so that your support team can diagnose a problem. |
@@ -210,6 +214,7 @@ This page lists all the topics of the guide, with the section where each one is 
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
+| [Week View of the Calendar](../main-actions/calendar-week-view.md) | Main Actions | Read five consecutive days at once in the week display of the calendar, and jump to a day. |
 | [Working Hours](../menu/working-hours/README.md) | Menu | Define the days and hours when you are available for interventions. |
 
 ## Related topics

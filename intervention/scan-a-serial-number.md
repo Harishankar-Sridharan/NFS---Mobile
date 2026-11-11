@@ -91,6 +91,8 @@ You can also scan a code to find a product in the catalog, and to find a task. T
 
 ## Related topics
 
+* [Scan the Mandatory Serial Numbers](mandatory-serial-number.md)
+* [Accept Only Valid Scan Codes](valid-scan-codes.md)
 * [Add Items to an Intervention](add-items-to-an-intervention.md)
 * [View the Details of an Item](view-item-details.md)
 * [Serial Number Setup](../configuration/serial-number-setup.md)

@@ -72,6 +72,7 @@ See also [Main Actions](main-actions/README.md).
 | See my agenda and my map | [Calendar](main-actions/calendar.md) |
 | Return to the day that I was viewing | [Agenda Position and Saved Day](main-actions/calendar-agenda-position.md) |
 | Read the status of an intervention on the map | [Calendar Map Marker Colors](main-actions/calendar-map-marker-colors.md) |
+| Read five days at once in my agenda | [Week View of the Calendar](main-actions/calendar-week-view.md) |
 | Read a crowded map | [Clustered Markers on the Maps](main-actions/map-clustering.md) |
 | Work on several interventions of the same customer | [Grouped Interventions](main-actions/grouped-interventions.md) |
 | See my hotel nights | [Hotel Nights in the Calendar](main-actions/calendar-hotel-nights.md) |
@@ -142,6 +143,8 @@ See also [Items and Prices](intervention/items-and-prices.md).
 | See or edit the extra fields of an item | [View and Edit the Extra Fields of an Item](intervention/edit-extra-item-fields.md) |
 | Fill in the mandatory fields of an item, or choose a value in a list | [Mandatory Fields and Drop-Down Lists on Items](intervention/mandatory-and-list-item-fields.md) |
 | Scan a serial number | [Scan or Enter a Serial Number](intervention/scan-a-serial-number.md) |
+| Scan the serial numbers that are mandatory | [Scan the Mandatory Serial Numbers](intervention/mandatory-serial-number.md) |
+| Understand why a scanned code is rejected | [Accept Only Valid Scan Codes](intervention/valid-scan-codes.md) |
 | Calculate the price | [Calculate the Price of the Items](intervention/calculate-item-prices.md) |
 | Remove an item | [Remove an Item](intervention/remove-an-item.md) |
 
@@ -186,6 +189,8 @@ See also [Mobile Configuration](configuration/README.md).
 | Give an appointment a code that users can scan | [Intervention Scan Code Setup](configuration/intervention-scan-code-setup.md) |
 | Set the products and the price calculation | [Price Calculation Setup](configuration/price-calculation-setup.md), in [Item and Price Settings](configuration/item-and-price-settings.md) |
 | Choose where the serial number is stored | [Serial Number Setup](configuration/serial-number-setup.md) |
+| Make the serial number of items mandatory | [Mandatory Serial Number Setup](configuration/mandatory-serial-number-setup.md) |
+| Limit the codes that a scan accepts | [Scan Code Rules Setup](configuration/scan-code-rules-setup.md) |
 | Add extra fields to the items | [Extra Item Fields Setup](configuration/extra-item-fields-setup.md) |
 | Assign a hotel and show the rests | [Hotel Nights Setup](configuration/hotel-nights-setup.md), in [Planning and Unavailability Settings](configuration/planning-and-unavailability-settings.md) |
 | Allow unavailabilities and set the number of past days | [Unavailability Days Setup](configuration/unavailability-days-setup.md) |

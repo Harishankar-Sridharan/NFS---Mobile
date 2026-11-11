@@ -27,6 +27,8 @@ This section covers:
 | [Signature Settings](signature-settings.md) | Set whether signatures are possible, mandatory and electronic. |
 | [Search Around Settings](search-around-settings.md) | Set the limits of the search for sites and leads around a position. |
 | [Price Calculation Setup](price-calculation-setup.md) | Set the products and prices used by the Items page of an intervention. |
+| [Mandatory Serial Number Setup](mandatory-serial-number-setup.md) | Make the serial number of selected items mandatory. |
+| [Scan Code Rules Setup](scan-code-rules-setup.md) | Limit the codes that the app accepts for a serial number. |
 | [Serial Number Setup](serial-number-setup.md) | Choose where NFS stores the serial number scanned in the app. |
 | [Required Photos Setup](required-photos-setup.md) | Require a minimum number of photos before an intervention is finished. |
 | [Remarks Tab Setup](remarks-tab-setup.md) | Show or hide the Remarks shortcut. |

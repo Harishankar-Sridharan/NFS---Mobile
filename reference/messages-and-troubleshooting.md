@@ -21,6 +21,7 @@ The app displays messages when a step is blocked, when it is working, and when t
 | **Please fill mandatory report fields to proceed** | A mandatory report, or a mandatory field of a report, is not completed. | Complete the reports that are marked as mandatory. See [Complete the Mandatory Survey Reports](../intervention/mandatory-survey-reports.md) and [Fill in the Report](../intervention/report.md). |
 | **Minimum photo requirement not achieved. Please provide 1 more photo(s) to proceed.** | Your company requires a minimum number of photos, and you took fewer. The message gives the number of missing photos. | Take the missing photos, then finish again. See [Take the Required Photos](../intervention/required-photos.md). |
 | **Items – Please fill in all required fields for the items used** | A mandatory field of an item that you used is empty. | Open the item and fill in its mandatory fields. See [Mandatory Fields and Drop-Down Lists on Items](../intervention/mandatory-and-list-item-fields.md). |
+| **Items – Please fill serial number for:** | The serial number of an item that you used is mandatory and is not recorded. The message lists the items. | Scan or type the serial number of each listed item. See [Scan the Mandatory Serial Numbers](../intervention/mandatory-serial-number.md). |
 | **You must have the intervention signed** | The signature is mandatory for this intervention. | Tap **Ok**, then sign. See [Sign an Intervention](../intervention/sign-an-intervention/README.md). |
 | **Mandatory information required** | The secure signature needs details of the contact or of the technician that are missing. The message lists them. | Fill in the missing fields. See [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md). |
 | **Unable to retrieve the electronic signature** | An older version of the app displayed this message when the details for the secure signature were missing. | Fill in the details of the contact and of the technician. See [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md). |
@@ -39,6 +40,8 @@ The app displays messages when a step is blocked, when it is working, and when t
 | ------- | ------------- | ---------- |
 | **No intervention found for the scanned code** | No intervention of your agenda has this code. | Check the code, then scan it again. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md). |
 | **Scan code is empty or contains only spaces** | The code that you scanned or typed is empty. | Scan or type the code again. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md). |
+
+| **Unknown item** | The scanned code does not match the pattern that your company set for serial numbers. | Scan the right code. See [Accept Only Valid Scan Codes](../intervention/valid-scan-codes.md). |
 
 ## Messages about the network
 

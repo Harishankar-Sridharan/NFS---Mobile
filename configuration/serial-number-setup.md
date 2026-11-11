@@ -38,6 +38,8 @@ Test the change on a test environment before you apply it to production. A param
 
 ## Related topics
 
+* [Mandatory Serial Number Setup](mandatory-serial-number-setup.md)
+* [Scan Code Rules Setup](scan-code-rules-setup.md)
 * [Application Settings for NFS Mobile](application-settings.md)
 * [Scan or Enter a Serial Number](../intervention/scan-a-serial-number.md)
 * [Mobile Configuration](README.md)

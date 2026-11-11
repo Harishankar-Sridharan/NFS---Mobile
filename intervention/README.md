@@ -44,6 +44,8 @@ This section covers:
 | [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Fill in survey forms before the start and without a network. |
 | [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
 | [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |
+| [Scan the Mandatory Serial Numbers](mandatory-serial-number.md) | Scan the serial number of each item that your company marks as mandatory. |
+| [Accept Only Valid Scan Codes](valid-scan-codes.md) | Know which scanned codes the app accepts for an item. |
 | [Scan or Enter a Serial Number](scan-a-serial-number.md) | Scan a barcode or type a serial number for an item. |
 | [Calculate the Price of the Items](calculate-item-prices.md) | Calculate the price of each item and the total, with the tax. |
 | [Remove an Item](remove-an-item.md) | Swipe an item to remove it. |

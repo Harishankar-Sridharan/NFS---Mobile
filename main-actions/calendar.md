@@ -116,6 +116,8 @@ On the map, you can also:
 
 ### Display
 
+For the **Week** display, see [Week View of the Calendar](calendar-week-view.md).
+
 In **Display**, choose how the agenda is shown. The selected option is highlighted in dark blue.
 
 | Option | Description |
