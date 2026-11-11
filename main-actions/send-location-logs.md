@@ -43,7 +43,7 @@ After a successful sending, the app deletes the sent file from your device and s
 
 ## Automatic sending
 
-You do not need to send the file every day. Each time you open the app, it compares the date of the log file with the current date. If the file is more than 24 hours old, the app sends it to the back office by itself.
+The app no longer sends the location log by itself. The sending every 24 hours was removed, because it could fill a temporary folder of the server. You send the file only on demand, from **Settings**. Your support team can also ask you for the app logs. See [Send the App Logs](send-app-logs.md).
 
 ## What the log contains
 
@@ -63,6 +63,7 @@ The **Send location logs** option is different from the logs of the app itself. 
 
 ## Related topics
 
+* [Send the App Logs](send-app-logs.md)
 * [Settings](settings.md)
 * [Send Your Position](../menu/coworkers/send-your-position.md)
 * [Privacy Mode](../menu/coworkers/privacy-mode.md)

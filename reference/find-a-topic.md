@@ -10,7 +10,7 @@ Browse every topic of the guide in alphabetical order.
 
 This page lists all the topics of the guide, with the section where each one is and a short description. Select a letter to jump to it, then select a topic to open it.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)
 
 ## A
 
@@ -28,8 +28,10 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Agenda Position and Saved Day](../main-actions/calendar-agenda-position.md) | Main Actions | See the current time at once in your agenda, and return to the day that you were viewing. |
 | [App at a Glance](../app-at-a-glance.md) | Getting started | Find your way around NFS Mobile: the navigation bar, the menu, the shortcuts and the statuses. |
 | [App Launch](../README.md) | Getting started | Start the NFS Mobile app and sign in to your account. |
+| [App Logs Setup](../configuration/app-logs-setup.md) | Mobile Configuration | Find the app logs that users send, and read their header and their lines. |
 | [Application and Display Settings](../configuration/application-and-display-settings.md) | Mobile Configuration | Find the settings of the app and choose what it displays. |
 | [Application Settings for NFS Mobile](../configuration/application-settings.md) | Mobile Configuration | Find and read the settings of NFS Mobile in the back office. |
+| [Automatic Suggestion Setup](../configuration/automatic-suggestion-setup.md) | Mobile Configuration | Turn on the geofencing that lets the app suggest the next intervention near the technician. |
 
 ## B
 
@@ -85,6 +87,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
 | [Get Directions to a Site](../customer-directory/get-directions-to-a-site.md) | Customer Directory | Open the route to a site in your navigation app. |
+| [Get Suggested Interventions Near You](../main-actions/suggested-interventions.md) | Main Actions | Get a message that suggests the next intervention when you are close to its address and its time is near. |
 | [Glossary](../reference/glossary.md) | Reference | Find the meaning of the words that the app and this guide use. |
 | [Grouped Interventions](../main-actions/grouped-interventions.md) | Main Actions | Recognize the interventions that belong to the same group, and sign once for the whole group. |
 
@@ -106,6 +109,12 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Introduction](../introduction.md) | Start | Run your day in the field with NFS Mobile, and find out how to use every feature in this guide. |
 | [Item and Price Settings](../configuration/item-and-price-settings.md) | Mobile Configuration | Set the products, the prices and the fields of the items. |
 | [Items and Prices](../intervention/items-and-prices.md) | Intervention | Record the items that you use, and calculate their price. |
+
+## K
+
+| Topic | Section | What it covers |
+| ----- | ------- | -------------- |
+| [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md) | Intervention | Create a task in the app, and give the reason when you complete a scan task by hand, without losing the comment of the task. |
 
 ## L
 
@@ -173,6 +182,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Scan the Mandatory Serial Numbers](../intervention/mandatory-serial-number.md) | Intervention | Scan the serial number of each item that your company marks as mandatory, before you finish the intervention. |
 | [Search Around Settings](../configuration/search-around-settings.md) | Mobile Configuration | Set the limits of the search around a position. |
 | [See Your Unavailabilities in the Agenda](../menu/unavailabilities/see-unavailabilities-in-the-agenda.md) | Menu | Find your unavailabilities, and your interventions, for the past days that you can display. |
+| [Send the App Logs](../main-actions/send-app-logs.md) | Main Actions | Send the log file of the app to the back office, so that your support team can find the cause of a problem. |
 | [Send Your Location Logs](../main-actions/send-location-logs.md) | Main Actions | Send the file that records how your position was tracked, so that your support team can diagnose a problem. |
 | [Send Your Position](../menu/coworkers/send-your-position.md) | Menu | Send your current position to your team. |
 | [Serial Number Setup](../configuration/serial-number-setup.md) | Mobile Configuration | Choose where NFS stores the serial number scanned in NFS Mobile. |
@@ -183,12 +193,15 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Sign Securely](../intervention/sign-an-intervention/sign-securely.md) | Intervention | Sign the document of the intervention electronically. |
 | [Signature Settings](../configuration/signature-settings.md) | Mobile Configuration | Set whether signatures are possible, mandatory and electronic. |
 | [Start an Intervention](../intervention/start-an-intervention.md) | Intervention | Open an accepted intervention, check its details and start it. |
+| [Swap Setup](../configuration/swap-interventions-setup.md) | Mobile Configuration | Allow field users to swap two interventions of their agenda. |
+| [Swap Two Interventions](../main-actions/swap-interventions.md) | Main Actions | Exchange the time slots of two interventions of your agenda, and handle the three possible answers of the back office. |
 
 ## T
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
 | [Take the Required Photos](../intervention/required-photos.md) | Intervention | Take the minimum number of photos that your company requires before you finish an intervention. |
+| [Task Comment Setup](../configuration/task-comment-setup.md) | Mobile Configuration | Choose whether the reason of a manual scan replaces the comment of a task or is saved in a separate field. |
 
 ## U
 

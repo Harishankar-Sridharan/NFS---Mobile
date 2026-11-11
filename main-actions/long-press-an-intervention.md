@@ -40,6 +40,7 @@ Press an intervention in the calendar for a long time. The same panel is display
 | **Itinerary** | Opens the route to the intervention. |
 | **Going to intervention** | Starts the journey to the intervention. |
 | **Accept intervention** | Accepts the intervention. |
+| **Select for swap** | Starts a swap with another intervention. See [Swap Two Interventions](swap-interventions.md). |
 
 **Accept intervention** is displayed only when the intervention is not accepted yet. Once accepted, the button disappears.
 

@@ -26,6 +26,7 @@ This section covers:
 | Topic | Description |
 | ----- | ----------- |
 | [Start an Intervention](start-an-intervention.md) | Open an accepted intervention, check its details and start it. |
+| [Keep the Task Comment When You Scan by Hand](task-comment-and-manual-scan.md) | Create a task in the app and give the reason of a manual scan. |
 | [Scan a Task Code](scan-a-task-code.md) | Complete a task by scanning its code. |
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |

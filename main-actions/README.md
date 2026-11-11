@@ -21,6 +21,9 @@ This section covers:
 | [Calendar Map Marker Colors](calendar-map-marker-colors.md) | Read the status of an intervention from the color of its marker. |
 | [Clustered Markers on the Maps](map-clustering.md) | Read the numbered clusters on the calendar map and the sites map. |
 | [Week View of the Calendar](calendar-week-view.md) | Read five consecutive days at once and jump to a day. |
+| [Swap Two Interventions](swap-interventions.md) | Exchange the time slots of two interventions of your agenda. |
+| [Get Suggested Interventions Near You](suggested-interventions.md) | Get a message that suggests the next intervention when you are near its address. |
+| [Send the App Logs](send-app-logs.md) | Send the log file of the app to the back office. |
 | [Grouped Interventions](grouped-interventions.md) | Recognize grouped interventions and sign once for the group. |
 | [Hotel Nights in the Calendar](calendar-hotel-nights.md) | See your hotel nights apart from the rest periods. |
 | [Open an Intervention with a Scan](open-an-intervention-with-a-scan.md) | Scan a code to open an intervention. |

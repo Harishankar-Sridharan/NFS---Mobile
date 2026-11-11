@@ -43,6 +43,7 @@ The interval between two positions is set in the back office, for example every 
 
 ## Related topics
 
+* [App Logs Setup](app-logs-setup.md)
 * [Send Your Location Logs](../main-actions/send-location-logs.md)
 * [Application Settings for NFS Mobile](application-settings.md)
 * [Privacy Mode](../menu/coworkers/privacy-mode.md)

@@ -26,6 +26,9 @@ The app displays messages when a step is blocked, when it is working, and when t
 | **Mandatory information required** | The secure signature needs details of the contact or of the technician that are missing. The message lists them. | Fill in the missing fields. See [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md). |
 | **Unable to retrieve the electronic signature** | An older version of the app displayed this message when the details for the secure signature were missing. | Fill in the details of the contact and of the technician. See [Fill In the Required Fields for Electronic Signature](../intervention/sign-an-intervention/required-fields-for-electronic-signature.md). |
 | **Warning** with **Do you wish to continue?** | You already have interventions in progress, and you start or restart another one. The message lists them. | Tap **Continue** to start this one too, or **Cancel**. See [Start an Intervention](../intervention/start-an-intervention.md). |
+| **Impossible to swap selected interventions** | The back office says that the two interventions cannot be swapped. | Choose other interventions. See [Swap Two Interventions](../main-actions/swap-interventions.md). |
+| **Impossible to swap** with **Force** and **Ignore** | The swap breaks a constraint. The page lists the reasons. | Read the reasons, then tap **Force** or **Ignore**. See [Swap Two Interventions](../main-actions/swap-interventions.md). |
+| **Why are you manually scanning this optic code ?** | A scan task is completed by hand. | Choose a reason. See [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md). |
 
 ## Messages about a file or a photo
 
@@ -40,9 +43,7 @@ The app displays messages when a step is blocked, when it is working, and when t
 | ------- | ------------- | ---------- |
 | **No intervention found for the scanned code** | No intervention of your agenda has this code. | Check the code, then scan it again. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md). |
 | **Scan code is empty or contains only spaces** | The code that you scanned or typed is empty. | Scan or type the code again. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md). |
-
 | **Unknown item** | The scanned code does not match the pattern that your company set for serial numbers. | Scan the right code. See [Accept Only Valid Scan Codes](../intervention/valid-scan-codes.md). |
-
 ## Messages about the network
 
 | Message | What it means | What to do |
@@ -50,6 +51,7 @@ The app displays messages when a step is blocked, when it is working, and when t
 | **You are offline. No interaction will be lost** | Your device has no network. The app keeps your work. | Keep working. The data is sent when the network is back. See [Fill In Survey Forms Offline](../intervention/fill-in-forms-offline.md). |
 | **Waiting for a network connection** | The app kept your action and waits for the network. | Connect your device, then synchronize your data. See [Refresh Your Data](../main-actions/refresh-your-data.md). |
 | **Request failed** | The app could not send the file, or a refresh found nothing new. | Try again later. See [Send Your Location Logs](../main-actions/send-location-logs.md) and [Restart an Abandoned Intervention](../intervention/restart-an-abandoned-intervention.md). |
+| **Intervention swap in progress – Please wait** | The app is waiting for the answer of the back office about a swap. | Wait. See [Swap Two Interventions](../main-actions/swap-interventions.md). |
 | **Sending data in progress – Please wait** | The app is sending your data. | Wait. Do not close the app. See [Finish an Intervention](../intervention/finish-an-intervention.md). |
 
 ## Messages about a search
@@ -77,3 +79,4 @@ The app displays messages when a step is blocked, when it is working, and when t
 * [App at a Glance](../app-at-a-glance.md)
 * [Settings](../main-actions/settings.md)
 * [Mobile Configuration](../configuration/README.md)
+

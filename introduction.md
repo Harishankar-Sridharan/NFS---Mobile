@@ -77,6 +77,8 @@ See also [Main Actions](main-actions/README.md).
 | Work on several interventions of the same customer | [Grouped Interventions](main-actions/grouped-interventions.md) |
 | See my hotel nights | [Hotel Nights in the Calendar](main-actions/calendar-hotel-nights.md) |
 | Open an intervention by scanning its code | [Open an Intervention with a Scan](main-actions/open-an-intervention-with-a-scan.md) |
+| Swap two interventions of my agenda | [Swap Two Interventions](main-actions/swap-interventions.md) |
+| Get the next intervention suggested when I am near it | [Get Suggested Interventions Near You](main-actions/suggested-interventions.md) |
 | Call the contact or get directions in one move | [Quick Actions on an Intervention](main-actions/long-press-an-intervention.md) |
 
 ### Work with my customers
@@ -100,6 +102,7 @@ See also [Intervention](intervention/README.md) and [Run an Intervention](interv
 | ------------ | ----- |
 | Start an intervention | [Start an Intervention](intervention/start-an-intervention.md) |
 | Complete a task by scanning its code | [Scan a Task Code](intervention/scan-a-task-code.md) |
+| Create a task, or give the reason of a manual scan | [Keep the Task Comment When You Scan by Hand](intervention/task-comment-and-manual-scan.md) |
 | Finish an intervention | [Finish an Intervention](intervention/finish-an-intervention.md) |
 | Cancel an intervention that I started | [Cancel an Intervention](intervention/cancel-an-intervention.md) |
 | Abandon an intervention that I cannot carry out | [Abandon an Intervention](intervention/abandon-an-intervention.md) |
@@ -168,6 +171,7 @@ See also [Menu](menu/README.md), [Coworkers](menu/coworkers/README.md), [Unavail
 | Clear the cache, or choose my display preferences | [Settings](main-actions/settings.md) |
 | Switch between kilometers and miles | [Change the Measurement Unit](main-actions/change-the-measurement-unit.md) |
 | Reload my data | [Refresh Your Data](main-actions/refresh-your-data.md) |
+| Send the app log to the support team | [Send the App Logs](main-actions/send-app-logs.md) |
 | Send my location log to the support team | [Send Your Location Logs](main-actions/send-location-logs.md) |
 
 ### Set up the app for my company
@@ -181,11 +185,13 @@ See also [Mobile Configuration](configuration/README.md).
 | Choose kilometers or miles in the back office | [Measurement Unit Setup](configuration/measurement-unit-setup.md) |
 | Show or hide the Remarks shortcut | [Remarks Tab Setup](configuration/remarks-tab-setup.md) |
 | Find the location logs | [Location Logs Setup](configuration/location-logs-setup.md) |
+| Find the app logs that users send | [App Logs Setup](configuration/app-logs-setup.md) |
 | Decide whether signatures are possible, mandatory and electronic | [Signature Settings](configuration/signature-settings.md), in [Intervention and Report Settings](configuration/intervention-and-report-settings.md) |
 | Require a minimum number of photos | [Required Photos Setup](configuration/required-photos-setup.md) |
 | Make survey reports mandatory | [Mandatory Reports Setup](configuration/mandatory-reports-setup.md) |
 | Choose how abandoned interventions are handled | [Abandoned Missions Setup](configuration/abandoned-missions-setup.md) |
 | Create tasks that are completed by a scan | [Scan Task Setup](configuration/scan-task-setup.md) |
+| Choose where the reason of a manual scan is saved | [Task Comment Setup](configuration/task-comment-setup.md) |
 | Give an appointment a code that users can scan | [Intervention Scan Code Setup](configuration/intervention-scan-code-setup.md) |
 | Set the products and the price calculation | [Price Calculation Setup](configuration/price-calculation-setup.md), in [Item and Price Settings](configuration/item-and-price-settings.md) |
 | Choose where the serial number is stored | [Serial Number Setup](configuration/serial-number-setup.md) |
@@ -193,6 +199,8 @@ See also [Mobile Configuration](configuration/README.md).
 | Limit the codes that a scan accepts | [Scan Code Rules Setup](configuration/scan-code-rules-setup.md) |
 | Add extra fields to the items | [Extra Item Fields Setup](configuration/extra-item-fields-setup.md) |
 | Assign a hotel and show the rests | [Hotel Nights Setup](configuration/hotel-nights-setup.md), in [Planning and Unavailability Settings](configuration/planning-and-unavailability-settings.md) |
+| Allow users to swap two interventions | [Swap Setup](configuration/swap-interventions-setup.md) |
+| Let the app suggest the next intervention near the technician | [Automatic Suggestion Setup](configuration/automatic-suggestion-setup.md) |
 | Allow unavailabilities and set the number of past days | [Unavailability Days Setup](configuration/unavailability-days-setup.md) |
 | Group the unavailability types | [Unavailability Groups Setup](configuration/unavailability-groups-setup.md) |
 

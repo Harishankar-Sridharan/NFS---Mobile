@@ -33,7 +33,7 @@ The **Actions** section contains three options. Tap an option to run it.
 | ------ | ----------- |
 | **Clear Cache** | Clear the cache of the app. |
 | **General conditions of use** | Display the legal notices and general conditions of use. |
-| **Send logs** | Send the logs of the app. |
+| **Send logs** | Send the app log to the back office. See [Send the App Logs](send-app-logs.md). |
 | **Send location logs** | Send the log file of the position tracking to the back office. See [Send Your Location Logs](send-location-logs.md). |
 
 {% hint style="info" %}

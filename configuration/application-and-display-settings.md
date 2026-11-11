@@ -18,6 +18,7 @@ These topics describe the general settings of NFS Mobile: where to find them in 
 | [Search Around Settings](search-around-settings.md) | Set the limits of the search around a position. |
 | [Measurement Unit Setup](measurement-unit-setup.md) | Choose whether NFS displays distances and speeds in kilometers or in miles. |
 | [Remarks Tab Setup](remarks-tab-setup.md) | Show or hide the Remarks shortcut on the intervention page of the app. |
+| [App Logs Setup](app-logs-setup.md) | Find the app logs that users send, and read their header and their lines. |
 | [Location Logs Setup](location-logs-setup.md) | Find the location logs sent by NFS Mobile and the settings that control the tracking. |
 
 ## Related topics

@@ -88,6 +88,10 @@ Accept an intervention to confirm that you will carry it out. A new intervention
 
 <!-- REVIEW: the video shows the Accept button but does not tap it. Confirm what happens after Accept: the new status (for example Accepted), any confirmation message, and which options appear next (for example starting the journey). -->
 
+## Swap two interventions
+
+You can swap two interventions of your agenda. See [Swap Two Interventions](swap-interventions.md).
+
 ## View your interventions on the map
 
 When several interventions are close together, the map groups them in a numbered circle. See [Clustered Markers on the Maps](map-clustering.md).
