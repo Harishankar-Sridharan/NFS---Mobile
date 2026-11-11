@@ -4,8 +4,6 @@ description: "Select the report and have it signed by hand on the screen."
 
 # Sign by Hand
 
-Select the report and have it signed by hand on the screen.
-
 ## Overview
 
 With **By hand**, the customer and the technician sign on the screen of the device. You first select the report to sign, then each person draws a signature.

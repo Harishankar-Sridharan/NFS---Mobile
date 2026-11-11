@@ -4,8 +4,6 @@ description: "Define the days and hours when you are available for interventions
 
 # Working Hours
 
-Define the days and hours when you are available for interventions.
-
 ## Overview
 
 The working hours tell NFS when you work. Planners use them to plan interventions for you. A working day has a morning period and an evening period, for example **07:30 - 10:00** and **15:00 - 18:00**.

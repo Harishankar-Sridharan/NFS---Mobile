@@ -4,8 +4,6 @@ description: "Calculate the price of each item and the total of the intervention
 
 # Calculate the Price of the Items
 
-Calculate the price of each item and the total of the intervention, with the tax.
-
 ## Overview
 
 The **Items** page can calculate a price for each item in two ways:

@@ -4,8 +4,6 @@ description: "Create a new intervention on the spot, from the Intervention page.
 
 # Create an Intervention
 
-Create a new intervention on the spot, from the Intervention page.
-
 ## Overview
 
 You can create an intervention yourself when a visit was not planned. You choose the site, then either start the intervention immediately or ask the system to find a slot.

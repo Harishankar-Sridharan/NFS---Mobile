@@ -4,8 +4,6 @@ description: "Send your current position to your team."
 
 # Send Your Position
 
-Send your current position to your team.
-
 ## Overview
 
 When the **Privacy mode** is on, the app does not send your position. You can still send your current position at a given moment, for example when your planner asks where you are. The app asks you to confirm before it sends anything.

@@ -4,8 +4,6 @@ description: "Run your day in the field with NFS Mobile, and find out how to use
 
 # Introduction
 
-Run your day in the field with NFS Mobile, and find out how to use every feature in this guide.
-
 ## Overview
 
 NFS Mobile (**Nomadia Field Service**) is the app of the field operators. It shows the interventions planned for you, and it guides you through each one: start it, fill in the report, take the photos, record the items, have it signed, and finish it. The data that you enter is sent to NFS, the back office, where your planner and your administrator can follow your work. The app also keeps working for a while when your device has no network, and sends your data when the network is back.

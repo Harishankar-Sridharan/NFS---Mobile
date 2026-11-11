@@ -4,8 +4,6 @@ description: "Open the menu of NFS Mobile to manage your working hours, read the
 
 # Menu
 
-Open the menu of NFS Mobile to manage your working hours, read the version note and log out.
-
 ## Overview
 
 The menu groups the options that are not part of your daily work screens. It shows your photo, your name and the version of the app, followed by the available options.

@@ -4,8 +4,6 @@ description: "Fill in the survey reports that your company requires before you c
 
 # Complete the Mandatory Survey Reports
 
-Fill in the survey reports that your company requires before you can finish an intervention.
-
 ## Overview
 
 Your company can decide that some survey reports are **mandatory**. The app marks them in the list of reports, and it does not let you finish the intervention until you complete them. A report that is not mandatory can stay empty.

@@ -4,8 +4,6 @@ description: "Show or hide the Remarks shortcut on the intervention page of the 
 
 # Remarks Tab Setup
 
-Show or hide the Remarks shortcut on the intervention page of the app.
-
 ## Overview
 
 By default, the **Remarks** shortcut is displayed on the **Intervention** page once the intervention is started, and it stays displayed after it is finished. The **hideRemarkTab** setting lets you hide it. Its description is **Hide remark tab?**

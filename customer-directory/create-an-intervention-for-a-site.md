@@ -4,8 +4,6 @@ description: "Create a new intervention for the site that you are viewing."
 
 # Create an Intervention for a Site
 
-Create a new intervention for the site that you are viewing.
-
 ## Overview
 
 From the menu of a site, you can create an intervention directly for this site. The site is already selected when the **Create an intervention** page opens.

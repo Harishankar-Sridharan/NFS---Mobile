@@ -4,8 +4,6 @@ description: "Find your customers' sites, check their details and act on them fr
 
 # Customer Directory
 
-Find your customers' sites, check their details and act on them from the field.
-
 ## Overview
 
 The **Customer Directory** lists the sites that you work with. From the directory, you can open a site, read its information, create an intervention for it, add photos and documents, and get directions.

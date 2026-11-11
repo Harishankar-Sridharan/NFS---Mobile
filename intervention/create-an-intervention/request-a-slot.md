@@ -4,8 +4,6 @@ description: "Ask the system to find the best slot for a new intervention."
 
 # Request a Slot
 
-Ask the system to find the best slot for a new intervention.
-
 ## Overview
 
 Use **Request a slot** when the intervention does not have to start immediately. You describe the intervention and the period in which it can be done. The system then automatically finds the best slot, based on your route.

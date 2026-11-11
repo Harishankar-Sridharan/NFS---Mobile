@@ -4,8 +4,6 @@ description: "Turn on the geofencing that lets the app suggest the next interven
 
 # Automatic Suggestion Setup
 
-Turn on the geofencing that lets the app suggest the next intervention near the technician.
-
 ## Overview
 
 A setting of **otmobile.settings** about the geofencing decides whether the app suggests the interventions by itself. When it is **true**, the app suggests an intervention when the technician is within 500 meters of its address and its time is within 30 minutes. See [Get Suggested Interventions Near You](../main-actions/suggested-interventions.md).

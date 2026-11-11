@@ -4,8 +4,6 @@ description: "Choose where NFS stores the serial number scanned in NFS Mobile."
 
 # Serial Number Setup
 
-Choose where NFS stores the serial number scanned in NFS Mobile.
-
 ## Overview
 
 When a field user scans or types a serial number for an item, NFS Mobile sends it to NFS with the intervention. The back office decides in which field of the appointment details the number is stored. By configuration, the serial number is mapped to a filler field of the product order detail. In the demo, it is stored in **Detail filler5**.

@@ -4,8 +4,6 @@ description: "Choose a value in a drop-down list, and fill in the mandatory fiel
 
 # Mandatory Fields and Drop-Down Lists on Items
 
-Choose a value in a drop-down list, and fill in the mandatory fields of the items that you used.
-
 ## Overview
 
 The extra fields of an item now support two more behaviors:

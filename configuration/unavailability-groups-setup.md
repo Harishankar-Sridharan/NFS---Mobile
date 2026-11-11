@@ -4,8 +4,6 @@ description: "Group the unavailability types, so that users pick a group before 
 
 # Unavailability Groups Setup
 
-Group the unavailability types, so that users pick a group before the type.
-
 ## Overview
 
 Each unavailability type has a **Group name**. NFS Mobile reads the group names of all the types and builds the **Group concerned** list in the request form. When a user selects a group, the app lists only the types of that group. Types that have an empty group name are listed under **Unassigned**. See [Choose the Unavailability Type by Group](../menu/unavailabilities/choose-the-unavailability-type-by-group.md).

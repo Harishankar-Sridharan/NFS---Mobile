@@ -4,8 +4,6 @@ description: "Create a task in the app, and give the reason when you complete a 
 
 # Keep the Task Comment When You Scan by Hand
 
-Create a task in the app, and give the reason when you complete a scan task by hand, without losing the comment of the task.
-
 ## Overview
 
 A scan task is a task that you complete by scanning its code. If you cannot scan it, you can complete it by hand. The app then asks **Why are you manually scanning this optic code ?**, and you choose a reason.

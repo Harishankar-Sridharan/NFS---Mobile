@@ -4,8 +4,6 @@ description: "Recognize the interventions that belong to the same group, and sig
 
 # Grouped Interventions
 
-Recognize the interventions that belong to the same group, and sign once for the whole group.
-
 ## Overview
 
 Several interventions at the same customer on the same day are grouped. The rule is now simple: **same day, same customer**. Before, the interventions also had to follow each other without a break, so a lunch break or a visit to another customer split the group.

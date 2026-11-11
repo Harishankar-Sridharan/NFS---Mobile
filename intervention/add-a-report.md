@@ -4,8 +4,6 @@ description: "Add another report to an intervention, fill it in, and delete it i
 
 # Add and Delete a Report During an Intervention
 
-Add another report to an intervention, fill it in, and delete it if you added it by mistake.
-
 ## Overview
 
 The **Reports** page lists the reports of the intervention. You can now add a report from this page, for example when you need a second maintenance report. You can add the same report several times, and each copy has its own answers. A report that you added and did not submit can be deleted.

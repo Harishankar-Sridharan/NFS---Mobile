@@ -4,8 +4,6 @@ description: "Cancel an intervention that you have started and return it to the 
 
 # Cancel an Intervention
 
-Cancel an intervention that you have started and return it to the accepted state.
-
 ## Overview
 
 If you started an intervention by mistake, or you cannot carry on with it, you can cancel it. Cancelling an intervention does not delete it: its status returns from **In progress** to **Accepted**. You can then start the intervention again, or [abandon it](abandon-an-intervention.md).

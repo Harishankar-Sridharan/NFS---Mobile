@@ -4,8 +4,6 @@ description: "Choose whether the reason of a manual scan replaces the comment of
 
 # Task Comment Setup
 
-Choose whether the reason of a manual scan replaces the comment of a task or is saved in a separate field.
-
 ## Overview
 
 When a technician completes a scan task by hand, the app asks for a reason. A setting decides where the reason goes. See [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md).

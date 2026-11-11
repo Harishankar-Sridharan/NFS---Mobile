@@ -4,8 +4,6 @@ description: "Change the site of the intervention that you create."
 
 # Choose the Site
 
-Change the site of the intervention that you create.
-
 ## Overview
 
 When you create an intervention, a site is already selected. You can replace it with another site from a list that is sorted by distance from your position.

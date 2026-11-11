@@ -4,8 +4,6 @@ description: "See the nights that you spend away from home, separately from your
 
 # Hotel Nights in the Calendar
 
-See the nights that you spend away from home, separately from your rest periods.
-
 ## Overview
 
 When you work away from home, your planner can assign a hotel to you for some nights. The calendar shows these **Hotel nights**, like the rest and the lunch break. Before, a night away was displayed as a **Rest** period, so you could not tell the two apart.

@@ -4,8 +4,6 @@ description: "Give an appointment a code that users can scan to open it in NFS M
 
 # Intervention Scan Code Setup
 
-Give an appointment a code that users can scan to open it in NFS Mobile.
-
 ## Overview
 
 In the demo, the code of an appointment is stored in an extra field of the appointment, for example **Extra filler 1**, with the value **scan_APPT_1738**. When a user scans a barcode or a QR code with this value, the app opens the appointment. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md).

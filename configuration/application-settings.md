@@ -4,8 +4,6 @@ description: "Find and read the settings of NFS Mobile in the back office."
 
 # Application Settings for NFS Mobile
 
-Find and read the settings of NFS Mobile in the back office.
-
 ## Overview
 
 The settings of NFS Mobile are grouped under **OTMobile** in the **Application settings** page of the Administration module. The main group is **otmobile.settings**.

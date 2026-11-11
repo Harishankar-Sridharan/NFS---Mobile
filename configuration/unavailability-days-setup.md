@@ -4,8 +4,6 @@ description: "Allow field users to declare unavailabilities, and set how many da
 
 # Unavailability Days Setup
 
-Allow field users to declare unavailabilities, and set how many days in the past they can go back.
-
 ## Overview
 
 Two settings of **otmobile.settings** control the unavailabilities of NFS Mobile.

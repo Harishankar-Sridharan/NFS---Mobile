@@ -4,8 +4,6 @@ description: "Browse every topic of the guide in alphabetical order."
 
 # Find a Topic (A–Z)
 
-Browse every topic of the guide in alphabetical order.
-
 ## Overview
 
 This page lists all the topics of the guide, with the section where each one is and a short description. Select a letter to jump to it, then select a topic to open it.

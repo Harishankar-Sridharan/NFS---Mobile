@@ -4,8 +4,6 @@ description: "List all the interventions that you have started, from the dashboa
 
 # View Your Ongoing Interventions
 
-List all the interventions that you have started, from the dashboard.
-
 ## Overview
 
 The dashboard has an **In progress** tab that lists all your ongoing interventions. Before, you had to open the calendar and check each day to find the interventions in progress. Now you see them in one list, and you open any of them in one tap.

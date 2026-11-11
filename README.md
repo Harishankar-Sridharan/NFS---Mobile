@@ -4,8 +4,6 @@ description: "Start the NFS Mobile app and sign in to your account."
 
 # App Launch
 
-Start the NFS Mobile app and sign in to your account.
-
 ## Overview
 
 NFS Mobile (**Nomadia Field Service**) is the app that field operators use to see their interventions and manage their day. Before you can use it, you must launch it and log in.

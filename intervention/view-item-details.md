@@ -4,8 +4,6 @@ description: "Open the product sheet of an item to check its stock, its referenc
 
 # View the Details of an Item
 
-Open the product sheet of an item to check its stock, its references and its price.
-
 ## Overview
 
 The **Details** page, also called the product sheet, shows the information of an item of the intervention: its photo, its stock, its references, its unit price and its description. The page was redesigned: the stock and the details are now displayed one under the other, and the quantity is chosen in a bar at the bottom of the screen.

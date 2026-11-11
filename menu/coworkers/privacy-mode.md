@@ -4,8 +4,6 @@ description: "Stop sharing your position, and hide the positions of your coworke
 
 # Privacy Mode
 
-Stop sharing your position, and hide the positions of your coworkers.
-
 ## Overview
 
 The **Privacy mode** protects your privacy. When it is on:

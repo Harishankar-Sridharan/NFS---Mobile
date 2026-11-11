@@ -4,8 +4,6 @@ description: "See and update the additional information that your company adds t
 
 # View and Edit the Extra Fields of an Item
 
-See and update the additional information that your company adds to an item, such as a link, a checkbox, a number or a date.
-
 ## Overview
 
 On the **Details** page of an item, the app always shows the standard fields, such as the stock, the reference and the unit price. Your administrator can add **extra fields** to the items of the intervention. These fields show more information to the technician, and the technician can update most of them. Each field has a type, so the app offers the right way to enter the value.

@@ -4,8 +4,6 @@ description: "Take a photo or select an image to illustrate a site."
 
 # Add Photos to a Site
 
-Take a photo or select an image to illustrate a site.
-
 ## Overview
 
 You can attach photos to a site, for example a photo of its entrance. The photos are listed on the **List of photos** page. Once saved, the photo is displayed at the top of the site page.

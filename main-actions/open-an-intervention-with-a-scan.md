@@ -4,8 +4,6 @@ description: "Scan a barcode or a QR code to open the intervention that it ident
 
 # Open an Intervention with a Scan
 
-Scan a barcode or a QR code to open the intervention that it identifies.
-
 ## Overview
 
 The **Access an intervention** action opens the camera. When you scan the code of an intervention, the app opens that intervention at once. You do not have to look for it in your agenda.

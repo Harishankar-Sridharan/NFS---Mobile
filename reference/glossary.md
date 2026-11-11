@@ -4,8 +4,6 @@ description: "Find the meaning of the words that the app and this guide use."
 
 # Glossary
 
-Find the meaning of the words that the app and this guide use.
-
 ## Overview
 
 The words are in alphabetical order. Each definition has a link to the topic that explains it in detail, and to the administrator topic when your company can set it up.

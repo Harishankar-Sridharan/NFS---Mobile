@@ -4,8 +4,6 @@ description: "Remove the working hours of a day."
 
 # Delete a Working Day
 
-Remove the working hours of a day.
-
 ## Overview
 
 Delete a working day when you no longer work on that date. The day is removed from your list.

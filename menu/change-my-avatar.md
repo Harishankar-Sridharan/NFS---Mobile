@@ -4,8 +4,6 @@ description: "Take a photo or choose an image to use as your picture in the app.
 
 # Change My Avatar
 
-Take a photo or choose an image to use as your picture in the app.
-
 ## Overview
 
 Your avatar is the round picture at the top right of the **Menu**. It is also displayed on the dashboard. You can change it by taking a photo or by choosing an image from your device. It also works when your device has no network.

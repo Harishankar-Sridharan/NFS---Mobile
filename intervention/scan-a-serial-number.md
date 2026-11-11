@@ -4,8 +4,6 @@ description: "Link a barcode or QR code, or a number you type, to an item of the
 
 # Scan or Enter a Serial Number
 
-Link a barcode or QR code, or a number you type, to an item of the intervention.
-
 ## Overview
 
 For each item of an intervention, you can record a serial number. You can scan a barcode or a QR code with the camera of your device, or type the number by hand when the code cannot be scanned. The serial number is saved with the item and sent to NFS when you finish the intervention.

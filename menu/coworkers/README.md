@@ -4,8 +4,6 @@ description: "See where your coworkers are, and control whether your own positio
 
 # Coworkers
 
-See where your coworkers are, and control whether your own position is shared.
-
 ## Overview
 
 NFS Mobile can show the positions of your coworkers on a map, so that you can organize your work with your team. Your position is shared in the same way, unless you turn on the **Privacy mode**.

@@ -4,8 +4,6 @@ description: "Press an intervention for a long time to call the contact, get dir
 
 # Quick Actions on an Intervention
 
-Press an intervention for a long time to call the contact, get directions or open the site.
-
 ## Overview
 
 A long press on an intervention opens a panel of quick actions at the bottom of the screen. You can use it in the list of interventions to plan and in the calendar.

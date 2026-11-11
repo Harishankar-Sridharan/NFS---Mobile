@@ -4,8 +4,6 @@ description: "Set how interventions, signatures, photos, reports and tasks behav
 
 # Intervention and Report Settings
 
-Set how interventions, signatures, photos, reports and tasks behave.
-
 ## Overview
 
 These topics describe the settings that decide what a field user must do to finish an intervention: sign it, take photos, complete reports and scan codes. They also describe how abandoned interventions are handled.

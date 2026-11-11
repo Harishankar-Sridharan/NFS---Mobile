@@ -4,8 +4,6 @@ description: "Finish the intervention and send your data to NFS."
 
 # Finish an Intervention
 
-Finish the intervention and send your data to NFS.
-
 ## Overview
 
 When your work is done, finish the intervention. NFS Mobile sends your report, photos and remarks, and the status of the intervention changes to **Completed**.

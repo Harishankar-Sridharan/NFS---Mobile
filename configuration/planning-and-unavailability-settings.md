@@ -4,8 +4,6 @@ description: "Set the hotel nights and the unavailabilities of the agenda."
 
 # Planning and Unavailability Settings
 
-Set the hotel nights and the unavailabilities of the agenda.
-
 ## Overview
 
 These topics describe the settings that change what the agenda shows and what a user can declare: the hotel nights, the number of past days for the unavailabilities, and the groups of unavailability types.

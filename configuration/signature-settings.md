@@ -4,8 +4,6 @@ description: "Set whether signatures are possible, mandatory and electronic."
 
 # Signature Settings
 
-Set whether signatures are possible, mandatory and electronic.
-
 ## Overview
 
 The signature settings decide what happens when a user finishes an intervention in NFS Mobile: whether the intervention can be signed, who must sign, and whether the signature is electronic.

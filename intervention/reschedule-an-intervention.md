@@ -4,8 +4,6 @@ description: "Move an intervention to another date and time."
 
 # Reschedule an Intervention
 
-Move an intervention to another date and time.
-
 ## Overview
 
 If you cannot carry out an intervention at the planned time, you can look for another slot and reschedule it. You choose a period and a priority, the app searches the available slots, and you select one.

@@ -4,8 +4,6 @@ description: "Set the limits of the search around a position."
 
 # Search Around Settings
 
-Set the limits of the search around a position.
-
 ## Overview
 
 The app can search for entities around a position: events, customers and leads. These settings limit the number of results and the distance and travel time of the search. They also define the upper limits that a user can set in the app.

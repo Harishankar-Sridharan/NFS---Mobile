@@ -4,8 +4,6 @@ description: "Read the list of sites and open the site you need."
 
 # Browse the Sites List
 
-Read the list of sites and open the site you need.
-
 ## Overview
 
 The **Sites** tab lists the sites around you. Each site shows how far it is from your position, so you can find the nearest customers quickly.

@@ -4,8 +4,6 @@ description: "See your interventions by day, pick a date, open an intervention a
 
 # Calendar
 
-See your interventions by day, pick a date, open an intervention and view your visits on a map.
-
 ## Overview
 
 The **Calendar** page shows your agenda. It displays your interventions for the selected day, with your rest and lunch break times and the route between visits. You can switch between a calendar view and a map view.

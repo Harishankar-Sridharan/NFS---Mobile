@@ -4,8 +4,6 @@ description: "Get a message that suggests the next intervention when you are clo
 
 # Get Suggested Interventions Near You
 
-Get a message that suggests the next intervention when you are close to its address and its time is near.
-
 ## Overview
 
 When you arrive near the address of an intervention, the app suggests it to you. You can open it in one tap, without looking for it in your agenda. The app does this by itself, from your position and the time.

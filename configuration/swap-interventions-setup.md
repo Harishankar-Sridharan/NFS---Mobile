@@ -4,8 +4,6 @@ description: "Allow field users to swap two interventions of their agenda."
 
 # Swap Setup
 
-Allow field users to swap two interventions of their agenda.
-
 ## Overview
 
 The **canSwapMissions** setting of **otmobile.settings** turns the swap on or off. Its description is **Is it possible to swap two missions planned for the same technician?**

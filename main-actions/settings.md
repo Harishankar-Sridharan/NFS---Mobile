@@ -4,8 +4,6 @@ description: "Clear the app cache, read the conditions of use, send your logs an
 
 # Settings
 
-Clear the app cache, read the conditions of use, send your logs and set your display preferences.
-
 ## Overview
 
 The **Settings** page groups the actions and preferences of the NFS Mobile app. It is organized in three sections:

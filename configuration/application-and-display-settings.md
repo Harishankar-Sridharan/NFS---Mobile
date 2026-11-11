@@ -4,8 +4,6 @@ description: "Find the settings of the app and choose what it displays."
 
 # Application and Display Settings
 
-Find the settings of the app and choose what it displays.
-
 ## Overview
 
 These topics describe the general settings of NFS Mobile: where to find them in the back office, the distances unit, the search around a position, the remarks tab and the location logs.

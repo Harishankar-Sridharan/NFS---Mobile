@@ -4,8 +4,6 @@ description: "Set the products, the prices and the fields of the items."
 
 # Item and Price Settings
 
-Set the products, the prices and the fields of the items.
-
 ## Overview
 
 These topics describe how to set up the items of an intervention: the products and the price calculation, the serial numbers, and the extra fields that technicians can see and edit.

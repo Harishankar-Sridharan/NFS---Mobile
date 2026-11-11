@@ -4,8 +4,6 @@ description: "Set the products and prices used by the Items page of an intervent
 
 # Price Calculation Setup
 
-Set the products and prices used by the Items page of an intervention.
-
 ## Overview
 
 The **Items** page of an intervention lists products and calculates a total price. Each product is defined in the back office, with its unit price and its stock. The app multiplies the unit price by the quantity chosen by the user.

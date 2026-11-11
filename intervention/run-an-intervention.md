@@ -4,8 +4,6 @@ description: "Carry out an intervention from its start to its end, and handle th
 
 # Run an Intervention
 
-Carry out an intervention from its start to its end, and handle the cases when you cannot.
-
 ## Overview
 
 These topics follow the life of an intervention in the app. You start it, complete its tasks, and finish it. If you cannot carry it out, you cancel it or abandon it, and an abandoned intervention can be started again.

@@ -4,8 +4,6 @@ description: "Refuse to sign and explain why."
 
 # Decline to Sign
 
-Refuse to sign and explain why.
-
 ## Overview
 
 A signatory can refuse to sign the document. The refusal is recorded with an explanation, so that your company knows why the intervention was not signed.

@@ -4,8 +4,6 @@ description: "Define the hours you usually work on each day of the week."
 
 # Set Your Typical Week
 
-Define the hours you usually work on each day of the week.
-
 ## Overview
 
 The **Typical week** page sets your usual working hours for each day, from Monday to Sunday. For each day, you turn the day on or off and set a morning period and an evening period.

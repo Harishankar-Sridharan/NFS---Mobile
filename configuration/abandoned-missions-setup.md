@@ -4,8 +4,6 @@ description: "Choose how an abandoned intervention is handled in NFS, and whethe
 
 # Abandoned Missions Setup
 
-Choose how an abandoned intervention is handled in NFS, and whether the app can restart it.
-
 ## Overview
 
 In NFS Mobile, the user taps **Abandon**. In the back office, the same intervention has another name: **Removed** (cancelled) or **Suspended** (on hold). A setting decides which one it receives, and only removed interventions are sent back to the app. The user can then restart them.

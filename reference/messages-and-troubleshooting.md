@@ -4,8 +4,6 @@ description: "Find what a message of the app means and what to do about it."
 
 # Messages and Troubleshooting
 
-Find what a message of the app means and what to do about it.
-
 ## Overview
 
 The app displays messages when a step is blocked, when it is working, and when there is no network. This page lists the messages that this guide describes, with the reason and the action, and a link to the topic that explains the step.

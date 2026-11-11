@@ -4,8 +4,6 @@ description: "Record the items that you use, and calculate their price."
 
 # Items and Prices
 
-Record the items that you use, and calculate their price.
-
 ## Overview
 
 These topics cover the items of an intervention: add and remove them, read their details and their extra fields, record their serial numbers, and calculate their price with the tax.

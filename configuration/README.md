@@ -4,8 +4,6 @@ description: "Configure NFS Mobile from the back office."
 
 # Mobile Configuration
 
-Configure NFS Mobile from the back office.
-
 ## Overview
 
 This section is for administrators. It describes the settings of the back office that change how NFS Mobile behaves for field users: which actions they can perform, how signatures and prices work, and how the search around a position behaves.

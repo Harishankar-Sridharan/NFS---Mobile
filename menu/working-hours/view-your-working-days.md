@@ -4,8 +4,6 @@ description: "See your working hours for the next 15 days."
 
 # View Your Working Days
 
-See your working hours for the next 15 days.
-
 ## Overview
 
 The **My working days** page lists your working hours day by day. It shows the next 15 days, starting today.

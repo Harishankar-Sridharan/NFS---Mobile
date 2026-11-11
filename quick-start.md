@@ -4,8 +4,6 @@ description: "Follow your first intervention from login to the last tap, with a 
 
 # Quick Start
 
-Follow your first intervention from login to the last tap, with a link to the full topic for each step.
-
 ## Overview
 
 This page is a short path through the app for a field user. Each step is one tap or one action, and it links to the topic that explains it in detail. Your company may switch some steps on or off, for example the photos or the signature, so you may not see every step.

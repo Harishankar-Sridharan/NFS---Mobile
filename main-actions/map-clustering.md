@@ -4,8 +4,6 @@ description: "Read a crowded map: nearby markers are grouped into one numbered c
 
 # Clustered Markers on the Maps
 
-Read a crowded map: nearby markers are grouped into one numbered circle that opens as you zoom in.
-
 ## Overview
 
 The two main maps of the app now group markers that are close to each other:

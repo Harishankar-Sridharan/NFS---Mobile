@@ -4,8 +4,6 @@ description: "Decide which survey reports a field user must complete before fini
 
 # Mandatory Reports Setup
 
-Decide which survey reports a field user must complete before finishing an intervention.
-
 ## Overview
 
 In the back office, each survey report has a **Mandatory** column. When it is **Yes**, the app marks the report as mandatory and blocks the end of the intervention until the user completes it. See [Complete the Mandatory Survey Reports](../intervention/mandatory-survey-reports.md).

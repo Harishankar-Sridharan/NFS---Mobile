@@ -4,8 +4,6 @@ description: "Carry out an intervention from start to finish with NFS Mobile."
 
 # Intervention
 
-Carry out an intervention from start to finish with NFS Mobile.
-
 ## Overview
 
 An intervention is a visit planned for you at a customer site. In NFS Mobile, you start the intervention, fill in the report, add photos and remarks, then finish the intervention. Each step updates the intervention status, so your planner can follow your work.

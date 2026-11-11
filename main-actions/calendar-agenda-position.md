@@ -4,8 +4,6 @@ description: "See the current time at once in your agenda, and return to the day
 
 # Agenda Position and Saved Day
 
-See the current time at once in your agenda, and return to the day that you were viewing.
-
 ## Overview
 
 The agenda now remembers where you were. When you open the **Calendar** page, the current time is centered in the screen. When you open an intervention of another day and come back, the app returns to that day, and it centers the current time again.

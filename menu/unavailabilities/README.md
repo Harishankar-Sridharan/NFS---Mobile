@@ -4,8 +4,6 @@ description: "Declare the days and hours when you cannot work, and follow their 
 
 # Unavailabilities
 
-Declare the days and hours when you cannot work, and follow their status.
-
 ## Overview
 
 An unavailability is a period when you are not available, for example a leave or a meeting. Your planner sees it, so that no intervention is planned during this period. You manage your unavailabilities from the **Menu**.

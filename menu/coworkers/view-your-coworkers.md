@@ -4,8 +4,6 @@ description: "Open the map of your coworkers and read their cards."
 
 # View Your Coworkers
 
-Open the map of your coworkers and read their cards.
-
 ## Overview
 
 The coworkers page shows a map with the position of each coworker, and a card for each of them at the bottom of the screen. You can see at a glance who is nearest to you.

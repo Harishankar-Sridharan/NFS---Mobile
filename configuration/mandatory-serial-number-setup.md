@@ -4,8 +4,6 @@ description: "Make the serial number of selected items mandatory, with a logical
 
 # Mandatory Serial Number Setup
 
-Make the serial number of selected items mandatory, with a logical field on the product or with the access type of the filler.
-
 ## Overview
 
 The serial number of an item can be mandatory in two ways. Both work for the items that your planner adds in NFS, and the second one also covers the items that the technician adds in the app.

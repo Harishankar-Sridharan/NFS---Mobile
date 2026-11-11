@@ -4,8 +4,6 @@ description: "Open, fill in and update survey forms at any stage of the interven
 
 # Fill In Survey Forms Offline
 
-Open, fill in and update survey forms at any stage of the intervention, even when your device has no network.
-
 ## Overview
 
 Some reports of an intervention are survey forms. They have several pages and field types, such as choices, a file upload, a list, a date and a signature. Two improvements make them easier to use in the field:

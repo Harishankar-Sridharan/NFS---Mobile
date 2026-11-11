@@ -4,8 +4,6 @@ description: "Add photos and remarks to an intervention in progress."
 
 # Add Photos and Remarks
 
-Add photos and remarks to an intervention in progress.
-
 ## Overview
 
 You can add photos to document your work and write remarks about the intervention. A number on the **Photos** shortcut shows how many photos the intervention contains.

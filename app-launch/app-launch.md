@@ -4,8 +4,6 @@ description: "Sign in to NFS Mobile to open your dashboard."
 
 # Login
 
-Sign in to NFS Mobile to open your dashboard.
-
 ## Overview
 
 After you launch the app, the login page asks for your credentials and the address of your NFS server. Once you are signed in, the app loads your data and opens the [dashboard](../main-actions/main-actions.md).

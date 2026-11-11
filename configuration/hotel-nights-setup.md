@@ -4,8 +4,6 @@ description: "Assign a hotel to a technician for a period, and choose whether th
 
 # Hotel Nights Setup
 
-Assign a hotel to a technician for a period, and choose whether the app shows the rest periods and hotel nights.
-
 ## Overview
 
 A hotel night is an exceptional location of a mobile resource. The planner creates it in NFS, and NFS Mobile shows it in the calendar. See [Hotel Nights in the Calendar](../main-actions/calendar-hotel-nights.md).

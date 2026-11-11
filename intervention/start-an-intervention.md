@@ -4,8 +4,6 @@ description: "Open an accepted intervention, check its details and start it."
 
 # Start an Intervention
 
-Open an accepted intervention, check its details and start it.
-
 ## Overview
 
 When you start an intervention, its status changes to **In progress** and a timer starts. You can start an intervention that you have accepted.

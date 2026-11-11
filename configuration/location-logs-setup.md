@@ -4,8 +4,6 @@ description: "Find the location logs sent by NFS Mobile and the settings that co
 
 # Location Logs Setup
 
-Find the location logs sent by NFS Mobile and the settings that control the tracking.
-
 ## Overview
 
 When a field user sends the location logs, or when the app sends them by itself, the file is stored in the back office. You can open it to check when the tracking started and stopped, and whether the positions were sent. See [Send Your Location Logs](../main-actions/send-location-logs.md).

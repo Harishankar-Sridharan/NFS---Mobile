@@ -4,8 +4,6 @@ description: "See your day at a glance and reach your interventions quickly."
 
 # Dashboard
 
-See your day at a glance and reach your interventions quickly.
-
 ## Overview
 
 The dashboard is the home page of NFS Mobile. It opens after you log in. It shows your planned interventions and the progress of the day, and gives you shortcuts to search for an intervention or to list the interventions in progress.

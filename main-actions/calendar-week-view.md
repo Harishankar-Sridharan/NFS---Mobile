@@ -4,8 +4,6 @@ description: "Read five consecutive days at once in the week display of the cale
 
 # Week View of the Calendar
 
-Read five consecutive days at once in the week display of the calendar, and jump to a day.
-
 ## Overview
 
 The **Week** display of the calendar was redesigned. Before, you saw one or two days at a time. Now you see at least five consecutive days side by side, so that you can compare your days at a glance.

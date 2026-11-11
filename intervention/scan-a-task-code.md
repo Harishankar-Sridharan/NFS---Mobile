@@ -4,8 +4,6 @@ description: "Complete a task by scanning its code, including a task whose code 
 
 # Scan a Task Code
 
-Complete a task by scanning its code, including a task whose code is recorded when you scan it.
-
 ## Overview
 
 An intervention can have a list of tasks to complete at certain stages: before you accept, before you start, and during the intervention. You complete a task in one of three ways: you tap it, you read its NFC tag, or you scan its barcode or QR code.

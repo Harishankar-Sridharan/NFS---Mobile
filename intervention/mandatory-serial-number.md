@@ -4,8 +4,6 @@ description: "Scan the serial number of each item that your company marks as man
 
 # Scan the Mandatory Serial Numbers
 
-Scan the serial number of each item that your company marks as mandatory, before you finish the intervention.
-
 ## Overview
 
 Your company can decide that the serial number of an item is **mandatory**. The app marks the field with a red asterisk (*). It does not let you finish the intervention until the serial number of each mandatory item is recorded. The rule can be different for each product: a product can require a serial number while another product does not.

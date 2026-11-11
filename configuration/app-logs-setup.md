@@ -4,8 +4,6 @@ description: "Find the app logs that users send, and read their header and their
 
 # App Logs Setup
 
-Find the app logs that users send, and read their header and their lines.
-
 ## Overview
 
 When a user sends the app logs, the file is stored on the server, in the folder of the user, next to the tracking logs. You open it to see what the app did before an error. See [Send the App Logs](../main-actions/send-app-logs.md).

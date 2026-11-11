@@ -4,8 +4,6 @@ description: "Create an intervention and start it immediately."
 
 # Intervene Now
 
-Create an intervention and start it immediately.
-
 ## Overview
 
 Use **Intervene now** when you are already at the site and want to start the intervention without waiting for a slot. You describe the intervention, fill in the additional information, add documents if needed and create it.

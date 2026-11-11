@@ -4,8 +4,6 @@ description: "Fill in the reports, take the photos and read the documents of an 
 
 # Reports, Photos and Documents
 
-Fill in the reports, take the photos and read the documents of an intervention.
-
 ## Overview
 
 These topics cover everything that you record or read during an intervention: the reports and the survey forms, the photos and the remarks, and the documents that are linked to it. Some of them can be mandatory, and some of them work offline.

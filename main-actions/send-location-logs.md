@@ -4,8 +4,6 @@ description: "Send the file that records how your position was tracked, so that 
 
 # Send Your Location Logs
 
-Send the file that records how your position was tracked, so that your support team can diagnose a problem.
-
 ## Overview
 
 NFS Mobile keeps a log of its position tracking: when tracking started and stopped, when a position was sent, and whether the sending worked. You can send this location log file to the back office from the **Settings** page. The app also sends it by itself.

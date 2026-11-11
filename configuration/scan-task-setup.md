@@ -4,8 +4,6 @@ description: "Create tasks that are completed by scanning a code, and tasks whos
 
 # Scan Task Setup
 
-Create tasks that are completed by scanning a code, and tasks whose code is recorded by the first scan.
-
 ## Overview
 
 The tasks of an appointment are stored as status tasks of the appointment. A task is a scan task when its code field is filled. In the demo, the code of a scan task is stored in a filler field that the custom settings map to the code of the task.

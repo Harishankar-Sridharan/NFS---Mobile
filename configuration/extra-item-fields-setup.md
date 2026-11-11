@@ -4,8 +4,6 @@ description: "Add extra fields to the items of an intervention, so that technici
 
 # Extra Item Fields Setup
 
-Add extra fields to the items of an intervention, so that technicians can see and edit more information.
-
 ## Overview
 
 The items of an intervention use the **product order details** of NFS. They have fixed fields that the app already knows, such as the article reference, the ordered quantity and the unit price. You can add up to six **extra fields** of different types. NFS Mobile shows them on the **Details** page of each item, and the technician can edit them. See [View and Edit the Extra Fields of an Item](../intervention/edit-extra-item-fields.md).

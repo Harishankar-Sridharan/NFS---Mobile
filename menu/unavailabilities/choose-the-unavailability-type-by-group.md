@@ -4,8 +4,6 @@ description: "Find the right type of unavailability faster, by picking its group
 
 # Choose the Unavailability Type by Group
 
-Find the right type of unavailability faster, by picking its group first.
-
 ## Overview
 
 When you declare an unavailability, the list of types can be long. The request form now asks for a **Group concerned** first. The list of types then shows only the types of that group. The groups come from the back office.

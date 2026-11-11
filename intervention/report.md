@@ -4,8 +4,6 @@ description: "Fill in the report of an intervention in progress."
 
 # Fill in the Report
 
-Fill in the report of an intervention in progress.
-
 ## Overview
 
 The report collects the information that your company needs about the intervention. Fields marked with an asterisk (*) are mandatory. You must fill in all mandatory fields before you can go on.

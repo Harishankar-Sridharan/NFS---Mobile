@@ -4,8 +4,6 @@ description: "Find your way around NFS Mobile: the navigation bar, the menu, the
 
 # App at a Glance
 
-Find your way around NFS Mobile: the navigation bar, the menu, the shortcuts and the statuses.
-
 ## Overview
 
 This page is a map of the app. It shows where each main page is, what the icons open, and what the statuses mean, with a link to the full topic for each one.

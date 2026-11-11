@@ -4,8 +4,6 @@ description: "Start again an intervention that was abandoned."
 
 # Restart an Abandoned Intervention
 
-Start again an intervention that was abandoned.
-
 ## Overview
 
 Abandoned interventions are now displayed in your agenda. You can open one and restart it from the app. When you restart it, its status changes from **Abandoned** to **In progress**.

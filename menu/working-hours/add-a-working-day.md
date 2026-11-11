@@ -4,8 +4,6 @@ description: "Define the working hours of a day."
 
 # Add a Working Day
 
-Define the working hours of a day.
-
 ## Overview
 
 Add a working day to set the date and the hours of your morning and evening periods. The day then appears in your list of working days.

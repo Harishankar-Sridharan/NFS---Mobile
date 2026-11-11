@@ -4,8 +4,6 @@ description: "Exchange the time slots of two interventions of your agenda, and h
 
 # Swap Two Interventions
 
-Exchange the time slots of two interventions of your agenda, and handle the three possible answers of the back office.
-
 ## Overview
 
 You can swap two interventions of your agenda from the **Calendar**. The app asks the back office whether the swap is possible. There are three possible answers:

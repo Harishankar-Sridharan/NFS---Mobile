@@ -4,8 +4,6 @@ description: "Send the log file of the app to the back office, so that your supp
 
 # Send the App Logs
 
-Send the log file of the app to the back office, so that your support team can find the cause of a problem.
-
 ## Overview
 
 NFS Mobile keeps a log file of what the app does and of the errors that it meets. When you have a problem, you send this file to the back office, and your support team reads what happened before the error. It is a tool for diagnostics, not a feature for your daily work.

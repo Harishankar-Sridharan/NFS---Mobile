@@ -4,8 +4,6 @@ description: "Swipe an item to remove it from the intervention."
 
 # Remove an Item
 
-Swipe an item to remove it from the intervention.
-
 ## Overview
 
 You can remove an item that you added by mistake, or that you did not use. You now remove it with a swipe. Before, you had to press the item for a long time.

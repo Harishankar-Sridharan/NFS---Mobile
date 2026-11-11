@@ -4,8 +4,6 @@ description: "Complete the contact and technician details that the electronic si
 
 # Fill In the Required Fields for Electronic Signature
 
-Complete the contact and technician details that the electronic signature needs, before you sign securely.
-
 ## Overview
 
 The back office can create the electronic signature only when some fields are filled in, for the main contact of the customer and for the technician. NFS Mobile now checks these fields for you. Before, the app could only display the error **Unable to retrieve the electronic signature**. Now it tells you which fields are missing, and it opens the contact sheet so that you can fill them in.

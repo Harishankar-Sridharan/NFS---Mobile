@@ -4,8 +4,6 @@ description: "Open the files and the reports linked to an intervention, and refr
 
 # View the Documents of an Intervention
 
-Open the files and the reports linked to an intervention, and refresh the list.
-
 ## Overview
 
 The **Docs** icon of the intervention gives access to the documents linked to it, such as a stock file or the report of the intervention. A number on the icon shows how many documents there are.

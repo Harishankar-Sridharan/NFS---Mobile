@@ -4,8 +4,6 @@ description: "Ask for an unavailability, for a day to come or for a day in the p
 
 # Declare an Unavailability
 
-Ask for an unavailability, for a day to come or for a day in the past.
-
 ## Overview
 
 You can declare an unavailability for today and for the days to come. You can now also declare one for a **past day**. Your administrator decides how many days back you can go. In the example, it is 21 days, so on 5 February you can select a day from 15 January.

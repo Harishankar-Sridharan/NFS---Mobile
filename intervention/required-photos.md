@@ -4,8 +4,6 @@ description: "Take the minimum number of photos that your company requires befor
 
 # Take the Required Photos
 
-Take the minimum number of photos that your company requires before you finish an intervention.
-
 ## Overview
 
 Your company can require a minimum number of photos for each intervention. When it does, the **Photos** shortcut shows an alert, the **Photos/Videos** page shows how many photos you have taken out of the number required, and the app blocks the end of the intervention until you reach the minimum.

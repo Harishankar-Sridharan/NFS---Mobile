@@ -4,8 +4,6 @@ description: "Have the intervention signed when you finish it."
 
 # Sign an Intervention
 
-Have the intervention signed when you finish it.
-
 ## Overview
 
 When an intervention requires a signature, the **Sign intervention** page opens when you finish the intervention. It asks **How do you want to sign?** and offers two ways: **By hand** and **Securely**.

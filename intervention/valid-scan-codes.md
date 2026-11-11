@@ -4,8 +4,6 @@ description: "Know which scanned codes the app accepts for an item, and what hap
 
 # Accept Only Valid Scan Codes
 
-Know which scanned codes the app accepts for an item, and what happens when a code is rejected.
-
 ## Overview
 
 When you scan the serial number of an item, your company can limit the codes that the app accepts. The limit is a pattern that the code must match. A code that matches is recorded. A code that does not match is rejected, and the app displays **Unknown item**.

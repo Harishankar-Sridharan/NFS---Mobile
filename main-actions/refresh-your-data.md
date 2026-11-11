@@ -4,8 +4,6 @@ description: "Reload your interventions and documents so that you work with the 
 
 # Refresh Your Data
 
-Reload your interventions and documents so that you work with the latest information.
-
 ## Overview
 
 NFS Mobile keeps a copy of your data on the device. Your planner can change your interventions during the day. Refresh your data to get the latest version.

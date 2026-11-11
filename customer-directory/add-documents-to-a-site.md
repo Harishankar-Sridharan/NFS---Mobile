@@ -4,8 +4,6 @@ description: "Link documents, images and other files to a site."
 
 # Add Documents to a Site
 
-Link documents, images and other files to a site.
-
 ## Overview
 
 You can link files to a site, such as an invoice or a form. The files are sorted in three types: **Documents**, **Images** and **Miscellaneous**.

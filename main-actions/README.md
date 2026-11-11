@@ -4,8 +4,6 @@ description: "Use the main pages of NFS Mobile to manage your day in the field."
 
 # Main Actions
 
-Use the main pages of NFS Mobile to manage your day in the field.
-
 ## Overview
 
 Once you are logged in, the main pages of the app are available from the dashboard and from the navigation bar at the bottom of the screen.

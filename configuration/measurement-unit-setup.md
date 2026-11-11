@@ -4,8 +4,6 @@ description: "Choose whether NFS displays distances and speeds in kilometers or 
 
 # Measurement Unit Setup
 
-Choose whether NFS displays distances and speeds in kilometers or in miles.
-
 ## Overview
 
 The **metricMode** setting of the back office decides the unit of the estimated travel distance and time that NFS displays. NFS Mobile has its own **Measurement unit** choice, which each user sets in the app. See [Change the Measurement Unit](../main-actions/change-the-measurement-unit.md).

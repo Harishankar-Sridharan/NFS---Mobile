@@ -4,8 +4,6 @@ description: "Open the route to a site in your navigation app."
 
 # Get Directions to a Site
 
-Open the route to a site in your navigation app.
-
 ## Overview
 
 The site page has a directions button. It opens your navigation app with the site as destination, so you can drive to the customer.

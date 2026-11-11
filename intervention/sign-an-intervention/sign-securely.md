@@ -4,8 +4,6 @@ description: "Sign the document of the intervention electronically."
 
 # Sign Securely
 
-Sign the document of the intervention electronically.
-
 ## Overview
 
 The secure signature produces a signed report of the intervention. The signatory reads the document, then proves their identity with a code received by SMS and signs.

@@ -4,8 +4,6 @@ description: "Read the status of each intervention from the color of its marker 
 
 # Calendar Map Marker Colors
 
-Read the status of each intervention from the color of its marker on the map.
-
 ## Overview
 
 On the **Map** view of the calendar, each intervention is a numbered marker. Before, all the markers were blue. Now the color of a marker shows the status of the intervention, and it changes when the status changes.

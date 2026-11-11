@@ -4,8 +4,6 @@ description: "Limit the codes that the app accepts for the serial number of an i
 
 # Scan Code Rules Setup
 
-Limit the codes that the app accepts for the serial number of an item, with a regular expression.
-
 ## Overview
 
 The **scanControlRegex** setting holds a regular expression, which is a pattern. When a technician scans the serial number of an item, the app accepts the code only if its content matches the pattern. A code that does not match is rejected with **Unknown item**. See [Accept Only Valid Scan Codes](../intervention/valid-scan-codes.md).

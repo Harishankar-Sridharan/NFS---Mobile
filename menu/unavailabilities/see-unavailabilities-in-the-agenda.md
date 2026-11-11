@@ -4,8 +4,6 @@ description: "Find your unavailabilities, and your interventions, for the past d
 
 # See Your Unavailabilities in the Agenda
 
-Find your unavailabilities, and your interventions, for the past days that you can display.
-
 ## Overview
 
 The calendar now shows the past days up to the limit that your administrator sets. Before, you saw only today, the days to come and yesterday. In the example, the limit is 21 days, so you can display the days from 15 January on 5 February, with their interventions and unavailabilities.

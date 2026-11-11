@@ -4,8 +4,6 @@ description: "Require a minimum number of photos before a field user can finish 
 
 # Required Photos Setup
 
-Require a minimum number of photos before a field user can finish an intervention.
-
 ## Overview
 
 The **mandatoryMissionsPhotosNumber** setting does two things at once: it makes photos mandatory, and it sets the minimum number of photos. It works like the signature settings **workerMustSignMissions**, which make the signature mandatory. See [Signature Settings](signature-settings.md).

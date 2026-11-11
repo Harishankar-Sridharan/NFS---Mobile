@@ -4,8 +4,6 @@ description: "Display distances in kilometers or in miles across the app."
 
 # Change the Measurement Unit
 
-Display distances in kilometers or in miles across the app.
-
 ## Overview
 
 The **Measurement unit** setting lets you choose the unit of the distances that NFS Mobile displays. The default is **Km**. When you select **Miles**, every distance of the app is converted. This matches the same choice that exists in the back office.

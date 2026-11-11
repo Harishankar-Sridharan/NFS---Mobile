@@ -4,8 +4,6 @@ description: "Abandon an intervention that you cannot carry out."
 
 # Abandon an Intervention
 
-Abandon an intervention that you cannot carry out.
-
 ## Overview
 
 If you cannot carry out an intervention, you can abandon it. When you abandon an intervention, you decline all responsibility for its completion. You must give the reason in the abandon message. The status of the intervention changes to **Abandoned**.
