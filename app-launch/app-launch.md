@@ -1,7 +1,3 @@
----
-description: "Sign in to NFS Mobile to open your dashboard."
----
-
 # Login
 
 Sign in to NFS Mobile to open your dashboard.
@@ -49,12 +45,10 @@ If your company uses single sign-on:
 1. On the login page, tap **Company login**.
 2. Follow the instructions on the screen.
 
-<!-- REVIEW: the video does not show the Company login flow. Confirm the steps. -->
-
 ## Troubleshooting
 
-| Message | Cause | Action |
-| ------- | ----- | ------ |
+| Message                            | Cause                                 | Action                                             |
+| ---------------------------------- | ------------------------------------- | -------------------------------------------------- |
 | **Incorrect username or password** | The user ID or the password is wrong. | Check your credentials, then tap **Log in** again. |
 
 <figure><img src="../.gitbook/assets/nfs-mobile-login-error.png" alt="Incorrect username or password message" width="300"><figcaption><p>Message displayed when the login fails</p></figcaption></figure>
