@@ -24,6 +24,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Add Items to an Intervention](../intervention/add-items-to-an-intervention.md) | Intervention | Record the items that you use or sell during an intervention, and check their price. |
 | [Add Photos and Remarks](../intervention/photos-and-remarks.md) | Intervention | Add photos and remarks to an intervention in progress. |
 | [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md) | Customer Directory | Take a photo or select an image to illustrate a site. |
+| [Agenda Handling Setup](../configuration/agenda-handling-setup.md) | Mobile Configuration | Choose which extra fields of an appointment appear on the interventions of the agenda. |
 | [Agenda Position and Saved Day](../main-actions/calendar-agenda-position.md) | Main Actions | See the current time at once in your agenda, and return to the day that you were viewing. |
 | [App at a Glance](../app-at-a-glance.md) | Getting started | Find your way around NFS Mobile: the navigation bar, the menu, the shortcuts and the statuses. |
 | [App Launch](../README.md) | Getting started | Start the NFS Mobile app and sign in to your account. |
@@ -52,6 +53,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Choose the Unavailability Type by Group](../menu/unavailabilities/choose-the-unavailability-type-by-group.md) | Menu | Find the right type of unavailability faster, by picking its group first. |
 | [Clustered Markers on the Maps](../main-actions/map-clustering.md) | Main Actions | Read a crowded map: nearby markers are grouped into one numbered circle that opens as you zoom in. |
 | [Complete the Mandatory Survey Reports](../intervention/mandatory-survey-reports.md) | Intervention | Fill in the survey reports that your company requires before you can finish an intervention. |
+| [Correct Your Text with AI](../intervention/correct-your-text-with-ai.md) | Intervention | Correct and improve the text of a field with the AI text correction button, in tasks, remarks and reports. |
 | [Coworkers](../menu/coworkers/README.md) | Menu | See where your coworkers are, and control whether your own position is shared. |
 | [Create an Intervention](../intervention/create-an-intervention/README.md) | Intervention | Create a new intervention on the spot, from the Intervention page. |
 | [Create an Intervention for a Site](../customer-directory/create-an-intervention-for-a-site.md) | Customer Directory | Create a new intervention for the site that you are viewing. |
@@ -71,6 +73,7 @@ This page lists all the topics of the guide, with the section where each one is 
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
+| [Edit, Reset or Delete a Task](../intervention/edit-reset-or-delete-a-task.md) | Intervention | Write or change the comment of a task, mark it as completed, reset it, or delete it from the Tasks page. |
 | [Extra Item Fields Setup](../configuration/extra-item-fields-setup.md) | Mobile Configuration | Add extra fields to the items of an intervention, so that technicians can see and edit more information. |
 
 ## F
@@ -181,6 +184,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Scan Task Setup](../configuration/scan-task-setup.md) | Mobile Configuration | Create tasks that are completed by scanning a code, and tasks whose code is recorded by the first scan. |
 | [Scan the Mandatory Serial Numbers](../intervention/mandatory-serial-number.md) | Intervention | Scan the serial number of each item that your company marks as mandatory, before you finish the intervention. |
 | [Search Around Settings](../configuration/search-around-settings.md) | Mobile Configuration | Set the limits of the search around a position. |
+| [See Extra Fields in the Agenda](../main-actions/extra-fields-in-the-agenda.md) | Main Actions | See the extra fields of an appointment, such as dates and quantities, directly in the agenda. |
 | [See Your Unavailabilities in the Agenda](../menu/unavailabilities/see-unavailabilities-in-the-agenda.md) | Menu | Find your unavailabilities, and your interventions, for the past days that you can display. |
 | [Send the App Logs](../main-actions/send-app-logs.md) | Main Actions | Send the log file of the app to the back office, so that your support team can find the cause of a problem. |
 | [Send Your Location Logs](../main-actions/send-location-logs.md) | Main Actions | Send the file that records how your position was tracked, so that your support team can diagnose a problem. |

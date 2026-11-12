@@ -70,7 +70,7 @@ You can open a photo in full screen to check it.
 
 1. On the **Intervention** page, tap **Remarks**.
 2. In the **Remarks** page, enter your remarks in the text area.
-3. To correct the spelling of your text, tap **Correct the text**.
+3. To correct the spelling of your text, tap **Correct the text**. See [Correct Your Text with AI](correct-your-text-with-ai.md).
 4. To correct and improve your text, tap **Correct and improve the text**.
 5. To delete your text, tap **Erase all**.
 6. Tap the arrow button at the bottom of the screen to continue.

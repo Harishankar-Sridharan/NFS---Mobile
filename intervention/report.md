@@ -41,7 +41,7 @@ If you tap the arrow button before all mandatory fields are filled, the message 
 <figure><img src="../.gitbook/assets/nfs-mobile-intervention-report-filled.png" alt="Report page with the fields filled in" width="300"><figcaption><p>Report page with the fields filled in</p></figcaption></figure>
 
 {% hint style="info" %}
-Tap the **AB** button at the right of **Waybill notes** to correct the text of the field.
+Tap the **AB** button at the right of **Waybill notes** to correct the text of the field. See [Correct Your Text with AI](correct-your-text-with-ai.md).
 {% endhint %}
 
 <!-- REVIEW: the fields in the report (Filler, Extra filler, Quantity) are configured by your company. Confirm the real names of the fields and which ones are mandatory. Also confirm the function of the AB button. -->

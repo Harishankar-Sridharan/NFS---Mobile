@@ -60,6 +60,7 @@ The app does not check the content of the code. It records exactly what it reads
 
 ## Related topics
 
+* [Edit, Reset or Delete a Task](edit-reset-or-delete-a-task.md)
 * [Keep the Task Comment When You Scan by Hand](task-comment-and-manual-scan.md)
 * [Start an Intervention](start-an-intervention.md)
 * [Scan or Enter a Serial Number](scan-a-serial-number.md)

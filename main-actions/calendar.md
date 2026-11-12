@@ -118,7 +118,7 @@ On the map, you can also:
 
 ### Display
 
-For the **Week** display, see [Week View of the Calendar](calendar-week-view.md).
+For the **Week** display, see [Week View of the Calendar](calendar-week-view.md). To see extra fields on the cards, see [See Extra Fields in the Agenda](extra-fields-in-the-agenda.md).
 
 In **Display**, choose how the agenda is shown. The selected option is highlighted in dark blue.
 

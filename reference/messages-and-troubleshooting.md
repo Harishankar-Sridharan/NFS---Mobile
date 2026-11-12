@@ -48,6 +48,7 @@ The app displays messages when a step is blocked, when it is working, and when t
 | Message | What it means | What to do |
 | ------- | ------------- | ---------- |
 | **You are offline. No interaction will be lost** | Your device has no network. The app keeps your work. | Keep working. The data is sent when the network is back. See [Fill In Survey Forms Offline](../intervention/fill-in-forms-offline.md). |
+| **Awaiting network connection. Data synchronization will occur on the next available connection.** | You tapped the AB button without a network. The app waits to correct the text. | Keep working. The text is corrected when the network is back. See [Correct Your Text with AI](../intervention/correct-your-text-with-ai.md). |
 | **Waiting for a network connection** | The app kept your action and waits for the network. | Connect your device, then synchronize your data. See [Refresh Your Data](../main-actions/refresh-your-data.md). |
 | **Request failed** | The app could not send the file, or a refresh found nothing new. | Try again later. See [Send Your Location Logs](../main-actions/send-location-logs.md) and [Restart an Abandoned Intervention](../intervention/restart-an-abandoned-intervention.md). |
 | **Intervention swap in progress – Please wait** | The app is waiting for the answer of the back office about a swap. | Wait. See [Swap Two Interventions](../main-actions/swap-interventions.md). |

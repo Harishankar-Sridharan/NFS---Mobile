@@ -15,6 +15,7 @@ These topics describe the settings that change what the agenda shows and what a 
 | [Swap Setup](swap-interventions-setup.md) | Allow field users to swap two interventions of their agenda. |
 | [Automatic Suggestion Setup](automatic-suggestion-setup.md) | Turn on the geofencing that lets the app suggest the next intervention near the technician. |
 | [Hotel Nights Setup](hotel-nights-setup.md) | Assign a hotel to a technician for a period, and choose whether the app shows the rest periods and hotel nights. |
+| [Agenda Handling Setup](agenda-handling-setup.md) | Choose which extra fields of an appointment appear on the interventions of the agenda. |
 | [Unavailability Days Setup](unavailability-days-setup.md) | Allow field users to declare unavailabilities, and set how many days in the past they can go back. |
 | [Unavailability Groups Setup](unavailability-groups-setup.md) | Group the unavailability types, so that users pick a group before the type. |
 

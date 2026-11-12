@@ -13,6 +13,7 @@ These topics cover everything that you record or read during an intervention: th
 | Topic | Description |
 | ----- | ----------- |
 | [Fill in the Report](report.md) | Fill in the report of an intervention in progress. |
+| [Correct Your Text with AI](correct-your-text-with-ai.md) | Correct and improve the text of a field with the AI text correction button, in tasks, remarks and reports. |
 | [Add and Delete a Report During an Intervention](add-a-report.md) | Add another report to an intervention, fill it in, and delete it if you added it by mistake. |
 | [Complete the Mandatory Survey Reports](mandatory-survey-reports.md) | Fill in the survey reports that your company requires before you can finish an intervention. |
 | [Add Files and Signatures to a Survey Report](add-files-to-a-survey-report.md) | Add photos, videos, documents and signatures to the fields of a survey report. |

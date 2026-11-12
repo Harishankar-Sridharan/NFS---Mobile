@@ -25,6 +25,7 @@ This section covers:
 | ----- | ----------- |
 | [Start an Intervention](start-an-intervention.md) | Open an accepted intervention, check its details and start it. |
 | [Keep the Task Comment When You Scan by Hand](task-comment-and-manual-scan.md) | Create a task in the app and give the reason of a manual scan. |
+| [Edit, Reset or Delete a Task](edit-reset-or-delete-a-task.md) | Change the comment of a task, reset it or delete it. |
 | [Scan a Task Code](scan-a-task-code.md) | Complete a task by scanning its code. |
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |
@@ -42,6 +43,7 @@ This section covers:
 | [Add and Delete a Report During an Intervention](add-a-report.md) | Add another report to the intervention, or delete one that you added. |
 | [Complete the Mandatory Survey Reports](mandatory-survey-reports.md) | Complete the survey reports that your company requires before you finish. |
 | [Add Files and Signatures to a Survey Report](add-files-to-a-survey-report.md) | Add photos, videos, documents and signatures to a survey report. |
+| [Correct Your Text with AI](correct-your-text-with-ai.md) | Correct and improve the text of a field with the AB button. |
 | [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Fill in survey forms before the start and without a network. |
 | [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
 | [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |

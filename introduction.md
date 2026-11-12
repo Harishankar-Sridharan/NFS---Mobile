@@ -71,6 +71,7 @@ See also [Main Actions](main-actions/README.md).
 | Return to the day that I was viewing | [Agenda Position and Saved Day](main-actions/calendar-agenda-position.md) |
 | Read the status of an intervention on the map | [Calendar Map Marker Colors](main-actions/calendar-map-marker-colors.md) |
 | Read five days at once in my agenda | [Week View of the Calendar](main-actions/calendar-week-view.md) |
+| See extra fields on the interventions of my agenda | [See Extra Fields in the Agenda](main-actions/extra-fields-in-the-agenda.md) |
 | Read a crowded map | [Clustered Markers on the Maps](main-actions/map-clustering.md) |
 | Work on several interventions of the same customer | [Grouped Interventions](main-actions/grouped-interventions.md) |
 | See my hotel nights | [Hotel Nights in the Calendar](main-actions/calendar-hotel-nights.md) |
@@ -100,6 +101,7 @@ See also [Intervention](intervention/README.md) and [Run an Intervention](interv
 | ------------ | ----- |
 | Start an intervention | [Start an Intervention](intervention/start-an-intervention.md) |
 | Complete a task by scanning its code | [Scan a Task Code](intervention/scan-a-task-code.md) |
+| Change the comment of a task, reset it or delete it | [Edit, Reset or Delete a Task](intervention/edit-reset-or-delete-a-task.md) |
 | Create a task, or give the reason of a manual scan | [Keep the Task Comment When You Scan by Hand](intervention/task-comment-and-manual-scan.md) |
 | Finish an intervention | [Finish an Intervention](intervention/finish-an-intervention.md) |
 | Cancel an intervention that I started | [Cancel an Intervention](intervention/cancel-an-intervention.md) |
@@ -115,6 +117,7 @@ See also [Reports, Photos and Documents](intervention/reports-photos-and-documen
 | I want to... | Go to |
 | ------------ | ----- |
 | Fill in the report | [Fill in the Report](intervention/report.md) |
+| Correct and improve my text with the AB button | [Correct Your Text with AI](intervention/correct-your-text-with-ai.md) |
 | Add another report, or delete one that I added | [Add and Delete a Report During an Intervention](intervention/add-a-report.md) |
 | Complete the reports that are mandatory | [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md) |
 | Add photos, videos, documents or a signature to a survey report | [Add Files and Signatures to a Survey Report](intervention/add-files-to-a-survey-report.md) |
@@ -198,6 +201,7 @@ See also [Mobile Configuration](configuration/README.md).
 | Make the serial number of items mandatory | [Mandatory Serial Number Setup](configuration/mandatory-serial-number-setup.md) |
 | Limit the codes that a scan accepts | [Scan Code Rules Setup](configuration/scan-code-rules-setup.md) |
 | Add extra fields to the items | [Extra Item Fields Setup](configuration/extra-item-fields-setup.md) |
+| Choose which extra fields appear on the agenda | [Agenda Handling Setup](configuration/agenda-handling-setup.md), in [Planning and Unavailability Settings](configuration/planning-and-unavailability-settings.md) |
 | Assign a hotel and show the rests | [Hotel Nights Setup](configuration/hotel-nights-setup.md), in [Planning and Unavailability Settings](configuration/planning-and-unavailability-settings.md) |
 | Allow users to swap two interventions | [Swap Setup](configuration/swap-interventions-setup.md) |
 | Let the app suggest the next intervention near the technician | [Automatic Suggestion Setup](configuration/automatic-suggestion-setup.md) |

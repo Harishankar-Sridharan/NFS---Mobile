@@ -36,6 +36,8 @@ The reason used to replace the comment of the task. Now your administrator can k
 
 <figure><img src="../.gitbook/assets/nfs-mobile-taskcomment-tasks.png" alt="Tasks page" width="300"><figcaption><p>Tasks page with the new task</p></figcaption></figure>
 
+To change the comment of a task later, see [Edit, Reset or Delete a Task](edit-reset-or-delete-a-task.md).
+
 ## Complete a task by hand
 
 1. Tap **Begin** to start the intervention. If a task is not complete, the app asks you to scan it.

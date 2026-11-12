@@ -12,11 +12,13 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 
 | Term | Meaning |
 | ---- | ------- |
+| **AB button** | The button that corrects and improves the text of a field. See [Correct Your Text with AI](../intervention/correct-your-text-with-ai.md). |
 | **Abandoned** | The status of an intervention that you declined to carry out. It can be started again if the back office sends it back to the app. See [Abandon an Intervention](../intervention/abandon-an-intervention.md) and [Restart an Abandoned Intervention](../intervention/restart-an-abandoned-intervention.md). Administrators: see [Abandoned Missions Setup](../configuration/abandoned-missions-setup.md). |
 | **Accepted** | The status of an intervention that you confirmed. It is ready to start. See [Calendar](../main-actions/calendar.md#accept-an-intervention). |
 | **Access an intervention** | A calendar action that opens the camera. When you scan the code of an intervention, the app opens it. See [Open an Intervention with a Scan](../main-actions/open-an-intervention-with-a-scan.md). Administrators: see [Intervention Scan Code Setup](../configuration/intervention-scan-code-setup.md). |
 | **Added report** | A report that you added yourself during an intervention. You can delete it until it is submitted. See [Add and Delete a Report During an Intervention](../intervention/add-a-report.md). |
 | **Agenda** | Your schedule of interventions, rests, lunch breaks and unavailabilities. It is displayed on the **Calendar** page. See [Calendar](../main-actions/calendar.md). |
+| **Agenda fields** | The extra fields of an appointment, such as dates and quantities, that appear on the interventions of the agenda. See [See Extra Fields in the Agenda](../main-actions/extra-fields-in-the-agenda.md). Administrators: see [Agenda Handling Setup](../configuration/agenda-handling-setup.md). |
 | **App log** | The file that records what the app does and the errors that it meets. You send it on demand, for diagnostics. See [Send the App Logs](../main-actions/send-app-logs.md). Administrators: see [App Logs Setup](../configuration/app-logs-setup.md). |
 | **Avatar** | The round picture of your profile, in the **Menu** and on the dashboard. See [Change My Avatar](../menu/change-my-avatar.md). |
 | **Back office** | The web application of NFS, where planners work and where administrators set up the app. See [Mobile Configuration](../configuration/README.md). |
@@ -78,6 +80,7 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 | **Request a slot** | To ask the system to find the best slot for a new intervention. See [Request a Slot](../intervention/create-an-intervention/request-a-slot.md). |
 | **Required photos** | The minimum number of photos that your company requires before you can finish an intervention. See [Take the Required Photos](../intervention/required-photos.md). Administrators: see [Required Photos Setup](../configuration/required-photos-setup.md). |
 | **Reschedule** | To move an intervention to another date and time. See [Reschedule an Intervention](../intervention/reschedule-an-intervention.md). |
+| **Reset a task** | To make a completed task not completed again, with a swipe to the left. See [Edit, Reset or Delete a Task](../intervention/edit-reset-or-delete-a-task.md). |
 | **Rest** | A period of your agenda when you do not work. See [Calendar](../main-actions/calendar.md#day-agenda). |
 | **Rolling log file** | The way that the app keeps a log: a current file and a previous file, each of a fixed size. See [Send the App Logs](../main-actions/send-app-logs.md). |
 | **Saved day** | The day that the calendar shows again when you come back from an intervention. See [Agenda Position and Saved Day](../main-actions/calendar-agenda-position.md). |
@@ -96,7 +99,7 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 | **Survey report** | A report made of a form with several questions. See [Fill In Survey Forms Offline](../intervention/fill-in-forms-offline.md) and [Add Files and Signatures to a Survey Report](../intervention/add-files-to-a-survey-report.md). |
 | **Swap** | To exchange the time slots of two interventions of your agenda. The back office says whether it is possible, possible with a force, or impossible. See [Swap Two Interventions](../main-actions/swap-interventions.md). Administrators: see [Swap Setup](../configuration/swap-interventions-setup.md). |
 | **Synchronization** | The exchange of data between the app and NFS. See [Refresh Your Data](../main-actions/refresh-your-data.md). |
-| **Task** | A step that you complete during an intervention, before you accept it, before you start it or during it. See [Scan a Task Code](../intervention/scan-a-task-code.md). Administrators: see [Scan Task Setup](../configuration/scan-task-setup.md). See also [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md). |
+| **Task** | A step that you complete during an intervention, before you accept it, before you start it or during it. See [Scan a Task Code](../intervention/scan-a-task-code.md) and [Edit, Reset or Delete a Task](../intervention/edit-reset-or-delete-a-task.md). Administrators: see [Scan Task Setup](../configuration/scan-task-setup.md). See also [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md). |
 | **Task comment** | The comment of a task. A setting decides whether the reason of a manual scan replaces it. See [Keep the Task Comment When You Scan by Hand](../intervention/task-comment-and-manual-scan.md). |
 | **Typical week** | The hours that you usually work on each day of the week. See [Set Your Typical Week](../menu/working-hours/typical-week.md). |
 | **Unavailability** | A period when you are not available, for example a leave or a meeting. See [Unavailabilities](../menu/unavailabilities/README.md). Administrators: see [Unavailability Days Setup](../configuration/unavailability-days-setup.md). |
