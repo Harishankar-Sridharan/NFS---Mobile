@@ -55,6 +55,7 @@ If you refresh your data and the app shows **Request failed**, no new data may b
 
 ## Related topics
 
+* [Customized Appointment Button Labels](customized-button-labels.md)
 * [Abandon an Intervention](abandon-an-intervention.md)
 * [Start an Intervention](start-an-intervention.md)
 * [Abandoned Missions Setup](../configuration/abandoned-missions-setup.md)

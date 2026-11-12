@@ -51,6 +51,7 @@ To refresh all your data, see [Refresh Your Data](../main-actions/refresh-your-d
 
 ## Related topics
 
+* [Scan a Document](scan-a-document.md)
 * [Sign an Intervention](sign-an-intervention/README.md)
 * [Sign by Hand](sign-an-intervention/sign-by-hand.md)
 * [Sign Securely](sign-an-intervention/sign-securely.md)

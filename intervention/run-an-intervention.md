@@ -20,6 +20,7 @@ These topics follow the life of an intervention in the app. You start it, comple
 | [Cancel an Intervention](cancel-an-intervention.md) | Cancel an intervention that you have started and return it to the accepted state. |
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an intervention that you cannot carry out. |
 | [Restart an Abandoned Intervention](restart-an-abandoned-intervention.md) | Start again an intervention that was abandoned. |
+| [Customized Appointment Button Labels](customized-button-labels.md) | Read the buttons of an intervention with the labels that your company chose. |
 
 ## Related topics
 

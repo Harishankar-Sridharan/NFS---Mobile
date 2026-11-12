@@ -107,6 +107,7 @@ See also [Intervention](intervention/README.md) and [Run an Intervention](interv
 | Cancel an intervention that I started | [Cancel an Intervention](intervention/cancel-an-intervention.md) |
 | Abandon an intervention that I cannot carry out | [Abandon an Intervention](intervention/abandon-an-intervention.md) |
 | Start an abandoned intervention again | [Restart an Abandoned Intervention](intervention/restart-an-abandoned-intervention.md) |
+| Read the buttons with my company's labels | [Customized Appointment Button Labels](intervention/customized-button-labels.md) |
 | Create an intervention on the spot | [Create an Intervention](intervention/create-an-intervention/README.md), with [Choose the Site](intervention/create-an-intervention/choose-the-site.md), [Intervene Now](intervention/create-an-intervention/intervene-now.md) and [Request a Slot](intervention/create-an-intervention/request-a-slot.md) |
 | Move an intervention to another date | [Reschedule an Intervention](intervention/reschedule-an-intervention.md) |
 
@@ -126,6 +127,7 @@ See also [Reports, Photos and Documents](intervention/reports-photos-and-documen
 | Draw or write on a photo | [Draw on a Photo](intervention/draw-on-a-photo.md) |
 | Take the minimum number of photos | [Take the Required Photos](intervention/required-photos.md) |
 | Open the documents of an intervention | [View the Documents of an Intervention](intervention/documents.md) |
+| Scan a paper document as a PDF or a JPEG file | [Scan a Document](intervention/scan-a-document.md) |
 
 ### Have an intervention signed
 
@@ -195,6 +197,7 @@ See also [Mobile Configuration](configuration/README.md).
 | Choose how abandoned interventions are handled | [Abandoned Missions Setup](configuration/abandoned-missions-setup.md) |
 | Create tasks that are completed by a scan | [Scan Task Setup](configuration/scan-task-setup.md) |
 | Choose where the reason of a manual scan is saved | [Task Comment Setup](configuration/task-comment-setup.md) |
+| Rename the buttons of an intervention | [Button Labels Setup](configuration/button-labels-setup.md) |
 | Give an appointment a code that users can scan | [Intervention Scan Code Setup](configuration/intervention-scan-code-setup.md) |
 | Set the products and the price calculation | [Price Calculation Setup](configuration/price-calculation-setup.md), in [Item and Price Settings](configuration/item-and-price-settings.md) |
 | Choose where the serial number is stored | [Serial Number Setup](configuration/serial-number-setup.md) |

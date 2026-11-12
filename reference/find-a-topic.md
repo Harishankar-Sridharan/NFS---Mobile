@@ -38,6 +38,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
 | [Browse the Sites List](../customer-directory/browse-the-sites-list.md) | Customer Directory | Read the list of sites and open the site you need. |
+| [Button Labels Setup](../configuration/button-labels-setup.md) | Mobile Configuration | Rename the buttons of an intervention, in English, French and Italian, with the label keys of the mobile properties. |
 
 ## C
 
@@ -58,6 +59,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Create an Intervention](../intervention/create-an-intervention/README.md) | Intervention | Create a new intervention on the spot, from the Intervention page. |
 | [Create an Intervention for a Site](../customer-directory/create-an-intervention-for-a-site.md) | Customer Directory | Create a new intervention for the site that you are viewing. |
 | [Customer Directory](../customer-directory/README.md) | Field user guide | Find your customers' sites, check their details and act on them from the field. |
+| [Customized Appointment Button Labels](../intervention/customized-button-labels.md) | Intervention | Read the buttons of an intervention with the labels that your company chose, in your language. |
 
 ## D
 
@@ -178,6 +180,7 @@ This page lists all the topics of the guide, with the section where each one is 
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
+| [Scan a Document](../intervention/scan-a-document.md) | Intervention | Scan a paper document with the camera, improve it, and save it as a PDF or a JPEG file in the documents of the intervention. |
 | [Scan a Task Code](../intervention/scan-a-task-code.md) | Intervention | Complete a task by scanning its code, including a task whose code is recorded when you scan it. |
 | [Scan Code Rules Setup](../configuration/scan-code-rules-setup.md) | Mobile Configuration | Limit the codes that the app accepts for the serial number of an item, with a regular expression. |
 | [Scan or Enter a Serial Number](../intervention/scan-a-serial-number.md) | Intervention | Link a barcode or QR code, or a number you type, to an item of the intervention. |

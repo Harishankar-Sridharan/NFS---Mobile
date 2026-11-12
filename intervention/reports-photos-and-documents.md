@@ -22,6 +22,7 @@ These topics cover everything that you record or read during an intervention: th
 | [Draw on a Photo](draw-on-a-photo.md) | Draw, write or add shapes on a photo of an intervention. |
 | [Take the Required Photos](required-photos.md) | Take the minimum number of photos that your company requires before you finish an intervention. |
 | [View the Documents of an Intervention](documents.md) | Open the files and the reports linked to an intervention, and refresh the list. |
+| [Scan a Document](scan-a-document.md) | Scan a paper document with the camera, improve it, and save it as a PDF or a JPEG file. |
 
 ## Related topics
 

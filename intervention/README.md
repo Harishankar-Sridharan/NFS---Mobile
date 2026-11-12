@@ -34,6 +34,7 @@ This section covers:
 | [Cancel an Intervention](cancel-an-intervention.md) | Cancel an intervention in progress and return it to the accepted state. |
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |
 | [Restart an Abandoned Intervention](restart-an-abandoned-intervention.md) | Start again an intervention that was abandoned. |
+| [Customized Appointment Button Labels](customized-button-labels.md) | Read the buttons of an intervention with the labels that your company chose. |
 | [Take the Required Photos](required-photos.md) | Take the minimum number of photos required before you finish. |
 | [Create an Intervention](create-an-intervention/README.md) | Create a new intervention and start it immediately. |
 | [Reschedule an Intervention](reschedule-an-intervention.md) | Search for another slot and move the intervention. |
@@ -53,6 +54,7 @@ This section covers:
 | [Calculate the Price of the Items](calculate-item-prices.md) | Calculate the price of each item and the total, with the tax. |
 | [Remove an Item](remove-an-item.md) | Swipe an item to remove it. |
 | [View the Documents of an Intervention](documents.md) | Open the files linked to the intervention. |
+| [Scan a Document](scan-a-document.md) | Scan a paper document and save it as a PDF or a JPEG file. |
 
 ## Intervention statuses
 
