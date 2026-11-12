@@ -70,6 +70,7 @@
     * [Fill in the Report](intervention/report.md)
     * [Add and Delete a Report During an Intervention](intervention/add-a-report.md)
     * [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md)
+    * [Add Files and Signatures to a Survey Report](intervention/add-files-to-a-survey-report.md)
     * [Fill In Survey Forms Offline](intervention/fill-in-forms-offline.md)
     * [Add Photos and Remarks](intervention/photos-and-remarks.md)
     * [Draw on a Photo](intervention/draw-on-a-photo.md)

@@ -117,6 +117,7 @@ See also [Reports, Photos and Documents](intervention/reports-photos-and-documen
 | Fill in the report | [Fill in the Report](intervention/report.md) |
 | Add another report, or delete one that I added | [Add and Delete a Report During an Intervention](intervention/add-a-report.md) |
 | Complete the reports that are mandatory | [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md) |
+| Add photos, videos, documents or a signature to a survey report | [Add Files and Signatures to a Survey Report](intervention/add-files-to-a-survey-report.md) |
 | Fill in a survey form without a network | [Fill In Survey Forms Offline](intervention/fill-in-forms-offline.md) |
 | Add photos and remarks | [Add Photos and Remarks](intervention/photos-and-remarks.md) |
 | Draw or write on a photo | [Draw on a Photo](intervention/draw-on-a-photo.md) |

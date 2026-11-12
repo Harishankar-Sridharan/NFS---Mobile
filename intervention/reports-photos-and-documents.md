@@ -15,6 +15,7 @@ These topics cover everything that you record or read during an intervention: th
 | [Fill in the Report](report.md) | Fill in the report of an intervention in progress. |
 | [Add and Delete a Report During an Intervention](add-a-report.md) | Add another report to an intervention, fill it in, and delete it if you added it by mistake. |
 | [Complete the Mandatory Survey Reports](mandatory-survey-reports.md) | Fill in the survey reports that your company requires before you can finish an intervention. |
+| [Add Files and Signatures to a Survey Report](add-files-to-a-survey-report.md) | Add photos, videos, documents and signatures to the fields of a survey report. |
 | [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Open, fill in and update survey forms at any stage of the intervention, even when your device has no network. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to an intervention in progress. |
 | [Draw on a Photo](draw-on-a-photo.md) | Draw, write or add shapes on a photo of an intervention. |

@@ -33,6 +33,7 @@ The app displays messages when a step is blocked, when it is working, and when t
 | Message | What it means | What to do |
 | ------- | ------------- | ---------- |
 | **Insufficient quality** | The photo is too blurry, or does not meet the criteria. | Take the photo again. See [Add Photos and Remarks](../intervention/photos-and-remarks.md). |
+| **Review Images** | One or more images are too blurry. The page asks you to select the images to keep or remove. | Tap the bin to remove them, or the check mark to keep them. See [Add Files and Signatures to a Survey Report](../intervention/add-files-to-a-survey-report.md). |
 | **File exceeds maximum size** | The file is larger than the size that is allowed. | Choose a smaller file. See [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md) and [Change My Avatar](../menu/change-my-avatar.md). |
 
 ## Messages about a code

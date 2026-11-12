@@ -41,6 +41,7 @@ This section covers:
 | [View the Details of an Item](view-item-details.md) | Open the product sheet of an item. |
 | [Add and Delete a Report During an Intervention](add-a-report.md) | Add another report to the intervention, or delete one that you added. |
 | [Complete the Mandatory Survey Reports](mandatory-survey-reports.md) | Complete the survey reports that your company requires before you finish. |
+| [Add Files and Signatures to a Survey Report](add-files-to-a-survey-report.md) | Add photos, videos, documents and signatures to a survey report. |
 | [Fill In Survey Forms Offline](fill-in-forms-offline.md) | Fill in survey forms before the start and without a network. |
 | [Mandatory Fields and Drop-Down Lists on Items](mandatory-and-list-item-fields.md) | Choose a value in a list and fill in the mandatory fields of the items. |
 | [View and Edit the Extra Fields of an Item](edit-extra-item-fields.md) | See and update the extra fields that your company adds to an item. |

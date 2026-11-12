@@ -20,6 +20,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Add a Working Day](../menu/working-hours/add-a-working-day.md) | Menu | Define the working hours of a day. |
 | [Add and Delete a Report During an Intervention](../intervention/add-a-report.md) | Intervention | Add another report to an intervention, fill it in, and delete it if you added it by mistake. |
 | [Add Documents to a Site](../customer-directory/add-documents-to-a-site.md) | Customer Directory | Link documents, images and other files to a site. |
+| [Add Files and Signatures to a Survey Report](../intervention/add-files-to-a-survey-report.md) | Intervention | Add photos, videos, documents and signatures to the fields of a survey report, and send them when you complete the intervention. |
 | [Add Items to an Intervention](../intervention/add-items-to-an-intervention.md) | Intervention | Record the items that you use or sell during an intervention, and check their price. |
 | [Add Photos and Remarks](../intervention/photos-and-remarks.md) | Intervention | Add photos and remarks to an intervention in progress. |
 | [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md) | Customer Directory | Take a photo or select an image to illustrate a site. |
