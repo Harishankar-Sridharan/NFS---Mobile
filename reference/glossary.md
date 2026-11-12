@@ -64,7 +64,8 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 | **Ongoing interventions** | The list of the interventions that you started. You open it from the **In progress** tab of the dashboard. See [View Your Ongoing Interventions](../main-actions/view-ongoing-interventions.md). |
 | **Optical code** | The barcode or the QR code of a scan task. See [Scan a Task Code](../intervention/scan-a-task-code.md). |
 | **Past days** | The days before today that the calendar can display, up to the limit that your administrator sets. See [See Your Unavailabilities in the Agenda](../menu/unavailabilities/see-unavailabilities-in-the-agenda.md). |
-| **Photo** | A picture that you add to an intervention or to a site. See [Add Photos and Remarks](../intervention/photos-and-remarks.md) and [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md). |
+| **Draw on a photo** | Add lines, shapes, arrows or text on a photo of an intervention. See [Draw on a Photo](../intervention/draw-on-a-photo.md). |
+| **Photo** | A picture that you add to an intervention or to a site. See [Add Photos and Remarks](../intervention/photos-and-remarks.md), [Draw on a Photo](../intervention/draw-on-a-photo.md) and [Add Photos to a Site](../customer-directory/add-photos-to-a-site.md). |
 | **Position** | Your current location, which you can send to your team. See [Send Your Position](../menu/coworkers/send-your-position.md). |
 | **Price calculation** | The calculation of the price of each item and of the total, with the tax. It starts when you tap the calculator button. See [Calculate the Price of the Items](../intervention/calculate-item-prices.md). Administrators: see [Price Calculation Setup](../configuration/price-calculation-setup.md). |
 | **Privacy mode** | A switch that stops the sharing of your position and hides the positions of your coworkers. See [Privacy Mode](../menu/coworkers/privacy-mode.md). |

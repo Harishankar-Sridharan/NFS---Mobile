@@ -72,6 +72,7 @@
     * [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md)
     * [Fill In Survey Forms Offline](intervention/fill-in-forms-offline.md)
     * [Add Photos and Remarks](intervention/photos-and-remarks.md)
+    * [Draw on a Photo](intervention/draw-on-a-photo.md)
     * [Take the Required Photos](intervention/required-photos.md)
     * [View the Documents of an Intervention](intervention/documents.md)
   * [Sign an Intervention](intervention/sign-an-intervention/README.md)

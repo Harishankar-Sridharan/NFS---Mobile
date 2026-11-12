@@ -64,6 +64,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Declare an Unavailability](../menu/unavailabilities/declare-an-unavailability.md) | Menu | Ask for an unavailability, for a day to come or for a day in the past. |
 | [Decline to Sign](../intervention/sign-an-intervention/decline-to-sign.md) | Intervention | Refuse to sign and explain why. |
 | [Delete a Working Day](../menu/working-hours/delete-a-working-day.md) | Menu | Remove the working hours of a day. |
+| [Draw on a Photo](../intervention/draw-on-a-photo.md) | Intervention | Draw, write or add shapes on a photo of an intervention before you save it. |
 
 ## E
 

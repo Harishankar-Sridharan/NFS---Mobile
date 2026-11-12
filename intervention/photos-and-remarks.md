@@ -31,7 +31,7 @@ On the **Photos/Videos** page, you can also:
 
 * Tap the middle button at the bottom of the screen to add a photo from your gallery.
 * Tap the red bin icon next to a photo to delete it.
-* Tap the pencil icon next to a photo to edit it.
+* Tap the pencil icon next to a photo to draw on it. See [Draw on a Photo](draw-on-a-photo.md).
 * Tap the arrow button to continue.
 * Tap the cross at the top right to close the page.
 
@@ -107,5 +107,6 @@ If your company requires a minimum number of photos, the **Photos** shortcut sho
 
 ## Related topics
 
+* [Draw on a Photo](draw-on-a-photo.md)
 * [Take the Required Photos](required-photos.md)
 * [Fill in the Report](report.md)

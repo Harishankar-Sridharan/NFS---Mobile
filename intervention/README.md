@@ -28,6 +28,7 @@ This section covers:
 | [Scan a Task Code](scan-a-task-code.md) | Complete a task by scanning its code. |
 | [Fill in the Report](report.md) | Fill in the report of the intervention. |
 | [Add Photos and Remarks](photos-and-remarks.md) | Add photos and remarks to the intervention. |
+| [Draw on a Photo](draw-on-a-photo.md) | Draw, write or add shapes on a photo. |
 | [Finish an Intervention](finish-an-intervention.md) | Finish the intervention and send your data. |
 | [Cancel an Intervention](cancel-an-intervention.md) | Cancel an intervention in progress and return it to the accepted state. |
 | [Abandon an Intervention](abandon-an-intervention.md) | Abandon an accepted intervention that you cannot carry out. |

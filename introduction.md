@@ -119,6 +119,7 @@ See also [Reports, Photos and Documents](intervention/reports-photos-and-documen
 | Complete the reports that are mandatory | [Complete the Mandatory Survey Reports](intervention/mandatory-survey-reports.md) |
 | Fill in a survey form without a network | [Fill In Survey Forms Offline](intervention/fill-in-forms-offline.md) |
 | Add photos and remarks | [Add Photos and Remarks](intervention/photos-and-remarks.md) |
+| Draw or write on a photo | [Draw on a Photo](intervention/draw-on-a-photo.md) |
 | Take the minimum number of photos | [Take the Required Photos](intervention/required-photos.md) |
 | Open the documents of an intervention | [View the Documents of an Intervention](intervention/documents.md) |
 
