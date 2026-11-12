@@ -45,7 +45,16 @@ The editor shows a toolbar at the top of the screen. From left to right it conta
 
 <figure><img src="../.gitbook/assets/nfs-mobile-drawphoto-menu.png" alt="Tool menu" width="300"><figcaption><p>Tool menu</p></figcaption></figure>
 
-3. To change the color, tap the color circle in the toolbar and pick a color.
+3. To change the color, see [Change the color](#change-the-color).
+
+## Change the color
+
+The color applies to lines, shapes and text. Choose a color that stands out from the photo, for example white or black on an orange background.
+
+1. Tap the color circle in the toolbar.
+2. Tap a color in the palette.
+
+<figure><img src="../.gitbook/assets/nfs-mobile-drawphoto-colors.png" alt="Color palette" width="300"><figcaption><p>Color palette</p></figcaption></figure>
 
 ## Draw a line or a shape
 
@@ -64,9 +73,10 @@ The editor shows a toolbar at the top of the screen. From left to right it conta
 <figure><img src="../.gitbook/assets/nfs-mobile-drawphoto-text.png" alt="Text entry on a photo" width="300"><figcaption><p>Text entry on a photo</p></figcaption></figure>
 
 4. To move the text, drag it on the photo.
+5. To change the color of a text, choose the color before you add the text.
 
 {% hint style="info" %}
-You cannot change the size of the text.
+You cannot change the size of the text. You can only move it.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/nfs-mobile-drawphoto-arrow.png" alt="Photo with a text and an arrow" width="300"><figcaption><p>Photo with a text and an arrow</p></figcaption></figure>
@@ -80,10 +90,11 @@ You cannot change the size of the text.
 
 1. Tap the save button at the bottom of the screen.
 2. The edited photo appears on the **Photos/Videos** page in place of the original.
+3. The edited photo is still available after you complete the intervention.
 
 <figure><img src="../.gitbook/assets/nfs-mobile-drawphoto-saved.png" alt="Edited photo in the list" width="300"><figcaption><p>Edited photo in the list</p></figcaption></figure>
 
-<!-- REVIEW: confirm that the edited photo replaces the original (not kept as a copy), the function of the brush and pencil buttons, and whether the edited photo is sent with the intervention. -->
+<!-- REVIEW: confirm that the edited photo replaces the original (not kept as a copy), the function of the brush and pencil buttons, and whether the edited photo is sent with the intervention, and whether the color applies to text added earlier. -->
 
 ## Next steps
 
