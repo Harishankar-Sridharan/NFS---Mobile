@@ -24,6 +24,7 @@ This section covers:
 | Topic | Description |
 | ----- | ----------- |
 | [Start an Intervention](start-an-intervention.md) | Open an accepted intervention, check its details and start it. |
+| [Record a Mission Travel](record-a-mission-travel.md) | Record the travel to an intervention, with its pauses, the distance and the time. |
 | [Keep the Task Comment When You Scan by Hand](task-comment-and-manual-scan.md) | Create a task in the app and give the reason of a manual scan. |
 | [Edit, Reset or Delete a Task](edit-reset-or-delete-a-task.md) | Change the comment of a task, reset it or delete it. |
 | [Scan a Task Code](scan-a-task-code.md) | Complete a task by scanning its code. |

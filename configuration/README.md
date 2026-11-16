@@ -42,6 +42,7 @@ This section covers:
 | [App Logs Setup](app-logs-setup.md) | Find the app logs that users send. |
 | [Task Comment Setup](task-comment-setup.md) | Choose where the reason of a manual scan is saved. |
 | [Button Labels Setup](button-labels-setup.md) | Rename the buttons of an intervention. |
+| [Mission Travel Setup](mission-travel-setup.md) | Let field users record their travel. |
 | [Hotel Nights Setup](hotel-nights-setup.md) | Assign a hotel to a technician and show the rests. |
 | [Agenda Handling Setup](agenda-handling-setup.md) | Choose which extra fields appear on the agenda. |
 | [Unavailability Groups Setup](unavailability-groups-setup.md) | Group the unavailability types so that users pick a group first. |

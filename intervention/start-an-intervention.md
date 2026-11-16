@@ -77,4 +77,5 @@ The **Additional information** section shows information such as the **Waybill n
 
 ## Related topics
 
+* [Record a Mission Travel](record-a-mission-travel.md)
 * [Calendar](../main-actions/calendar.md)

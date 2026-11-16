@@ -100,6 +100,7 @@ See also [Intervention](intervention/README.md) and [Run an Intervention](interv
 | I want to... | Go to |
 | ------------ | ----- |
 | Start an intervention | [Start an Intervention](intervention/start-an-intervention.md) |
+| Record my travel to an intervention | [Record a Mission Travel](intervention/record-a-mission-travel.md) |
 | Complete a task by scanning its code | [Scan a Task Code](intervention/scan-a-task-code.md) |
 | Change the comment of a task, reset it or delete it | [Edit, Reset or Delete a Task](intervention/edit-reset-or-delete-a-task.md) |
 | Create a task, or give the reason of a manual scan | [Keep the Task Comment When You Scan by Hand](intervention/task-comment-and-manual-scan.md) |
@@ -198,6 +199,7 @@ See also [Mobile Configuration](configuration/README.md).
 | Create tasks that are completed by a scan | [Scan Task Setup](configuration/scan-task-setup.md) |
 | Choose where the reason of a manual scan is saved | [Task Comment Setup](configuration/task-comment-setup.md) |
 | Rename the buttons of an intervention | [Button Labels Setup](configuration/button-labels-setup.md) |
+| Let users record their travel to an intervention | [Mission Travel Setup](configuration/mission-travel-setup.md) |
 | Give an appointment a code that users can scan | [Intervention Scan Code Setup](configuration/intervention-scan-code-setup.md) |
 | Set the products and the price calculation | [Price Calculation Setup](configuration/price-calculation-setup.md), in [Item and Price Settings](configuration/item-and-price-settings.md) |
 | Choose where the serial number is stored | [Serial Number Setup](configuration/serial-number-setup.md) |

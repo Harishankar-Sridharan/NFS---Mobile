@@ -139,6 +139,7 @@ This page lists all the topics of the guide, with the section where each one is 
 | [Measurement Unit Setup](../configuration/measurement-unit-setup.md) | Mobile Configuration | Choose whether NFS displays distances and speeds in kilometers or in miles. |
 | [Menu](../menu/README.md) | Field user guide | Open the menu of NFS Mobile to manage your working hours, read the version note and log out. |
 | [Messages and Troubleshooting](../reference/messages-and-troubleshooting.md) | Reference | Find what a message of the app means and what to do about it. |
+| [Mission Travel Setup](../configuration/mission-travel-setup.md) | Mobile Configuration | Turn on the recording of the travel to an intervention, so that field users see the Start travel button. |
 | [Mobile Configuration](../configuration/README.md) | Administrator guide | Configure NFS Mobile from the back office. |
 
 ## O
@@ -166,6 +167,7 @@ This page lists all the topics of the guide, with the section where each one is 
 
 | Topic | Section | What it covers |
 | ----- | ------- | -------------- |
+| [Record a Mission Travel](../intervention/record-a-mission-travel.md) | Intervention | Record the travel to an intervention: start it, pause it, resume it and end it, with the distance and the time travelled. |
 | [Refresh Your Data](../main-actions/refresh-your-data.md) | Main Actions | Reload your interventions and documents so that you work with the latest information. |
 | [Remarks Tab Setup](../configuration/remarks-tab-setup.md) | Mobile Configuration | Show or hide the Remarks shortcut on the intervention page of the app. |
 | [Remove an Item](../intervention/remove-an-item.md) | Intervention | Swipe an item to remove it from the intervention. |
